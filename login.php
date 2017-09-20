@@ -5,7 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Bootstrap 101 Template</title>
+    <title>Portal Cliente B2B - Máxima Sistemas</title>
+	<link rel="icon" href="img/favicon.png" />
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -22,11 +23,10 @@
     <![endif]-->
   </head>
   <body>
-	<!--  MENU SOCKET TOPO DE LIMITE DE CRÉDITO E LOGIN  -->
 	<div class="container-fluid">
 		
 	
-	<!--  CONTAINER PRINCIPAL  -->
+	<!--  Container principal  -->
 	<div class="row">
 			<div class="col-md-4">.</div>
 			<div class="col-md-4 text-center">
@@ -52,11 +52,11 @@
 			<div class="col-md-4">.</div>
 	</div>
 	
-	<!-- RODAPÉ -->
+	<!-- Footer -->
 	<div id="divFooter" class="row">
 		<div class="col-md-1">	
 		</div>
-		<div class="col-md-3">
+		<div class="col-md-3 text-center">
 			<h3>ONDE ESTAMOS</h3>
 			<span>
 			<strong class="text-center">Mato Grosso do Sul</strong><br>
@@ -67,7 +67,7 @@
 			Fax: (67) 3378-2001<br>
 			</span>
 		</div>
-		<div class="col-md-3">
+		<div class="col-md-3 text-center">
 			<h3>&nbsp;</h3>
 			<span>
 			<strong class="text-center">Mato Grosso</strong><br>
@@ -78,7 +78,7 @@
 			Fax: (65) 3688-3900<br>
 			</span>
 		</div>
-		<div class="col-md-4">
+		<div class="col-md-4 text-center">
 			<h3>FALE CONOSCO</h3>
 			<span>
 			De segunda à sexta<br>

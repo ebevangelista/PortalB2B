@@ -8,15 +8,6 @@ a{
 	cursor: pointer !important;
 }
 
-button{
-	background-color: #034077 !important;
-	font-weight: bold !important;
-}
-
-button:hover{
-	background-color: #175994 !important;
-}
-
 input[type=text], input[type=password] {
 	border-top: none !important;
 	border-right: none !important;
@@ -34,37 +25,145 @@ input[type=text], input[type=password] {
 
 /* CSS de componentes específicos como divs de login, cabeçalho, rodapé, etc*/
 
-#divLogin{
-	margin-top: 20px !important;
-	margin-bottom: 50px !important;
-	box-shadow: 0px 1px 2px #888888;
-	padding: 50px;
-}
+/*-------------------------------------------------*/
+/*--------  INÍCIO CSS DO TOPO DA TELA  -----------*/
 
-#divFooter{
-	background-color: #f5f5f5 !important;
-	padding-bottom: 30px !important;
-}
+	/* css do topo do site */
+	#divTopo{
+		background-color: #034077 !important;
+		vertical-align: middle;
+		min-height: 50px;
+		line-height: 50px;
+		color: #fff !important;
+	}
 
-#divFooter h1{
-	font-weight: 900 !important;
-}
+	#divTopo #btnMenuLogin{
+		color: #fff !important;
+	}
 
-#divFooter h3{
-	background-color: #f5f5f5 !important;
-	color: #034077 !important;
-	font-weight: bold !important;
-}
+	#divTopo #btnMenuLogin:hover{
+		text-decoration: none !important;
+	}
 
-#divFooter span{
-	font-size: 1.2em !important;
-}
+	/* css do menu do logotipo barra de pesquisa, carrinho e notificação*/
+	#divMenuLogotipo{
+		padding-top: 40px;
+		line-height: 50px;
+		vertical-align: middle;
+	}
 
-#divSocket{
-	background-color: #b9b9b9 !important;
-	padding: 15px 0px 15px 0px !important;
-	font-weight: 900 !important;
-	color: #fff !important;
-	font-size: 1.2em !important;
-}
+	#divMenuLogotipo #divImgLogotipo{
+		margin-top: -20px !important;
+	}
 
+	#divMenuLogotipo .form-group{
+		min-width: 100% !important;
+	}
+
+	#divMenuLogotipo #inputPesquisa{
+		background-color: #f4f4f4 !important;
+		border: 0px !important;
+		min-width: 100% !important;
+		margin-top: 5px !important;
+		height: 40px;
+	}
+
+	#divMenuLogotipo #btnPesquisa{
+		background-color: #f4f4f4 !important;
+		border: 0px !important;
+		height: 40px;
+	}
+
+	#divMenuLogotipo #btnCarrinho, #divMenuLogotipo #btnNotificacoes{
+		background-color: #f4f4f4 !important;
+		border: 0px !important;
+		height: 40px;
+		margin: 2px !important;
+		border-radius: 5px !important;
+	}
+
+	/* Div do menu principal de tela inicial, meus pedidos, etc */
+	#divMenuPrincipal{
+		margin-top: 20px !important;
+		box-shadow: 0px 2px 1px #c5c5c5 !important;
+	}
+
+	#divMenuPrincipal a{
+		padding-top: 20px !important;
+		border: 0px !important;
+		color: #9b9b9b !important;
+		font-weight: 900 !important;
+		font-size: 1.2em !important;
+		text-align: center !important;
+	}
+
+	#divMenuPrincipal a:hover{
+		background: none !important;
+		background-color: none !important;
+		color: #034077 !important; 
+	}
+
+	#divMenuPrincipal a.current{
+		border-bottom: solid 3px #034077 !important;
+	}
+/*--------  FIM CSS DO TOPO DA TELA  --------------*/
+/*-------------------------------------------------*/
+
+
+
+/*--------------------------------------------------*/
+/*--------  INÍCIO CSS DO CORPO DA TELA  -----------*/
+
+
+
+/*--------  FIM CSS DO CORPO DA TELA  -------------*/
+/*-------------------------------------------------*/
+
+
+
+/*--------------------------------------------------*/
+/*--------  INÍCIO CSS DO RODAPÉ DA TELA  -----------*/
+	#divLogin{
+		margin-top: 20px !important;
+		margin-bottom: 50px !important;
+		box-shadow: 0px 1px 2px #888888;
+		padding: 50px;
+	}
+
+	#divLogin button[type=submit]{
+		background-color: #034077 !important;
+		font-weight: bold !important;
+	}
+
+	#divLogin button[type=submit]:hover{
+		background-color: #175994 !important;
+	}
+
+	#divFooter{
+		background-color: #f5f5f5 !important;
+		padding-bottom: 30px !important;
+	}
+
+	#divFooter h1{
+		font-weight: 900 !important;
+	}
+
+	#divFooter h3{
+		background-color: #f5f5f5 !important;
+		color: #034077 !important;
+		font-weight: bold !important;
+	}
+
+	#divFooter span{
+		font-size: 1.2em !important;
+	}
+
+	#divSocket{
+		background-color: #b9b9b9 !important;
+		padding: 15px 0px 15px 0px !important;
+		font-weight: 900 !important;
+		color: #fff !important;
+		font-size: 1.2em !important;
+	}
+/*--------  FIM CSS DO RODAPÉ DA TELA  -------------*/
+/*-------------------------------------------------*/
