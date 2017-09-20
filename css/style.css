@@ -1,0 +1,70 @@
+body{
+	font-family: 'Dosis', sans-serif !important;
+	font-weight: 500;
+}
+
+a{
+	color: #034077 !important;
+	cursor: pointer !important;
+}
+
+button{
+	background-color: #034077 !important;
+	font-weight: bold !important;
+}
+
+button:hover{
+	background-color: #175994 !important;
+}
+
+input[type=text], input[type=password] {
+	border-top: none !important;
+	border-right: none !important;
+	border-left: none !important;
+	border-bottom: solid 1px #000 !important;
+	border-radius: 0px !important;
+	box-shadow: none !important;
+	font-size: 1.2em !important;
+	font-weight: bold !important;
+	background: none !important;
+}
+
+.checkbox input[type=checkbox]{
+}
+
+/* CSS de componentes específicos como divs de login, cabeçalho, rodapé, etc*/
+
+#divLogin{
+	margin-top: 20px !important;
+	margin-bottom: 50px !important;
+	box-shadow: 0px 1px 2px #888888;
+	padding: 50px;
+}
+
+#divFooter{
+	background-color: #f5f5f5 !important;
+	padding-bottom: 30px !important;
+}
+
+#divFooter h1{
+	font-weight: 900 !important;
+}
+
+#divFooter h3{
+	background-color: #f5f5f5 !important;
+	color: #034077 !important;
+	font-weight: bold !important;
+}
+
+#divFooter span{
+	font-size: 1.2em !important;
+}
+
+#divSocket{
+	background-color: #b9b9b9 !important;
+	padding: 15px 0px 15px 0px !important;
+	font-weight: 900 !important;
+	color: #fff !important;
+	font-size: 1.2em !important;
+}
+
