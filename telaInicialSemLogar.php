@@ -1,48 +1,13 @@
 <?php include 'header.php' ?>
-	
-	<!--  CONTAINER PRINCIPAL COM SIDEBAR E CONTEÚDO  -->
-	<div class="row">
-			<div class="col-md-1">.</div>
-			<div class="col-md-2">
-				<h2>DEPARTAMENTOS</h2>
-				<ul class="nav navbar-nav lateral-menu">
-					<li class="active"><a href="#">ABRASIVOS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">ACESSÓRIOS PARA BANHEIRO<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">ADESIVOSOS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">AGROPECUÁRIA E PET SHOP<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">ELÉTRICA<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">EPI-SEGURANÇA<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">FERRAGENS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">FERRAMENTAS ELÉTRICAS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">ABRASIVOS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">ACESSÓRIOS PARA BANHEIRO<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">ADESIVOSOS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">AGROPECUÁRIA E PET SHOP<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">ELÉTRICA<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">EPI-SEGURANÇA<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">FERRAGENS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">FERRAMENTAS ELÉTRICAS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li><li class="active"><a href="#">ABRASIVOS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">ACESSÓRIOS PARA BANHEIRO<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">ADESIVOSOS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">AGROPECUÁRIA E PET SHOP<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">ELÉTRICA<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">EPI-SEGURANÇA<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">FERRAGENS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">FERRAMENTAS ELÉTRICAS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>       <li class="active"><a href="#">ABRASIVOS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">ACESSÓRIOS PARA BANHEIRO<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">ADESIVOSOS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">AGROPECUÁRIA E PET SHOP<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">ELÉTRICA<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">EPI-SEGURANÇA<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">FERRAGENS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-					<li class="active"><a href="#">FERRAMENTAS ELÉTRICAS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>
-				  </ul>
-			</div>
-			<div class="col-md-8">
-				<h2>Produtos</h2>
-				<form class="form-inline">
-					<div class="dropdown">
-					  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+<?php include 'sidebar.php'?>
+			<div id="divConteudo" class="col-md-8">
+				<h2>
+				<button id="btnEncolheLateral" type="button" class="btn  btn-default btn-xs" data-toggle="collapse" data-target="#lateral">
+				<center><img src="img/icon/menu.png" width="20" height="20"></center></button>&nbsp;&nbsp;Produtos
+				</h2>
+				<div class="btn-group" role="group" aria-label="...">
+					<div class="btn-group dropdown" role="group">
+					  <button class="btn btn-default dropdown-toggle btnFiltro" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
 						FILIAL 1 - <strong>DISTRIBUIDORA LOPES MT</strong>
 						<span class="caret"></span>
 					  </button>
@@ -52,8 +17,8 @@
 					  </ul>
 					</div>
 					&nbsp;&nbsp;
-					<div class="dropdown">
-					  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+					<div class="btn-group dropdown" role="group">
+					  <button class="btn btn-default dropdown-toggle btnFiltro" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
 						MOSTRAR <strong>30 PRODUTOS POR PÁGINA</strong>
 						<span class="caret"></span>
 					  </button>
@@ -64,8 +29,8 @@
 					  </ul>
 					</div>
 					&nbsp;&nbsp;
-					<div class="dropdown">
-					  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+					<div class="btn-group dropdown" role="group">
+					  <button class="btn btn-default dropdown-toggle btnFiltro" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
 						CLASSIFICAR POR <strong>NOME</strong>
 						<span class="caret"></span>
 					  </button>
@@ -77,14 +42,14 @@
 					  </ul>
 					</div>
 					&nbsp;&nbsp;
-					<a class="btn btn-default btn-sm" href="#" id="navbarDropdownCarrinho" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<a class="btn btn-default btn-sm btn-group btnFiltro" role="group" href="#">
 					  <img class="text-center" src="img/icon/seta-sentido.png" height="20" width="20">
 					</a>
 					&nbsp;&nbsp;
-					<a class="btn btn-default btn-sm" href="#" id="navbarDropdownCarrinho" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<a class="btn btn-default btn-sm btn-group btnFiltro" role="group" href="#">
 					  <img class="text-center" src="img/icon/lista.png" height="20" width="20">&nbsp;&nbsp;LISTA
 					</a>
-				</form>
+				</div>
 			</div>
 			<div class="col-md-1">.</div>
 	</div>
@@ -96,10 +61,10 @@
 		<div class="col-md-2">
 			<h1>ACESSO RÁPIDO</h1>
 			<ul class="nav navbar-nav text-left">
-				<li class="active"><a href="#">Início</a></li>
-				<li class="active"><a href="#">Produtos</a></li>
-				<li class="active"><a href="#">Quem somos</a></li>
-				<li class="active"><a href="#">Fale conosco</a></li>
+				<li ><a href="#">Início</a></li>
+				<li ><a href="#">Produtos</a></li>
+				<li ><a href="#">Quem somos</a></li>
+				<li ><a href="#">Fale conosco</a></li>
 			</ul>
 		</div>
 		<div class="col-md-3">

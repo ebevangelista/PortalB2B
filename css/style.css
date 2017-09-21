@@ -27,7 +27,6 @@ input[type=text], input[type=password] {
 
 /*-------------------------------------------------*/
 /*--------  INÍCIO CSS DO TOPO DA TELA  -----------*/
-
 	/* css do topo do site */
 	#divTopo{
 		background-color: #034077 !important;
@@ -104,6 +103,7 @@ input[type=text], input[type=password] {
 	}
 
 	#divMenuPrincipal a.current{
+		color: #034077 !important; 
 		border-bottom: solid 3px #034077 !important;
 	}
 /*--------  FIM CSS DO TOPO DA TELA  --------------*/
@@ -112,12 +112,91 @@ input[type=text], input[type=password] {
 
 
 /*--------------------------------------------------*/
-/*--------  INÍCIO CSS DO CORPO DA TELA  -----------*/
+/*--------     INÍCIO CSS DA SIDEBAR     -----------*/
+#divSidebar{
+	background-image: url(../img/lateralBg.jpg) !important;
+    background-position: right top !important;
+    background-repeat: repeat-y !important;
+	margin-top: 2px !important;
+}
 
+#divSidebar .navbar-nav li{
+	min-width: 100% !important;
+}
 
+#divSidebar .navbar-nav img{
+	float: right !important;
+}
 
-/*--------  FIM CSS DO CORPO DA TELA  -------------*/
+#divSidebar h3{
+	font-weight: 900 !important;
+	color: #4a4a4a !important;
+}
+
+#divSidebar a{
+	font-weight: 900 !important;
+	color: #4a4a4a !important;
+}
+
+#divSidebar a:hover{
+	background-color: #f4f4f4 !important;
+}
+/*--------       FIM CSS DA SIDEBAR     -----------*/
 /*-------------------------------------------------*/
+
+
+
+/*--------------------------------------------------*/
+/*--------    INÍCIO CSS DO CONTEÚDO     -----------*/
+
+#divConteudo h2{
+	font-weight: 900 !important;
+	color: #034077 !important;
+}
+
+#divConteudo #btnEncolheLateral{
+	width: 30px !important;
+	height: 30px !important;
+	padding: 2px !important;
+	margin-bottom: 10px !important;
+	background: #f4f4f4 !important;
+	border: 0px !important;
+}
+
+#divConteudo .btnFiltro{
+	height: 35px !important;
+	background: #f4f4f4 !important;
+	border: 0px !important;
+	margin-right: 5px !important;
+	border-radius: 2px !important;
+	color: #9b9b9b !important;
+	font-weight: 900 !important;
+}
+
+#divConteudo .btnFiltro strong{
+	color: #4a4a4a !important;
+}
+
+#divConteudo .btnFiltro:hover{
+	opacity: 0.8 !important;
+}
+
+#divConteudo ul.dropdown-menu a{
+	color: #9b9b9b !important;
+	font-weight: 900 !important;
+}
+
+#divConteudo ul.dropdown-menu a strong{
+	color: #4a4a4a !important;
+}
+
+/*--------      FIM CSS DO CONTEÚDO     -----------*/
+/*-------------------------------------------------*/
+
+
+
+
+
 
 
 

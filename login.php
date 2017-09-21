@@ -35,8 +35,9 @@
 					  <img src="img/logotipo.jpg" alt="" class="img-rounded" width="270" height="97">
 					  <br>
 					  <br>
+					  <br>
 					  <div class="dropdown">
-						  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+						  <button class="btn btn-default dropdown-toggle btn-block" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
 							FILIAL 1 - <strong>DISTRIBUIDORA LOPES MT</strong>
 							<span class="caret"></span>
 						  </button>
@@ -45,6 +46,7 @@
 							<li><a href="#">FILIAL 2 - <strong>DISTRIBUIDORA LOPES MS</strong></a></li>
 						  </ul>
 						</div>
+						<br>
 					  <input type="text" class="form-control text-center" name="email" placeholder="E-mail" required="" /><br>
 					  <input type="password" class="form-control text-center" name="senha" placeholder="Senha" required="" />      
 					  <label class="checkbox">
@@ -52,6 +54,7 @@
 					  </label>
 					  <button class="btn btn-lg btn-primary btn-block" type="submit">ENTRAR</button>   
 					</form>
+
 					<br>
 					<a class="text-center">Esqueci a senha</a>
 					<br>
