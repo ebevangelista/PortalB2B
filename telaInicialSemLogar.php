@@ -50,62 +50,154 @@
 					  <img class="text-center" src="img/icon/lista.png" height="20" width="20">&nbsp;&nbsp;LISTA
 					</a>
 				</div>
+				
+				<div id="divProdutosGrid" class="row">
+					<div id="divProdutoGrid" class="col-md-3">
+						<a class="labelCaixa">
+							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+							<span class="text">EMB<BR>04 UN</span>
+						</a>
+						<center>
+						<a href="#">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+					</div>
+					
+					<div id="divProdutoGrid" class="col-md-3">
+						<center>
+						<a href="#">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+					</div>
+					
+					<div id="divProdutoGrid" class="col-md-3">
+						<a class="labelCaixa">
+							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+							<span class="text">EMB<BR>04 UN</span>
+						</a>
+						<center>
+						<a href="#">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+					</div>
+				</div>
+				
+				<div id="divProdutosGrid" class="row">
+					<div id="divProdutoGrid" class="col-md-3">
+						<a class="labelCaixa">
+							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+							<span class="text">EMB<BR>04 UN</span>
+						</a>
+						<center>
+						<a href="#">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+					</div>
+					
+					<div id="divProdutoGrid" class="col-md-3">
+						<center>
+						<a href="#">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+					</div>
+					
+					<div id="divProdutoGrid" class="col-md-3">
+						<a class="labelCaixa">
+							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+							<span class="text">EMB<BR>04 UN</span>
+						</a>
+						<center>
+						<a href="#">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+					</div>
+				</div>
+				
+				<div id="divProdutosGrid" class="row">
+					<div id="divProdutoGrid" class="col-md-3">
+						<a class="labelCaixa">
+							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+							<span class="text">EMB<BR>04 UN</span>
+						</a>
+						<center>
+						<a href="#">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+					</div>
+					
+					<div id="divProdutoGrid" class="col-md-3">
+						<center>
+						<a href="#">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+					</div>
+					
+					<div id="divProdutoGrid" class="col-md-3">
+						<a class="labelCaixa">
+							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+							<span class="text">EMB<BR>04 UN</span>
+						</a>
+						<center>
+						<a href="#">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+					</div>
+				</div>
+				
+				
+				<div class="row">
+					<div class="col-md-12 text-center">
+						<button id="btnCarregarMais" type="button" class="btn btn-primary btn-lg">CARREGAR MAIS PRODUTOS</button>
+					</div>
+				</div>
 			</div>
 			<div class="col-md-1">.</div>
-	</div>
 	
-	<!-- RODAPÉ -->
-	<div id="rodape" class="row">
-		<div class="col-md-1">	
-		</div>
-		<div class="col-md-2">
-			<h1>ACESSO RÁPIDO</h1>
-			<ul class="nav navbar-nav text-left">
-				<li ><a href="#">Início</a></li>
-				<li ><a href="#">Produtos</a></li>
-				<li ><a href="#">Quem somos</a></li>
-				<li ><a href="#">Fale conosco</a></li>
-			</ul>
-		</div>
-		<div class="col-md-3">
-			<h1>ONDE ESTAMOS</h1>
-			<strong class="text-center">Mato Grosso do Sul</strong><br>
-			Av. João Batista Fernandes, 1415<br>
-			Polo Empresarial Oeste<br>
-			Campo Grande - MS<br>
-			Fone: (67) 3378-2000<br>
-			Fax: (67) 3378-2001<br>
-		</div>
-		<div class="col-md-3">
-			<h1>&nbsp;</h1>
-			<strong class="text-center">Mato Grosso</strong><br>
-			R. Ipê Amarelo, QD 06 - LT 0<br>
-			Bairro Novo Mundo<br>
-			Várzea Grande - MT<br>
-			Fone: (65) 3688-3900<br>
-			Fax: (65) 3688-3900<br>
-		</div>
-		<div class="col-md-2">
-			<h1>Fale conosco</h1>
-			<span>
-			De segunda à sexta<br>
-			Das 08h às 18h<br>
-			<h3>(11) 4935-2344</h3><br>
-			compras@distlopes.com.br<br>
-			</span>
-		</div>	
-		<div class="col-md-1"></div>
-	</div>
+	
 		
-	<!-- SOCKET DO RODAPÉ -->
-	<div class="row">
-		<div class="col-md-12 text-center">
-		<img src="img/maxima.png" width="25" height="21">&nbsp;&nbsp;&nbsp;Máxima Sistemas, Versão 4.8.2.3 , Copyright © 2008-2017 Todos os direitos reservados.
-		</div>
-	</div>
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-  </body>
-</html>
+<?php include 'footer.php'?>
