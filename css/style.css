@@ -1,6 +1,27 @@
 body{
 	font-family: 'Dosis', sans-serif !important;
 	font-weight: 500;
+	color: #4a4a4a;
+}
+
+h1{
+	font-weight: 700;
+	color: #4a4a4a;
+}
+
+h2{
+	font-weight: 700;
+	color: #034077;
+	font-size: 1.3em !important;
+}
+
+label{
+	font-size: 1em;
+	color: #9b9b9b;
+}
+
+strong{
+	font-size: 1em;
 }
 
 a{
@@ -28,13 +49,14 @@ input[type=text], input[type=password] {
 .checkbox input[type=checkbox]{
 }
 
-.btnProdutoFull, #btnCarregarMais{
+.btnProdutoFull, #btnCarregarMais, .btnProdutoMini{
 	background-color: #034077 !important;
 }
 
-.btnProdutoFull:hover, #btnCarregarMais:hover{
+.btnProdutoFull:hover, #btnCarregarMais:hover, .btnProdutoMini:hover{
 	background-color: #084882 !important;
 }
+
 #btnCarregarMais{
 	font-weight: bolder !important;
 	padding-left: 40px !important;
@@ -277,7 +299,7 @@ input[type=text], input[type=password] {
 	opacity: 0.8 !important;
 }
 
-#divConteudo .btnFiltro, #divLogin .btnFiltro{
+.btnFiltro{
 	height: 35px !important;
 	background: #f4f4f4 !important;
 	border: 0px !important;
@@ -288,21 +310,21 @@ input[type=text], input[type=password] {
 	font-weight: 600 !important;
 }
 
-#divConteudo .btnFiltro strong, #divLogin .btnFiltro strong{
+.btnFiltro strong, .btnFiltro strong{
 	color: #4a4a4a !important;
 	font-weight: 700 !important;
 }
 
-#divConteudo .btnFiltro:hover, #divLogin .btnFiltro:hover{
+.btnFiltro:hover, .btnFiltro:hover{
 	opacity: 0.8 !important;
 }
 
-#divConteudo ul.dropdown-menu a, #divLogin ul.dropdown-menu a{
+.btnFiltro ul.dropdown-menu a, .btnFiltro ul.dropdown-menu a{
 	color: #9b9b9b !important;
 	font-weight: 600 !important;
 }
 
-#divConteudo ul.dropdown-menu a strong, #divLogin ul.dropdown-menu a strong{
+.btnFiltro ul.dropdown-menu a strong, .btnFiltro ul.dropdown-menu a strong{
 	color: #4a4a4a !important;
 }
 
@@ -415,10 +437,68 @@ input[type=text], input[type=password] {
 	font-size: 1.1em !important;
 }
 
+#divProdutoMini{
+    border: 1px solid #f1f1f1;
+    box-sizing: border-box;
+    padding: 10px ;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+    border-top: 4px solid #034077;
+    margin: 10px 7px 10px 7px !important;
+}
+
+#divProdutoMini a h4{
+    font-weight: 700 !important;
+	color: #4a4a4a !important;
+	font-size: 1em !important;
+}
+
+#divProdutoMini a:hover{
+    text-decoration: none !important;
+}
+
+#divProdutoMini small{
+    color: #9b9b9b !important;
+	font-weight: 600 !important;
+	font-size: 0.9em !important;
+}
+
+.btnProdutoMini{
+	margin-top: 10px !important;
+	font-size: 0.8em !important;
+}
+
 /*--------      FIM CSS DO CONTEÚDO     -----------*/
 /*-------------------------------------------------*/
 
 
+/*--------------------------------------------------*/
+/*--------    INÍCIO CSS DO PRODUTO INDIVIDUAL     -----------*/
+
+#divBreadcrumbs {
+	padding-top: 15px !important;
+	padding-bottom: 15px !important;
+	color: #9b9b9b !important;
+	font-size: 1.1em !important;
+}
+
+#divBreadcrumbs a {
+	color: #9b9b9b !important;
+	font-weight: 500 !important;
+}
+
+#divBreadcrumbs strong{
+	font-weight: 900 !important;
+	color: #4a4a4a !important;
+}
+
+#divBreadcrumbs .btnFiltro{
+	margin-top: 0px !important;
+}
+
+/*--------      FIM CSS DO PRODUTO INDIVIDUAL     -----------*/
+/*-------------------------------------------------*/
 
 /*--------------------------------------------------*/
 /*--------  INÍCIO CSS DO RODAPÉ DA TELA  -----------*/
