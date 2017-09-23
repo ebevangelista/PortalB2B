@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+<?php include 'headerSemLogar.php' ?>
 <?php include 'slider.php'?>
 <?php include 'sidebar.php'?>
 			<div id="divConteudo" class="col-md-8">
@@ -59,7 +59,7 @@
 							<span class="text">EMB<BR>04 UN</span>
 						</a>
 						<center>
-						<a href="#">
+						<a href="produtoIndividualSemLogar.php">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
 						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
 						<small>Qt. Disp: 9</small>						
@@ -247,4 +247,4 @@
 	
 	
 		
-<?php include 'footer.php'?>
+<?php include 'footerSemLogar.php'?>

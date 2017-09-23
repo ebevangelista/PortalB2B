@@ -32,7 +32,7 @@
 			<div class="col-md-1"></div>
 			<div class="col-md-3 text-center">LIMITE DE CRÉDITO: <strong>R$ 3.000,00</strong></div>
 			<div class="col-md-3 text-center">LIMITE DISPONÍVEL: <strong>R$ 1.538,97</strong></div>
-			<div class="col-md-2"></strong></div>
+			<div class="col-md-2"></div>
 			<div class="col-md-2 text-center">
 				<div class="dropdown">
 				  <a id="btnMenuLogin" class="dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
@@ -46,7 +46,7 @@
 					<li><a href="#">Notas fiscais</a></li>
 					<li><a href="#">Alterar senha</a></li>
 					<li role="separator" class="divider"></li>
-					<li><a href="#">Sair</a></li>
+					<li><a href="login.php">Sair</a></li>
 				  </ul>
 				</div>
 			</div>
@@ -78,7 +78,7 @@
 						<img src="img/icon/carrinho.png" alt="" class="img-rounded" width="15" height="15">
 					  </button>
 					  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-						<li><a href="#">Meus pedidos</a></li>
+						<li><a href="#">Não há itens no carrinho</a></li>
 					  </ul>
 					</div>
 					<div class="btn-group dropdown" role="group">
@@ -86,7 +86,7 @@
 					<img src="img/icon/notificacao.png" alt="" class="img-rounded" width="15" height="15">
 				  </button>
 				  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-					<li><a href="#">Notificações</a></li>
+					<li><a href="#">Não há novas notificações</a></li>
 				  </ul>
 				</div>
 				</div>
@@ -102,7 +102,7 @@
 			<div class="col-md-8">
 				<div class="btn-group btn-group-justified" role="group" aria-label="...">
 				  <div class="btn-group" role="group">
-					<a type="button" class="btn btn-default">INÍCIO</a>
+					<a href="telaInicialLogado.php" type="button" class="btn btn-default">INÍCIO</a>
 				  </div>
 				  <div class="btn-group" role="group">
 					<a type="button" class="btn btn-default current">PRODUTOS</a>

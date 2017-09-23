@@ -35,15 +35,20 @@ a{
 }
 
 input[type=text], input[type=password] {
-	border-top: none !important;
-	border-right: none !important;
-	border-left: none !important;
-	border-bottom: solid 1px #000 !important;
-	border-radius: 0px !important;
-	box-shadow: none !important;
-	font-size: 1.2em !important;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-bottom: solid 1px #000;
+	border-radius: 0px;
+	box-shadow: none;
+	font-size: 1.2em;
 	/*font-weight: bold !important;*/
-	background: none !important;
+	background: none;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+	outline: none !important;
+	box-shadow: none !important;
 }
 
 .checkbox input[type=checkbox]{
@@ -99,6 +104,10 @@ input[type=text], input[type=password] {
 	#divTopo #btnMenuLogin:hover{
 		text-decoration: none !important;
 		background-color: #084882 !important;
+	}
+	
+	#divTopo strong a{
+		color: #fff !important;
 	}
 
 	/* css do menu do logotipo barra de pesquisa, carrinho e notificação*/
@@ -382,7 +391,7 @@ input[type=text], input[type=password] {
     background-position: center;
 }
 
-#divProdutoGrid .inputQuantidade {
+.inputQuantidade {
     display: inline-block;
     width: 20px;
     height: 20px;
@@ -395,7 +404,7 @@ input[type=text], input[type=password] {
 	width: 124px !important;
 }
 
-#divProdutoGrid .inputQuantidadeCompra{
+.inputQuantidadeCompra{
 	width: 40px !important;
 	height: 40px!important;
 	float: none !important;
@@ -407,7 +416,7 @@ input[type=text], input[type=password] {
 	color: #3e3e3e !important;
 }
 
-#divProdutoGrid .btnMais, #divProdutoGrid .btnMenos{
+.btnMais, .btnMenos{
 	width: 40px !important;
 	height: 40px!important;
 	float: left !important;
@@ -419,7 +428,7 @@ input[type=text], input[type=password] {
 	color: #fff !important;
 }
 
-#divProdutoGrid .btnMais:hover, #divProdutoGrid .btnMenos:hover{
+.btnMais:hover, #divProdutoGrid .btnMenos:hover{
 	opacity: 0.8 !important;
 }
 
@@ -468,6 +477,21 @@ input[type=text], input[type=password] {
 	margin-top: 10px !important;
 	font-size: 0.8em !important;
 }
+
+.aFormasPagamento{
+	font-weight: 700 !important;
+	vertical-align: middle !important;
+	text-decoration: none !important;
+}
+
+#divPromocao{
+	color: #034077 !important;
+}
+
+#divPromocao strong{
+	color: #4a4a4a !important;
+}
+
 
 /*--------      FIM CSS DO CONTEÚDO     -----------*/
 /*-------------------------------------------------*/

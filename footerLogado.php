@@ -6,7 +6,7 @@
 		<div class="col-md-2 text-center">
 			<h3>ACESSO RÁPIDO</h3>
 			<ul class="nav nav-pills nav-stacked">
-				<li><a href="#">Início</a></li>
+				<li><a href="telaInicialLogado.php">Início</a></li>
 				<li><a href="#">Produtos</a></li>
 				<li><a href="#">Quem somos</a></li>
 				<li><a href="#">Fale conosco</a></li>

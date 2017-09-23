@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+<?php include 'headerSemLogar.php' ?>
 			
 	<div id="divBreadcrumbs" class="row">
 		<div class="col-md-1"></div>
@@ -117,8 +117,24 @@
 						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
 						</center>
 					</div>
+					
+					<div id="divProdutoGrid" class="col-md-2">
+						<a class="labelCaixa">
+							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+							<span class="text">EMB<BR>04 UN</span>
+						</a>
+						<center>
+						<a href="#">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+					</div>
 				</div>
 	</div>
 	</div>
 	<br>
-<?php include 'footer.php'?>
+<?php include 'footerSemLogar.php'?>
