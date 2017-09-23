@@ -1,7 +1,7 @@
 	<!--  CONTAINER PRINCIPAL COM SIDEBAR E CONTEÚDO  -->
 	<div class="row">
-			<div class="col-md-1">.</div>
-			<div id="divSidebar" class="col-md-3">
+			<div class="col-md-1"></div>
+			<div id="divSidebar" class="col-md-2">
 				<h3>DEPARTAMENTOS</h3>
 				<ul class="nav navbar-nav">
 					<li><a href="#">ABRASIVOS<img class="text-right" src="img/icon/seta-direita.png" width="15" height="15"></a></li>

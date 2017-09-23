@@ -36,12 +36,12 @@
 					  <br>
 					  <br>
 					  <br>
-					  <div class="dropdown">
-						  <button class="btn btn-default dropdown-toggle btn-block" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+					  <div class="dropdown text-center">
+						  <button class="btn btn-default dropdown-toggle btn-block btnFiltro text-center" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
 							FILIAL 1 - <strong>DISTRIBUIDORA LOPES MT</strong>
 							<span class="caret"></span>
 						  </button>
-						  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+						  <ul class="dropdown-menu text-center" aria-labelledby="dropdownMenu1">
 							<li><a href="#">FILIAL 1 - <strong>DISTRIBUIDORA LOPES MT</strong></a></li>
 							<li><a href="#">FILIAL 2 - <strong>DISTRIBUIDORA LOPES MS</strong></a></li>
 						  </ul>
