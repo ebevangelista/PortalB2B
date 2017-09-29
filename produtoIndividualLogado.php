@@ -17,29 +17,42 @@
 		<div class="col-md-1"></div>
 	</div>
 	
-	<div id="divBreadcrumbs" class="row">
-		<div class="col-md-3"></div>
-		<div class="col-md-6 text-center">
-			<div class="alert alert-success" role="alert">
-				<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				<strong>TUDO CERTO!</strong> O produto foi inserido no carrinho.
-			</div>
-			<div class="alert alert-info" role="alert">
-				<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				<strong>Atenção!</strong> Ajuste a quantidade inserida. <br>O produto só pode ser vendido em múltiplo de <strong>10 unidades</strong>.
-			</div>
-			<div class="alert alert-warning" role="alert">
-				<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				<strong>Atenção!</strong> Ajuste a quantidade inserida. <br>O produto só pode ser vendido em múltiplo de <strong>10 unidades</strong>.
-			</div>
-			<div class="alert alert-danger" role="alert">
-				<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				<strong>Atenção!</strong> Ajuste a quantidade inserida. <br>O produto só pode ser vendido em múltiplo de <strong>10 unidades</strong>.
-			</div>
+	<!-- Modal modalAtencaoMultiplo -->
+	<div class="modal fade" id="modalAtencaoMultiplo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	  <div class="modal-dialog" role="document">
+		<div class="modal-content">
+		  <div class="modal-header">
+			<h1 class="modal-title" id="myModalLabel">Atenção!</h1>
+		  </div>
+		  <div class="modal-body">
+			Este produto só pode ser vendido em múltiplos de 10 unidades!
+		  </div>
+		  <div class="modal-footer">
+			<button type="button" class="btn btn-default btnSecundario" data-toggle="modal" data-target="#modalSucessoInsercaoCarrinho">CONTINUAR COMPRANDO</button>
+		  </div>
 		</div>
-		<div class="col-md-3"></div>
+	  </div>
 	</div>
 	
+	<!-- Modal modalSucessoInsercaoCarrinho -->
+	<div class="modal fade" id="modalSucessoInsercaoCarrinho" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	  <div class="modal-dialog" role="document">
+		<div class="modal-content">
+		  <div class="modal-header">
+			<h1 class="modal-title" id="myModalLabel">Tudo certo!</h1>
+		  </div>
+		  <div class="modal-body">
+			Produto inserido no carrinho.
+		  </div>
+		  <div class="modal-footer">
+			<button type="button" class="btn btn-default btnSecundario">IR PARA O CARRINHO</button>
+			<button type="button" class="btn btn-primary btnProdutoFull" data-dismiss="modal">CONTINUAR COMPRANDO</button>
+		  </div>
+		</div>
+	  </div>
+	</div>
+	
+	<!-- Produto individual -->
 	<div class="row">
 		<div class="col-md-1"></div>
 		<div class="col-md-2 text-center">
@@ -110,7 +123,7 @@
 						<img class="text-center" src="img/icon/adicionarALista.png" height="20" width="20">&nbsp;&nbsp;ADICIONAR À LISTA</button>
 				</div>
 				<div class="col-md-6">
-					<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull">
+					<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull" data-toggle="modal" data-target="#modalAtencaoMultiplo">
 						<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;COMPRAR</button>
 				</div>
 			</div>
