@@ -98,7 +98,8 @@
 			<div class="row">
 				<div class="col-md-6 text-center">
 				<br>
-					<div class="input-group text-center inputGroupQuantidade">
+					<div class="text-center">
+					<div class="input-group inputGroupQuantidade">
 						  <span class="input-group-btn">
 							  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[1]">
 								  <span class="glyphicon glyphicon-minus"></span>
@@ -110,6 +111,7 @@
 								  <span class="glyphicon glyphicon-plus"></span>
 							  </button>
 						  </span>
+					</div>
 					</div>
 				</div>
 				<div class="col-md-6 text-center">
@@ -128,12 +130,13 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-md-2">
+		<div class="col-md-3">
 			<div class="row">
 					<div class="col-md-12 text-center">
 						<h2>Aproveite também</h2>
 					</div>
-					<div id="divProdutoMini" class="col-md-12">
+					<div class="col-md-12">
+						<div id="divProdutoMini" >
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="100" width="100">
@@ -152,182 +155,172 @@
 							</div>
 						</div>
 						</center>
+						</div>
 					</div>
 			</div>
 		</div>
+		<div class="col-md-1"></div>
 	</div>
 	<div class="row">
-	<div class="col-md-1"></div>
-	<div class="col-md-11">
-		<h2>Outras pessoas também compraram</h2>
-		<div class="row">
-					<div id="divProdutoGrid" class="col-md-2">
-						<a class="labelCaixa">
-							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
-							<span class="text">EMB<BR>04 UN</span>
-						</a>
-						<center>
-						<a href="#">
-						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+		<div class="col-md-1"></div>
+		<div class="col-md-10">
+			<h2>Outras pessoas também compraram</h2>
+			<div class="row">
+						<div class="col-md-3">
+							<div id="divProdutoGrid" >
+							<a class="labelCaixa">
+								<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+								<span class="text">EMB<BR>04 UN</span>
+							</a>
+							<center>
+							<a href="#">
+							<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+							<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+							
+							<small>Qt. Disp: 9</small>
+							
+							<h3><strong>R$ 250,08</strong></h3>
+							
+							<div class="input-group text-center inputGroupQuantidade">
+								  <span class="input-group-btn">
+									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[2]">
+										  <span class="glyphicon glyphicon-minus"></span>
+									  </button>
+								  </span>
+								  <input type="text" name="quant[2]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
+								  <span class="input-group-btn">
+									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[2]">
+										  <span class="glyphicon glyphicon-plus"></span>
+									  </button>
+								  </span>
+							  </div>
+							  <br>
+							<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull">
+							<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;COMPRAR</button>
+							
+							<button type="button" class="btn btn-primary btn-lg btn-block btnAdicionarALista btnSecundario">
+							<img class="text-center" src="img/icon/adicionarALista.png" height="20" width="20">&nbsp;&nbsp;ADICIONAR À LISTA</button>
+							</center>
+							</div>
+						</div>
 						
-						<small>Qt. Disp: 9</small>
+						<div class="col-md-3">
+							<div id="divProdutoGrid" >
+							<a class="labelCaixa">
+								<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+								<span class="text">EMB<BR>04 UN</span>
+							</a>
+							<center>
+							<a href="#">
+							<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+							<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+							
+							<small>Qt. Disp: 9</small>
+							
+							<h3><strong>R$ 250,08</strong></h3>
+							
+							<div class="input-group text-center inputGroupQuantidade">
+								  <span class="input-group-btn">
+									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[2]">
+										  <span class="glyphicon glyphicon-minus"></span>
+									  </button>
+								  </span>
+								  <input type="text" name="quant[2]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
+								  <span class="input-group-btn">
+									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[2]">
+										  <span class="glyphicon glyphicon-plus"></span>
+									  </button>
+								  </span>
+							  </div>
+							  <br>
+							<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull">
+							<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;COMPRAR</button>
+							
+							<button type="button" class="btn btn-primary btn-lg btn-block btnAdicionarALista btnSecundario">
+							<img class="text-center" src="img/icon/adicionarALista.png" height="20" width="20">&nbsp;&nbsp;ADICIONAR À LISTA</button>
+							</center>
+							</div>
+						</div>
 						
-						<h3><strong>R$ 250,08</strong></h3>
+						<div class="col-md-3">
+							<div id="divProdutoGrid" >
+							<a class="labelCaixa">
+								<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+								<span class="text">EMB<BR>04 UN</span>
+							</a>
+							<center>
+							<a href="#">
+							<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+							<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+							
+							<small>Qt. Disp: 9</small>
+							
+							<h3><strong>R$ 250,08</strong></h3>
+							
+							<div class="input-group text-center inputGroupQuantidade">
+								  <span class="input-group-btn">
+									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[2]">
+										  <span class="glyphicon glyphicon-minus"></span>
+									  </button>
+								  </span>
+								  <input type="text" name="quant[2]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
+								  <span class="input-group-btn">
+									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[2]">
+										  <span class="glyphicon glyphicon-plus"></span>
+									  </button>
+								  </span>
+							  </div>
+							  <br>
+							<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull">
+							<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;COMPRAR</button>
+							
+							<button type="button" class="btn btn-primary btn-lg btn-block btnAdicionarALista btnSecundario">
+							<img class="text-center" src="img/icon/adicionarALista.png" height="20" width="20">&nbsp;&nbsp;ADICIONAR À LISTA</button>
+							</center>
+							</div>
+						</div>
 						
-						<div class="input-group text-center inputGroupQuantidade">
-							  <span class="input-group-btn">
-								  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[2]">
-									  <span class="glyphicon glyphicon-minus"></span>
-								  </button>
-							  </span>
-							  <input type="text" name="quant[2]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
-							  <span class="input-group-btn">
-								  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[2]">
-									  <span class="glyphicon glyphicon-plus"></span>
-								  </button>
-							  </span>
-						  </div>
-						  <br>
-						<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull">
-						<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;COMPRAR</button>
+						<div class="col-md-3">
+							<div id="divProdutoGrid" >
+							<a class="labelCaixa">
+								<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+								<span class="text">EMB<BR>04 UN</span>
+							</a>
+							<center>
+							<a href="#">
+							<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+							<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+							
+							<small>Qt. Disp: 9</small>
+							
+							<h3><strong>R$ 250,08</strong></h3>
+							
+							<div class="input-group text-center inputGroupQuantidade">
+								  <span class="input-group-btn">
+									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[2]">
+										  <span class="glyphicon glyphicon-minus"></span>
+									  </button>
+								  </span>
+								  <input type="text" name="quant[2]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
+								  <span class="input-group-btn">
+									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[2]">
+										  <span class="glyphicon glyphicon-plus"></span>
+									  </button>
+								  </span>
+							  </div>
+							  <br>
+							<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull">
+							<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;COMPRAR</button>
+							
+							<button type="button" class="btn btn-primary btn-lg btn-block btnAdicionarALista btnSecundario">
+							<img class="text-center" src="img/icon/adicionarALista.png" height="20" width="20">&nbsp;&nbsp;ADICIONAR À LISTA</button>
+							</center>
+							</div>
+						</div>
 						
-						<button type="button" class="btn btn-primary btn-lg btn-block btnAdicionarALista btnSecundario">
-						<img class="text-center" src="img/icon/adicionarALista.png" height="20" width="20">&nbsp;&nbsp;ADICIONAR À LISTA</button>
-						</center>
-					</div>
-					
-					<div id="divProdutoGrid" class="col-md-2">
-						<center>
-						<a href="#">
-						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
-						
-						<small>Qt. Disp: 9</small>
-						
-						<h3><strong>R$ 250,08</strong></h3>
-						
-						<div class="input-group text-center inputGroupQuantidade">
-							  <span class="input-group-btn">
-								  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[3]">
-									  <span class="glyphicon glyphicon-minus"></span>
-								  </button>
-							  </span>
-							  <input type="text" name="quant[3]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
-							  <span class="input-group-btn">
-								  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[3]">
-									  <span class="glyphicon glyphicon-plus"></span>
-								  </button>
-							  </span>
-						  </div>
-						  <br>
-						<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull">
-						<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;COMPRAR</button>
-						
-						<button type="button" class="btn btn-primary btn-lg btn-block btnAdicionarALista btnSecundario">
-						<img class="text-center" src="img/icon/adicionarALista.png" height="20" width="20">&nbsp;&nbsp;ADICIONAR À LISTA</button>
-						</center>
-					</div>
-					
-					<div id="divProdutoGrid" class="col-md-2">
-						<center>
-						<a href="#">
-						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
-						
-						<small>Qt. Disp: 9</small>
-						
-						<h3><strong>R$ 250,08</strong></h3>
-						
-						<div class="input-group text-center inputGroupQuantidade">
-							  <span class="input-group-btn">
-								  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[4]">
-									  <span class="glyphicon glyphicon-minus"></span>
-								  </button>
-							  </span>
-							  <input type="text" name="quant[4]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
-							  <span class="input-group-btn">
-								  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[4]">
-									  <span class="glyphicon glyphicon-plus"></span>
-								  </button>
-							  </span>
-						  </div>
-						  <br>
-						<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull">
-						<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;COMPRAR</button>
-						
-						<button type="button" class="btn btn-primary btn-lg btn-block btnAdicionarALista btnSecundario">
-						<img class="text-center" src="img/icon/adicionarALista.png" height="20" width="20">&nbsp;&nbsp;ADICIONAR À LISTA</button>
-						</center>
-					</div>
-					
-					<div id="divProdutoGrid" class="col-md-2">
-						<center>
-						<a href="#">
-						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
-						
-						<small>Qt. Disp: 9</small>
-						
-						<h3><strong>R$ 250,08</strong></h3>
-						
-						<div class="input-group text-center inputGroupQuantidade">
-							  <span class="input-group-btn">
-								  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[5]">
-									  <span class="glyphicon glyphicon-minus"></span>
-								  </button>
-							  </span>
-							  <input type="text" name="quant[5]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
-							  <span class="input-group-btn">
-								  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[5]">
-									  <span class="glyphicon glyphicon-plus"></span>
-								  </button>
-							  </span>
-						  </div>
-						  <br>
-						<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull">
-						<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;COMPRAR</button>
-						
-						<button type="button" class="btn btn-primary btn-lg btn-block btnAdicionarALista btnSecundario">
-						<img class="text-center" src="img/icon/adicionarALista.png" height="20" width="20">&nbsp;&nbsp;ADICIONAR À LISTA</button>
-						</center>
-					</div>
-					
-					<div id="divProdutoGrid" class="col-md-2">
-						<center>
-						<a href="#">
-						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
-						
-						<small>Qt. Disp: 9</small>
-						
-						<h3><strong>R$ 250,08</strong></h3>
-						
-						<div class="input-group text-center inputGroupQuantidade">
-							  <span class="input-group-btn">
-								  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[6]">
-									  <span class="glyphicon glyphicon-minus"></span>
-								  </button>
-							  </span>
-							  <input type="text" name="quant[6]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
-							  <span class="input-group-btn">
-								  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[6]">
-									  <span class="glyphicon glyphicon-plus"></span>
-								  </button>
-							  </span>
-						  </div>
-						  <br>
-						<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull">
-						<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;COMPRAR</button>
-						
-						<button type="button" class="btn btn-primary btn-lg btn-block btnAdicionarALista btnSecundario">
-						<img class="text-center" src="img/icon/adicionarALista.png" height="20" width="20">&nbsp;&nbsp;ADICIONAR À LISTA</button>
-						</center>
-					</div>
-					
-					
-				</div>
-	</div>
+			</div>
+		</div>
+		<div class="col-md-1"></div>
 	</div>
 	<br>
 <?php include 'footerLogado.php'?>
