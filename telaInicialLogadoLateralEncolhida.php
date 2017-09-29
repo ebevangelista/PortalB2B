@@ -1,7 +1,8 @@
 <?php include 'headerLogado.php' ?>
 <?php include 'slider.php'?>
-<?php include 'sidebar.php'?>
-			<div id="divConteudo" class="col-md-8">
+<div class="row">
+			<div class="col-md-1"></div>
+			<div id="divConteudo" class="col-md-10">
 				<h2>
 				<button id="btnEncolheLateral" type="button" class="btn  btn-default btn-xs" data-toggle="collapse" data-target="#lateral">
 				<center><img src="img/icon/menu.png" width="20" height="20"></center></button>&nbsp;&nbsp;Produtos
@@ -53,7 +54,7 @@
 				</div>
 				
 				<div id="divProdutosGrid" class="row">
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
@@ -91,7 +92,7 @@
 						</div>
 					</div>
 					
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div id="divProdutoGrid">
 						<center>
 						<a href="#">
@@ -125,7 +126,7 @@
 						</div>
 					</div>
 					
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
@@ -163,17 +164,14 @@
 						</div>
 					</div>
 					
-				</div>
-				
-				<div id="divProdutosGrid" class="row">
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 							<span class="text">EMB<BR>04 UN</span>
 						</a>
 						<center>
-						<a href="produtoIndividualLogado.php">
+						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
 						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
 						
@@ -201,11 +199,17 @@
 						<button type="button" class="btn btn-primary btn-lg btn-block btnAdicionarALista btnSecundario">
 						<img class="text-center" src="img/icon/adicionarALista.png" height="20" width="20">&nbsp;&nbsp;ADICIONAR À LISTA</button>
 						</center>
-						</div>
 					</div>
-					
-					<div class="col-md-4">
+					</div>
+				</div>
+				
+				<div id="divProdutosGrid" class="row">
+					<div class="col-md-3">
 						<div id="divProdutoGrid">
+						<a class="labelCaixa">
+							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+							<span class="text">EMB<BR>04 UN</span>
+						</a>
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
@@ -238,12 +242,8 @@
 						</div>
 					</div>
 					
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div id="divProdutoGrid">
-						<a class="labelCaixa">
-							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
-							<span class="text">EMB<BR>04 UN</span>
-						</a>
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
@@ -276,17 +276,14 @@
 						</div>
 					</div>
 					
-				</div>	
-
-				<div id="divProdutosGrid" class="row">
-					<div class="col-md-4">
-						<div id="divProdutoGrid">
+					<div class="col-md-3">
+						<div id="divProdutoGrid">					
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 							<span class="text">EMB<BR>04 UN</span>
 						</a>
 						<center>
-						<a href="produtoIndividualLogado.php">
+						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
 						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
 						
@@ -317,8 +314,12 @@
 						</div>
 					</div>
 					
-					<div class="col-md-4">
-						<div id="divProdutoGrid">
+					<div class="col-md-3">
+						<div id="divProdutoGrid">					
+						<a class="labelCaixa">
+							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+							<span class="text">EMB<BR>04 UN</span>
+						</a>
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
@@ -351,7 +352,10 @@
 						</div>
 					</div>
 					
-					<div class="col-md-4">
+				</div>
+				
+				<div id="divProdutosGrid" class="row">
+					<div class="col-md-3">
 						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
@@ -389,17 +393,10 @@
 						</div>
 					</div>
 					
-				</div>
-				
-				<div id="divProdutosGrid" class="row">
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div id="divProdutoGrid">
-						<a class="labelCaixa">
-							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
-							<span class="text">EMB<BR>04 UN</span>
-						</a>
 						<center>
-						<a href="produtoIndividualLogado.php">
+						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
 						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
 						
@@ -430,8 +427,12 @@
 						</div>
 					</div>
 					
-					<div class="col-md-4">
-						<div id="divProdutoGrid">
+					<div class="col-md-3">
+						<div id="divProdutoGrid">					
+						<a class="labelCaixa">
+							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+							<span class="text">EMB<BR>04 UN</span>
+						</a>
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
@@ -464,8 +465,8 @@
 						</div>
 					</div>
 					
-					<div class="col-md-4">
-						<div id="divProdutoGrid">
+					<div class="col-md-3">
+						<div id="divProdutoGrid">					
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 							<span class="text">EMB<BR>04 UN</span>
@@ -502,12 +503,10 @@
 						</div>
 					</div>
 					
-				</div>
-						
+				</div>						
 				
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<br>
 						<button id="btnCarregarMais" type="button" class="btn btn-primary btn-lg">CARREGAR MAIS PRODUTOS</button>
 					</div>
 				</div>

@@ -53,7 +53,8 @@
 				</div>
 				
 				<div id="divProdutosGrid" class="row">
-					<div id="divProdutoGrid" class="col-md-3">
+					<div class="col-md-4">
+						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 							<span class="text">EMB<BR>04 UN</span>
@@ -67,9 +68,11 @@
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
 						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
 						</center>
+						</div>
 					</div>
 					
-					<div id="divProdutoGrid" class="col-md-3">
+					<div class="col-md-4">
+						<div id="divProdutoGrid">
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
@@ -79,9 +82,11 @@
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
 						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
 						</center>
+						</div>
 					</div>
 					
-					<div id="divProdutoGrid" class="col-md-3">
+					<div class="col-md-4">
+						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 							<span class="text">EMB<BR>04 UN</span>
@@ -95,11 +100,45 @@
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
 						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
 						</center>
+						</div>
 					</div>
 				</div>
 				
 				<div id="divProdutosGrid" class="row">
-					<div id="divProdutoGrid" class="col-md-3">
+					<div class="col-md-4">
+						<div id="divProdutoGrid">
+						<a class="labelCaixa">
+							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+							<span class="text">EMB<BR>04 UN</span>
+						</a>
+						<center>
+						<a href="produtoIndividualSemLogar.php">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>						
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+						</div>
+					</div>
+					
+					<div class="col-md-4">
+						<div id="divProdutoGrid">
+						<center>
+						<a href="#">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+						</div>
+					</div>
+					
+					<div class="col-md-4">
+						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 							<span class="text">EMB<BR>04 UN</span>
@@ -113,39 +152,45 @@
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
 						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
 						</center>
-					</div>
-					
-					<div id="divProdutoGrid" class="col-md-3">
-						<center>
-						<a href="#">
-						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
-						<small>Qt. Disp: 9</small>
-						<br>&nbsp;
-						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
-						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
-						</center>
-					</div>
-					
-					<div id="divProdutoGrid" class="col-md-3">
-						<a class="labelCaixa">
-							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
-							<span class="text">EMB<BR>04 UN</span>
-						</a>
-						<center>
-						<a href="#">
-						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
-						<small>Qt. Disp: 9</small>
-						<br>&nbsp;
-						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
-						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
-						</center>
+						</div>
 					</div>
 				</div>
 				
 				<div id="divProdutosGrid" class="row">
-					<div id="divProdutoGrid" class="col-md-3">
+					<div class="col-md-4">
+						<div id="divProdutoGrid">
+						<a class="labelCaixa">
+							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+							<span class="text">EMB<BR>04 UN</span>
+						</a>
+						<center>
+						<a href="produtoIndividualSemLogar.php">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>						
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+						</div>
+					</div>
+					
+					<div class="col-md-4">
+						<div id="divProdutoGrid">
+						<center>
+						<a href="#">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+						</div>
+					</div>
+					
+					<div class="col-md-4">
+						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 							<span class="text">EMB<BR>04 UN</span>
@@ -159,39 +204,45 @@
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
 						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
 						</center>
-					</div>
-					
-					<div id="divProdutoGrid" class="col-md-3">
-						<center>
-						<a href="#">
-						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
-						<small>Qt. Disp: 9</small>
-						<br>&nbsp;
-						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
-						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
-						</center>
-					</div>
-					
-					<div id="divProdutoGrid" class="col-md-3">
-						<a class="labelCaixa">
-							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
-							<span class="text">EMB<BR>04 UN</span>
-						</a>
-						<center>
-						<a href="#">
-						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
-						<small>Qt. Disp: 9</small>
-						<br>&nbsp;
-						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
-						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
-						</center>
+						</div>
 					</div>
 				</div>
 				
 				<div id="divProdutosGrid" class="row">
-					<div id="divProdutoGrid" class="col-md-3">
+					<div class="col-md-4">
+						<div id="divProdutoGrid">
+						<a class="labelCaixa">
+							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
+							<span class="text">EMB<BR>04 UN</span>
+						</a>
+						<center>
+						<a href="produtoIndividualSemLogar.php">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>						
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+						</div>
+					</div>
+					
+					<div class="col-md-4">
+						<div id="divProdutoGrid">
+						<center>
+						<a href="#">
+						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
+						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<small>Qt. Disp: 9</small>
+						<br>&nbsp;
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+						</div>
+					</div>
+					
+					<div class="col-md-4">
+						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 							<span class="text">EMB<BR>04 UN</span>
@@ -205,39 +256,13 @@
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
 						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
 						</center>
+						</div>
 					</div>
-					
-					<div id="divProdutoGrid" class="col-md-3">
-						<center>
-						<a href="#">
-						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
-						<small>Qt. Disp: 9</small>
-						<br>&nbsp;
-						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
-						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
-						</center>
-					</div>
-					
-					<div id="divProdutoGrid" class="col-md-3">
-						<a class="labelCaixa">
-							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
-							<span class="text">EMB<BR>04 UN</span>
-						</a>
-						<center>
-						<a href="#">
-						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
-						<small>Qt. Disp: 9</small>
-						<br>&nbsp;
-						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
-						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
-						</center>
-					</div>
-				</div>				
+				</div>
 				
 				<div class="row">
-					<div class="col-md-10 text-center">
+					<div class="col-md-12 text-center">
+						<br>
 						<button id="btnCarregarMais" type="button" class="btn btn-primary btn-lg">CARREGAR MAIS PRODUTOS</button>
 					</div>
 				</div>
