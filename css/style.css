@@ -34,16 +34,16 @@ a{
     margin-left: 0px !important;
 }
 
-input[type=text], input[type=password] {
-	border-top: none;
-	border-right: none;
-	border-left: none;
-	border-bottom: solid 1px #000;
-	border-radius: 0px;
-	box-shadow: none;
-	font-size: 1.2em;
+input[type=text], input[type=password],  input[type=email], input[type=tel], select {
+	border-top: none !important;
+	border-right: none !important;
+	border-left: none !important;
+	border-bottom: solid 1px #000 !important;
+	border-radius: 0px !important;
+	box-shadow: none !important;
+	font-size: 1.2em !important;
 	/*font-weight: bold !important;*/
-	background: none;
+	background: none !important;
 }
 
 input[type=text]:focus, input[type=password]:focus {

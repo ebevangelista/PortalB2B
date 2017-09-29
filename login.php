@@ -23,6 +23,70 @@
     <![endif]-->
   </head>
   <body>
+  
+	<!-- Modal "Esqueci Minha Senha" -->
+	<div class="modal fade" id="modalEsqueciMinhaSenha" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	  <div class="modal-dialog" role="document">
+		<div class="modal-content">
+		  <div class="modal-header">
+			<h1 class="modal-title" id="myModalLabel">Esqueci minha senha</h1>
+		  </div>
+		  <div class="modal-body">
+			<form>
+			  <div class="form-group">
+				<label for="exampleInputEmail1">Por favor, informe seu e-mail cadastrado:</label>
+				<input type="email" class="form-control" id="exampleInputEmail1" placeholder="E-mail">
+			  </div>
+			</form>
+		  </div>
+		  <div class="modal-footer">
+			<button type="submit" class="btn btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalSucessoInsercaoCarrinho">ENVIAR CONFIRMAÇÃO</button>
+		  </div>
+		</div>
+	  </div>
+	</div>
+	
+	<!-- Modal "Solicite acesso" -->
+	<div class="modal fade" id="modalSoliciteAcesso" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	  <div class="modal-dialog" role="document">
+		<div class="modal-content">
+		  <div class="modal-header">
+			<h1 class="modal-title" id="myModalLabel">Solicite acesso</h1>
+		  </div>
+		  <div class="modal-body">
+			<form>
+			  <div class="form-group">
+				<label for="inputNome">Nome completo:</label>
+				<input type="text" class="form-control" id="inputNome" placeholder="Nome">
+			  </div>
+			  <div class="form-group">
+				<label for="tipoPessoa">Tipo de pessoa:</label>
+				<select id="tipoPessoa" class="form-control">
+				  <option>Pessoa física</option>
+				  <option>Pessoa jurídica</option>
+				</select>
+			  </div>
+			  <div class="form-group">
+				<label for="inputCPFCNPJ">Informe seu CPF/CNPJ:</label>
+				<input type="text" class="form-control" id="inputCPFCNPJ" placeholder="CPF/CNPJ">
+			  </div>
+			  <div class="form-group">
+				<label for="inputTelefone">Telefone para contato:</label>
+				<input type="tel" class="form-control" id="inputTelefone" placeholder="Telefone">
+			  </div>
+			  <div class="form-group">
+				<label for="inputEmail">E-mail válido:</label>
+				<input type="email" class="form-control" id="inputEmail" placeholder="E-mail">
+			  </div>
+			</form>
+		  </div>
+		  <div class="modal-footer">
+			<button type="submit" class="btn btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalSucessoInsercaoCarrinho">ENVIAR SOLICITAÇÃO</button>
+		  </div>
+		</div>
+	  </div>
+	</div>
+  
 	<div class="container-fluid">
 		
 	
@@ -56,9 +120,9 @@
 					</form>
 
 					<br>
-					<a class="text-center">Esqueci a senha</a>
+					<a class="text-center" data-toggle="modal" data-target="#modalEsqueciMinhaSenha">Esqueci a senha</a>
 					<br>
-					<a class="text-center">Já é cliente? Solicite acesso</a>
+					<a class="text-center" data-toggle="modal" data-target="#modalSoliciteAcesso">Já é cliente? Solicite acesso</a>
 				</div>
 			</div>
 			<div class="col-md-4">.</div>
