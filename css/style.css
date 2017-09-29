@@ -349,22 +349,33 @@ input[type=text]:focus, input[type=password]:focus {
     margin: 20px 7px 0px 0px !important;
 }
 
-#divProdutoGrid a h3{
+#divProdutoGrid a h3, #divProdutoLista a h3{
     font-weight: 700 !important;
 	color: #4a4a4a !important;
 }
 
-#divProdutoGrid a:hover{
+#divProdutoGrid a:hover, #divProdutoLista a:hover{
     text-decoration: none !important;
 }
 
-#divProdutoGrid small{
+#divProdutoGrid small, #divProdutoLista small{
     color: #9b9b9b !important;
 	font-weight: 600 !important;
 	font-size: 1em !important;
 }
 
-#divProdutoGrid .labelCaixa {
+#divProdutoLista{
+	border: 1px solid #f1f1f1;
+    box-sizing: border-box;
+    padding: 15px ;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+    border-left: 4px solid #034077;
+    margin: 20px 7px 0px 0px !important;
+}
+
+.labelCaixa {
     position: absolute;
     top: 30px;
     right: 30px;
@@ -383,7 +394,7 @@ input[type=text]:focus, input[type=password]:focus {
 	border-radius: 5px !important;
 }
 
-#divProdutoGrid .iconeCaixa {
+.iconeCaixa {
     display: inline-block;
     width: 20px;
     height: 20px;

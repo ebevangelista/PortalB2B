@@ -4,8 +4,8 @@
 			<div class="col-md-1"></div>
 			<div id="divConteudo" class="col-md-10">
 				<h2>
-				<button id="btnEncolheLateral" type="button" class="btn  btn-default btn-xs" data-toggle="collapse" data-target="#lateral">
-				<center><img src="img/icon/menu.png" width="20" height="20"></center></button>&nbsp;&nbsp;Produtos
+				<a id="btnEncolheLateral" href="telaInicialSemLogar.php" type="button" class="btn  btn-default btn-xs" data-toggle="collapse" data-target="#lateral">
+				<center><img src="img/icon/menu.png" width="20" height="20"></center></a></button>&nbsp;&nbsp;Produtos
 				</h2>
 				<div class="btn-group" role="group" aria-label="...">
 					<div class="btn-group dropdown" role="group">
