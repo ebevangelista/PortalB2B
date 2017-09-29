@@ -41,7 +41,7 @@
 				  </a>
 				  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
 					<li><a href="#">Meus pedidos</a></li>
-					<li><a href="#">Fiha financeira</a></li>
+					<li><a href="fichaFinanceira.php">Fiha financeira</a></li>
 					<li><a href="#">Títulos</a></li>
 					<li><a href="#">Notas fiscais</a></li>
 					<li><a href="alterarSenha.php">Alterar senha</a></li>
