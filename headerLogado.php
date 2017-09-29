@@ -44,7 +44,7 @@
 					<li><a href="#">Fiha financeira</a></li>
 					<li><a href="#">Títulos</a></li>
 					<li><a href="#">Notas fiscais</a></li>
-					<li><a href="#">Alterar senha</a></li>
+					<li><a href="alterarSenha.php">Alterar senha</a></li>
 					<li role="separator" class="divider"></li>
 					<li><a href="login.php">Sair</a></li>
 				  </ul>
