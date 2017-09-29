@@ -28,7 +28,7 @@
 			Este produto só pode ser vendido em múltiplos de 10 unidades!
 		  </div>
 		  <div class="modal-footer">
-			<button type="button" class="btn btn-default btnSecundario" data-toggle="modal" data-target="#modalSucessoInsercaoCarrinho">CONTINUAR COMPRANDO</button>
+			<button type="button" class="btn btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalSucessoInsercaoCarrinho">CONTINUAR COMPRANDO</button>
 		  </div>
 		</div>
 	  </div>
