@@ -28,7 +28,7 @@
 			Este produto só pode ser vendido em múltiplos de 10 unidades!
 		  </div>
 		  <div class="modal-footer">
-			<button type="button" class="btn btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalSucessoInsercaoCarrinho">CONTINUAR COMPRANDO</button>
+			<button type="button" class="btn btn-primary btnProdutoFull" data-dismiss="modal">CONTINUAR COMPRANDO</button>
 		  </div>
 		</div>
 	  </div>
@@ -121,7 +121,7 @@
 			<br>
 			<div class="row">
 				<div class="col-md-6">
-					<button type="button" class="btn btn-primary btn-lg btn-block btnAdicionarALista btnSecundario">
+					<button type="button" class="btn btn-primary btn-lg btn-block btnAdicionarALista btnSecundario" data-toggle="modal" data-target="#modalSucessoInsercaoCarrinho">
 						<img class="text-center" src="img/icon/adicionarALista.png" height="20" width="20">&nbsp;&nbsp;ADICIONAR À LISTA</button>
 				</div>
 				<div class="col-md-6">
