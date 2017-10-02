@@ -118,13 +118,13 @@
 						<div class="col-md-4 text-center">
 							<div class="input-group text-center inputGroupQuantidade ">
 								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[1]">
+									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[2]">
 										  <span class="glyphicon glyphicon-minus"></span>
 									  </button>
 								  </span>
-								  <input type="text" name="quant[1]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
+								  <input type="text" name="quant[2]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
 								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[1]">
+									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[2]">
 										  <span class="glyphicon glyphicon-plus"></span>
 									  </button>
 								  </span>
@@ -162,13 +162,13 @@
 						<div class="col-md-4 text-center">
 							<div class="input-group text-center inputGroupQuantidade ">
 								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[1]">
+									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[3]">
 										  <span class="glyphicon glyphicon-minus"></span>
 									  </button>
 								  </span>
-								  <input type="text" name="quant[1]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
+								  <input type="text" name="quant[3]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
 								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[1]">
+									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[3]">
 										  <span class="glyphicon glyphicon-plus"></span>
 									  </button>
 								  </span>
@@ -206,13 +206,13 @@
 						<div class="col-md-4 text-center">
 							<div class="input-group text-center inputGroupQuantidade ">
 								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[1]">
+									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[4]">
 										  <span class="glyphicon glyphicon-minus"></span>
 									  </button>
 								  </span>
-								  <input type="text" name="quant[1]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
+								  <input type="text" name="quant[4]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
 								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[1]">
+									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[4]">
 										  <span class="glyphicon glyphicon-plus"></span>
 									  </button>
 								  </span>
@@ -250,13 +250,13 @@
 						<div class="col-md-4 text-center">
 							<div class="input-group text-center inputGroupQuantidade ">
 								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[1]">
+									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[5]">
 										  <span class="glyphicon glyphicon-minus"></span>
 									  </button>
 								  </span>
-								  <input type="text" name="quant[1]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
+								  <input type="text" name="quant[5]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
 								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[1]">
+									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[5]">
 										  <span class="glyphicon glyphicon-plus"></span>
 									  </button>
 								  </span>
@@ -294,13 +294,13 @@
 						<div class="col-md-4 text-center">
 							<div class="input-group text-center inputGroupQuantidade ">
 								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[1]">
+									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[6]">
 										  <span class="glyphicon glyphicon-minus"></span>
 									  </button>
 								  </span>
-								  <input type="text" name="quant[1]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
+								  <input type="text" name="quant[6]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
 								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[1]">
+									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[6]">
 										  <span class="glyphicon glyphicon-plus"></span>
 									  </button>
 								  </span>
@@ -338,13 +338,13 @@
 						<div class="col-md-4 text-center">
 							<div class="input-group text-center inputGroupQuantidade ">
 								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[1]">
+									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[7]">
 										  <span class="glyphicon glyphicon-minus"></span>
 									  </button>
 								  </span>
-								  <input type="text" name="quant[1]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
+								  <input type="text" name="quant[7]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
 								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[1]">
+									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[7]">
 										  <span class="glyphicon glyphicon-plus"></span>
 									  </button>
 								  </span>
@@ -382,13 +382,13 @@
 						<div class="col-md-4 text-center">
 							<div class="input-group text-center inputGroupQuantidade ">
 								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[1]">
+									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[8]">
 										  <span class="glyphicon glyphicon-minus"></span>
 									  </button>
 								  </span>
-								  <input type="text" name="quant[1]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
+								  <input type="text" name="quant[8]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
 								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[1]">
+									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[9]">
 										  <span class="glyphicon glyphicon-plus"></span>
 									  </button>
 								  </span>
