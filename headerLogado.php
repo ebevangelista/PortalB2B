@@ -108,7 +108,7 @@
 					<a type="button" class="btn btn-default current">PRODUTOS</a>
 				  </div>
 				  <div class="btn-group" role="group">
-					<a type="button" class="btn btn-default">MEUS PEDIDOS</a>
+					<a href="meusPedidos.php" type="button" class="btn btn-default">MEUS PEDIDOS</a>
 				  </div>
 				</div>
 			</div>

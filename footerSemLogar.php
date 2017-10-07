@@ -8,8 +8,8 @@
 			<ul class="nav nav-pills nav-stacked">
 				<li><a href="telaInicialSemLogar.php">Início</a></li>
 				<li><a href="#">Produtos</a></li>
-				<li><a href="#">Quem somos</a></li>
-				<li><a href="#">Fale conosco</a></li>
+				<li><a href="quemSomos.php">Quem somos</a></li>
+				<li><a href="faleConosco.php">Fale conosco</a></li>
 			</ul>
 		</div>
 		<div class="col-md-3 text-center">

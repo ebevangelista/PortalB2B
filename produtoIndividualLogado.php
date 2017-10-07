@@ -45,7 +45,7 @@
 			Produto inserido no carrinho.
 		  </div>
 		  <div class="modal-footer">
-			<button type="button" class="btn btn-default btnSecundario">IR PARA O CARRINHO</button>
+			<a href="carrinho1Itens.php" type="button" class="btn btn-default btnSecundario">IR PARA O CARRINHO</a>
 			<button type="button" class="btn btn-primary btnProdutoFull" data-dismiss="modal">CONTINUAR COMPRANDO</button>
 		  </div>
 		</div>
@@ -98,20 +98,14 @@
 			<div class="row">
 				<div class="col-md-6 text-center">
 				<br>
-					<div class="text-center">
-					<div class="input-group inputGroupQuantidade">
-						  <span class="input-group-btn">
-							  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[1]">
-								  <span class="glyphicon glyphicon-minus"></span>
-							  </button>
-						  </span>
-						  <input type="text" name="quant[1]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
-						  <span class="input-group-btn">
-							  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[1]">
-								  <span class="glyphicon glyphicon-plus"></span>
-							  </button>
-						  </span>
-					</div>
+					<div class="btn-group divGroupQuantidade" role="group">
+								  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[1]">
+												  <span class="glyphicon glyphicon-minus"></span>
+								  </button>
+								  <input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompra" value="1" min="1" max="10">
+								  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[1]">
+												  <span class="glyphicon glyphicon-plus"></span>
+								  </button>
 					</div>
 				</div>
 				<div class="col-md-6 text-center">
@@ -181,19 +175,16 @@
 							
 							<h3><strong>R$ 250,08</strong></h3>
 							
-							<div class="input-group text-center inputGroupQuantidade">
-								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[2]">
-										  <span class="glyphicon glyphicon-minus"></span>
-									  </button>
-								  </span>
-								  <input type="text" name="quant[2]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
-								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[2]">
-										  <span class="glyphicon glyphicon-plus"></span>
-									  </button>
-								  </span>
-							  </div>
+							<div class="btn-group divGroupQuantidade" role="group">
+								  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[1]">
+												  <span class="glyphicon glyphicon-minus"></span>
+								  </button>
+								  <input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompra" value="1" min="1" max="10">
+								  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[1]">
+												  <span class="glyphicon glyphicon-plus"></span>
+								  </button>
+							</div>
+							
 							  <br>
 							<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull">
 							<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;COMPRAR</button>
@@ -219,19 +210,16 @@
 							
 							<h3><strong>R$ 250,08</strong></h3>
 							
-							<div class="input-group text-center inputGroupQuantidade">
-								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[2]">
-										  <span class="glyphicon glyphicon-minus"></span>
-									  </button>
-								  </span>
-								  <input type="text" name="quant[2]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
-								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[2]">
-										  <span class="glyphicon glyphicon-plus"></span>
-									  </button>
-								  </span>
-							  </div>
+							<div class="btn-group divGroupQuantidade" role="group">
+								  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[1]">
+												  <span class="glyphicon glyphicon-minus"></span>
+								  </button>
+								  <input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompra" value="1" min="1" max="10">
+								  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[1]">
+												  <span class="glyphicon glyphicon-plus"></span>
+								  </button>
+							</div>
+							
 							  <br>
 							<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull">
 							<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;COMPRAR</button>
@@ -257,19 +245,16 @@
 							
 							<h3><strong>R$ 250,08</strong></h3>
 							
-							<div class="input-group text-center inputGroupQuantidade">
-								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[2]">
-										  <span class="glyphicon glyphicon-minus"></span>
-									  </button>
-								  </span>
-								  <input type="text" name="quant[2]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
-								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[2]">
-										  <span class="glyphicon glyphicon-plus"></span>
-									  </button>
-								  </span>
-							  </div>
+							<div class="btn-group divGroupQuantidade" role="group">
+								  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[1]">
+												  <span class="glyphicon glyphicon-minus"></span>
+								  </button>
+								  <input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompra" value="1" min="1" max="10">
+								  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[1]">
+												  <span class="glyphicon glyphicon-plus"></span>
+								  </button>
+							</div>
+							
 							  <br>
 							<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull">
 							<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;COMPRAR</button>
@@ -295,19 +280,16 @@
 							
 							<h3><strong>R$ 250,08</strong></h3>
 							
-							<div class="input-group text-center inputGroupQuantidade">
-								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[2]">
-										  <span class="glyphicon glyphicon-minus"></span>
-									  </button>
-								  </span>
-								  <input type="text" name="quant[2]" class="form-control input-number inputQuantidadeCompra" value="1" min="1" max="10">
-								  <span class="input-group-btn">
-									  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[2]">
-										  <span class="glyphicon glyphicon-plus"></span>
-									  </button>
-								  </span>
-							  </div>
+							<div class="btn-group divGroupQuantidade" role="group">
+								  <button type="button" class="btn btn-default btn-number btnMenos" disabled="disabled" data-type="minus" data-field="quant[1]">
+												  <span class="glyphicon glyphicon-minus"></span>
+								  </button>
+								  <input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompra" value="1" min="1" max="10">
+								  <button type="button" class="btn btn-default btn-number btnMais" data-type="plus" data-field="quant[1]">
+												  <span class="glyphicon glyphicon-plus"></span>
+								  </button>
+							</div>
+							
 							  <br>
 							<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull">
 							<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;COMPRAR</button>
