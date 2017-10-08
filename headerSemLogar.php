@@ -43,7 +43,7 @@
 		<div class="row">
 			<div class="col-md-1"></div>
 			<div class="col-md-2 text-center">
-				<img id="divImgLogotipo" src="img/logotipo.jpg" alt="" class="img-rounded" width="210" height="75">
+				<a href="telainicialsemlogar.php"><img id="divImgLogotipo" src="img/logotipo.jpg" alt="" class="img-rounded" width="210" height="75"></a>
 			</div>
 			<div id="divPesquisa" class="col-md-6 text-center">
 				<div class="input-group">
