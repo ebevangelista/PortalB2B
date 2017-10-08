@@ -40,7 +40,7 @@
 					<span class="caret"></span>
 				  </a>
 				  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-					<li><a href="#">Meus pedidos</a></li>
+					<li><a href="meuspedidos.php">Meus pedidos</a></li>
 					<li><a href="fichaFinanceira.php">Fiha financeira</a></li>
 					<li><a href="titulos.php">Títulos</a></li>
 					<li><a href="notasFiscais.php">Notas fiscais</a></li>
@@ -72,21 +72,48 @@
 
 			<div class="col-md-2 text-center form-inline">
 				
-				<div class="btn-group" role="group" aria-label="...">
-					<div class="btn-group dropdown" role="group">
+				<div class="btn-group" role="group">
+					<div id="dropdownCarrinho" class="btn-group dropdown" role="group">
 					  <button id="btnCarrinho" class="btn btn-default dropdown-toggle" type="button" id="dropdownCarrinho" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+						<strong>R$ 1.500,48</strong>&nbsp;&nbsp;
 						<img src="img/icon/carrinho.png" alt="" class="img-rounded" width="15" height="15">
 					  </button>
 					  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-						<li><a href="#">Não há itens no carrinho</a></li>
+						<li>
+							<small>
+							<strong>3 EM 1 FOSCO 18L BRANCO</strong><br>
+							R$ 250,08 x 5 UN
+							</small>
+						</li>
+						<li>
+							<small>
+							<strong>3 EM 1 FOSCO 18L BRANCO</strong><br>
+							R$ 250,08 x 5 UN
+							</small>
+						</li>
+						<li class="text-center">
+							<br>
+							Total: <strong>R$ 1.500,48</strong><br><br>
+							<button type="button" class="btn btn-primary btn-sm btn-block btnComprar btnProdutoFull">FINALIZAR COMPRA</button>
+						</li>
 					  </ul>
 					</div>
-					<div class="btn-group dropdown" role="group">
+				<div id="dropdownNotificacoes" class="btn-group dropdown" role="group">
+					
 				  <button id="btnNotificacoes" class="btn btn-default dropdown-toggle" type="button" id="dropdownNotificacao" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
 					<img src="img/icon/notificacao.png" alt="" class="img-rounded" width="15" height="15">
 				  </button>
 				  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-					<li><a href="#">Não há novas notificações</a></li>
+					<li>
+						<small>
+						<strong>CHEGARAM NOVAS PROMOÇÕES!</strong><br>
+						</small>
+					</li>
+					<li>
+						<small>
+						<strong>Venha conferir ;)</strong><br>
+						</small>
+					</li>
 				  </ul>
 				</div>
 				</div>

@@ -101,13 +101,13 @@
 					<div class="panel panel-default">
 					  <div class="panel-body">
 						<div class="row">
-							<div class="col-md-2 text-center">
+							<div class="col-md-2 text-center media-left media-middle">
 								<img src="img/icon/promocao.png" height="30" width="30">
 							</div>
 							<div class="col-md-8 text-center">
 								Compre 10 unidades e ganhe<br><strong>1 CORAL 3 EM 1 FOSCO 3,6L BRANCO</strong>
 							</div>
-							<div class="col-md-2 text-center">
+							<div class="col-md-2 text-center media-left media-middle">
 								<img src="img/fotoProduto.jpg" height="50" width="50">
 							</div>
 						</div>
@@ -115,6 +115,7 @@
 					</div>
 				</div>
 			</div>
+			
 			<div class="row">
 				<div class="col-md-6 text-center">
 				<br>

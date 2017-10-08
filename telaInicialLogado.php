@@ -1,6 +1,7 @@
 <?php include 'headerLogado.php' ?>
 <?php include 'slider.php'?>
 <?php include 'sidebar.php'?>
+			
 			<div id="divConteudo" class="col-md-8">
 				<h2>
 				<a id="btnEncolheLateral" href="telaInicialLogadoLateralEncolhida.php" type="button" class="btn  btn-default btn-xs" data-toggle="collapse" data-target="#lateral">
@@ -478,7 +479,5 @@
 				<br><br>
 			</div>
 			<div class="col-md-1">.</div>
-	
-	
 		
 <?php include 'footerLogado.php'?>
