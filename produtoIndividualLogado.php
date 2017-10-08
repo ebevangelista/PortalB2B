@@ -52,6 +52,26 @@
 	  </div>
 	</div>
 	
+	<!-- Modal plano de pagamento -->
+	<div class="modal fade" id="modalPlanoDePagamento" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	  <div class="modal-dialog" role="document">
+		<div class="modal-content">
+		  <div class="modal-header">
+			<h1 class="modal-title" id="myModalLabel">Variações de preço por plano de pagamento</h1>
+		  </div>
+		  <div class="modal-body text-center">
+			À VISTA 5% - <strong>R$ 237,57</strong><br>
+			30 DIAS - <strong>R$ 250,08</strong><br>
+			60 DIAS - <strong>R$ 260,34</strong><br>
+			90 DIAS - <strong>R$ 270,96</strong><br>
+		  </div>
+		  <div class="modal-footer">
+			<button type="button" class="btn btn-primary btnProdutoFull" data-dismiss="modal">CONTINUAR COMPRANDO</button>
+		  </div>
+		</div>
+	  </div>
+	</div>
+	
 	<!-- Produto individual -->
 	<div class="row">
 		<div class="col-md-1"></div>
@@ -72,7 +92,7 @@
 					<label>Código de barras:</label> <strong>7891019100033</strong><br><br>
 				</div>
 				<div class="col-md-6 text-center">
-					<a href="" class="aFormasPagamento"><img class="text-center" src="img/icon/formasPagamento.png" height="15" width="20">&nbsp;&nbsp;FORMAS DE PAGAMENTO</a><br><br>
+					<a data-toggle="modal" data-target="#modalPlanoDePagamento" class="aFormasPagamento"><img class="text-center" src="img/icon/formasPagamento.png" height="15" width="20">&nbsp;&nbsp;FORMAS DE PAGAMENTO</a><br><br>
 				</div>
 			</div>
 			

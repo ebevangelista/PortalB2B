@@ -61,9 +61,10 @@
 										<label for="inputEmail3" class="col-sm-4 control-label">Plano de pagamento:</label>
 										<div class="col-sm-8">
 										  <select class="form-control">
-											  <option>Mix 50 itens 30 60 90 120 150</option>
-											  <option>Mix 50 itens 30 60 90 120 150</option>
-											  <option>Mix 50 itens 30 60 90 120 150</option>
+												<option>À VISTA 5% - <strong>R$ 237,57</strong></option>
+												<option>30 DIAS - <strong>R$ 250,08</strong></option>
+												<option>60 DIAS - <strong>R$ 260,34</strong></option>
+												<option>90 DIAS - <strong>R$ 270,96</strong></option>
 											</select>
 										</div>
 									  </div>
