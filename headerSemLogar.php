@@ -14,9 +14,6 @@
 	
 	<!-- Slider -->
 	<link rel="stylesheet" href="slider/css/swiper.min.css">
-
-	<!-- Google fonts -->
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
 	
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

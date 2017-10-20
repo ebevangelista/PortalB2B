@@ -1,18 +1,52 @@
+@font-face {
+    font-family: "Dosis Bold";
+    src:url("../fonts/Dosis-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Dosis Extra Bold";
+    src:url("../fonts/Dosis-ExtraBold.ttf");
+}
+
+@font-face {
+    font-family: "Dosis Extra Light";
+    src:url("../fonts/Dosis-ExtraLight.ttf");
+}
+
+@font-face {
+    font-family: "Dosis Medium";
+    src:url("../fonts/Dosis-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Dosis";
+    src:url("../fonts/Dosis-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Dosis Semi Bold";
+    src:url("../fonts/Dosis-SemiBold.ttf");
+}
+
+
 body{
 	font-family: 'Dosis', sans-serif !important;
-	font-weight: 500;
 	color: #4a4a4a;
 }
 
 h1{
-	font-weight: 700;
+	font-family: 'Dosis Bold', sans-serif !important;
 	color: #4a4a4a;
 }
 
 h2{
-	font-weight: 700;
+	font-family: 'Dosis Bold', sans-serif !important;
 	color: #034077;
 	font-size: 1.3em !important;
+}
+
+h3{
+	font-family: 'Dosis Semi Bold', sans-serif !important;
 }
 
 label{
@@ -22,6 +56,7 @@ label{
 
 strong{
 	font-size: 1em;
+	font-family: 'Dosis Semi Bold', sans-serif !important;
 }
 
 a{
@@ -67,12 +102,12 @@ input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus
 
 .btnProdutoFull, #btnCarregarMais, .btnProdutoMini{
 	background-color: #034077 !important;
-	font-weight: bold !important;
+	font-family: 'Dosis Bold', sans-serif !important;
 }
 
 .btnExcluiFull, .btnExcluiMini{
 	background-color: #cf734e !important;
-	font-weight: bold !important;
+	font-family: 'Dosis Bold', sans-serif !important;
 	border: none !important;
 }
 
@@ -85,7 +120,7 @@ input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus
 }
 
 #btnCarregarMais{
-	font-weight: bolder !important;
+	font-family: 'Dosis Bold', sans-serif !important;
 	padding-left: 40px !important;
 	padding-right: 40px !important;
 	padding-top: 20px !important;
@@ -96,7 +131,7 @@ input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus
 	background: #f4f4f4 !important;
 	background-color: #f4f4f4 !important;
 	color: #9b9b9b !important;
-	font-weight: 700 !important;
+	font-family: 'Dosis Bold', sans-serif !important;
 	border: none !important;
 	padding-right: 10px !important;
 }
@@ -179,7 +214,7 @@ input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus
 		padding-top: 20px !important;
 		border: 0px !important;
 		color: #9b9b9b !important;
-		font-weight: 600 !important;
+		font-family: 'Dosis Semi Bold', sans-serif !important;
 		font-size: 1.4em !important;
 		text-align: center !important;
 	}
@@ -234,7 +269,7 @@ input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus
         color:#003E79 !important;
         opacity: 1 !important;
         background: #fff !important;
-		font-weight: 900 !important;
+		font-family: 'Dosis Bold', sans-serif !important;
 }
 
 .swiper-pagination-bullet:hover {
@@ -244,7 +279,7 @@ input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus
 .swiper-pagination-bullet-active {
 	color:#fff !important;
 	background: #003E79 !important;
-	font-weight: 900 !important;
+	font-family: 'Dosis Bold', sans-serif !important;
 }
 	
 .swiper-slide img{
@@ -289,12 +324,12 @@ input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus
 }
 
 #divSidebar h3{
-	font-weight: 700 !important;
+	font-family: 'Dosis Semi Bold', sans-serif !important;
 	color: #4a4a4a !important;
 }
 
 #divSidebar a{
-	font-weight: 600 !important;
+	font-family: 'Dosis Semi Bold', sans-serif !important;
 	color: #4a4a4a !important;
 	font-size: .9em !important;
 	padding-left: 5px !important;
@@ -313,7 +348,7 @@ input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus
 /*--------    INÍCIO CSS DO CONTEÚDO     -----------*/
 
 #divConteudo h2{
-	font-weight: 900 !important;
+	font-family: 'Dosis Bold', sans-serif !important;
 	color: #034077 !important;
 }
 
@@ -338,12 +373,12 @@ input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus
 	margin-top: 10px !important;
 	border-radius: 2px !important;
 	color: #9b9b9b !important;
-	font-weight: 600 !important;
+	font-family: 'Dosis Semi Bold', sans-serif !important;
 }
 
 .btnFiltro strong, .btnFiltro strong{
 	color: #4a4a4a !important;
-	font-weight: 700 !important;
+	font-family: 'Dosis Semi Bold', sans-serif !important;
 }
 
 .btnFiltro:hover, .btnFiltro:hover{
@@ -352,7 +387,7 @@ input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus
 
 .btnFiltro ul.dropdown-menu a, .btnFiltro ul.dropdown-menu a{
 	color: #9b9b9b !important;
-	font-weight: 600 !important;
+	font-family: 'Dosis Semi Bold', sans-serif !important;
 }
 
 .btnFiltro ul.dropdown-menu a strong, .btnFiltro ul.dropdown-menu a strong{
@@ -371,7 +406,7 @@ input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus
 }
 
 #divProdutoGrid a h3, #divProdutoLista a h3{
-    font-weight: 700 !important;
+    font-family: 'Dosis Bold', sans-serif !important;
 	color: #4a4a4a !important;
 }
 
@@ -381,7 +416,7 @@ input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus
 
 #divProdutoGrid small, #divProdutoLista small{
     color: #9b9b9b !important;
-	font-weight: 600 !important;
+	font-family: 'Dosis Semi Bold', sans-serif !important;
 	font-size: 1em !important;
 }
 
@@ -410,7 +445,7 @@ input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus
     line-height: 15px;
     text-align: center;
     z-index: 1;
-	font-weight: 600 !important;
+	font-family: 'Dosis Semi Bold', sans-serif !important;
 	margin: 5px !important;
 	border-radius: 5px !important;
 }
@@ -451,7 +486,7 @@ input.inputQuantidadeCompra{
 	border-radius: 3px !important;
 	border: none !important;
 	text-align: center !important;
-	font-weight: 900 !important;
+	font-family: 'Dosis Bold', sans-serif !important;
 	color: #3e3e3e !important;
 	margin: 0px 4px 0px 4px !important;
 }
@@ -474,7 +509,7 @@ input.inputQuantidadeCompra{
 
 
 .btnComprar{
-    font-weight: 600 !important;
+    font-family: 'Dosis Semi Bold', sans-serif !important;
 	font-size: 1.1em !important;
 }
 
@@ -498,7 +533,7 @@ input.inputQuantidadeCompra{
 }
 
 #divProdutoMini a h4{
-    font-weight: 700 !important;
+    font-family: 'Dosis Bold', sans-serif !important;
 	color: #4a4a4a !important;
 	font-size: 1em !important;
 }
@@ -509,7 +544,7 @@ input.inputQuantidadeCompra{
 
 #divProdutoMini small{
     color: #9b9b9b !important;
-	font-weight: 600 !important;
+	font-family: 'Dosis Semi Bold', sans-serif !important;
 	font-size: 0.9em !important;
 }
 
@@ -519,7 +554,7 @@ input.inputQuantidadeCompra{
 }
 
 .aFormasPagamento{
-	font-weight: 700 !important;
+	font-family: 'Dosis Semi Bold', sans-serif !important;
 	vertical-align: middle !important;
 	text-decoration: none !important;
 }
@@ -549,11 +584,11 @@ input.inputQuantidadeCompra{
 
 #divBreadcrumbs a {
 	color: #9b9b9b !important;
-	font-weight: 500 !important;
+	font-family: 'Dosis Semi Bold', sans-serif !important;
 }
 
 #divBreadcrumbs strong{
-	font-weight: 900 !important;
+	font-family: 'Dosis Bold', sans-serif !important;
 	color: #4a4a4a !important;
 }
 
@@ -592,7 +627,7 @@ input.inputQuantidadeCompra{
 	}
 
 	#divFooter h1{
-		font-weight: 700 !important;
+		font-family: 'Dosis Semi Bold', sans-serif !important;
 		margin-top: 10px !important;
 		margin-bottom: 10px !important;
 		font-size: 1.8em !important;	
@@ -601,7 +636,7 @@ input.inputQuantidadeCompra{
 	#divFooter h3{
 		background-color: #f5f5f5 !important;
 		color: #034077 !important;
-		font-weight: 900 !important;
+		font-family: 'Dosis Bold', sans-serif !important;
 	}
 
 	#divFooter span{
@@ -611,7 +646,7 @@ input.inputQuantidadeCompra{
 	#divSocket{
 		background-color: #b9b9b9 !important;
 		padding: 15px 0px 15px 0px !important;
-		font-weight: 500 !important;
+		font-family: 'Dosis Bold', sans-serif !important;
 		color: #fff !important;
 		font-size: 1.2em !important;
 	}
@@ -647,7 +682,7 @@ input.inputQuantidadeCompra{
 }
 
 .modal-body{
-	font-weight: 600 !important;
+	font-family: 'Dosis Semi Bold', sans-serif !important;
 }
 
 .modal-footer .btn{
