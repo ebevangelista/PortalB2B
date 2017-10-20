@@ -68,6 +68,12 @@ textarea {
     resize: none !important;
 }
 
+@media (max-width: 990px){
+    .text-center-sm{
+        text-align: center;
+    }
+}
+
 .row {
     margin-right: 0px !important;
     margin-left: 0px !important;

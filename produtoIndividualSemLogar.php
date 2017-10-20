@@ -2,7 +2,7 @@
 			
 	<div id="divBreadcrumbs" class="row">
 		<div class="col-md-1"></div>
-		<div class="col-md-4"><a href="">Início</a> > <a href="">Pintura</a> > <a href="">Econômica</a> > <strong>3 EM 1 FOSCO 18L BRANCO</strong></div>
+		<div class="col-md-4 text-center-sm"><a href="">Início</a> > <a href="">Pintura</a> > <a href="">Econômica</a> > <strong>3 EM 1 FOSCO 18L BRANCO</strong></div>
 		<div class="col-md-4 text-center">
 				<div class="btn-group dropdown" role="group">
 					  <button class="btn btn-default dropdown-toggle btnFiltro" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
@@ -23,7 +23,7 @@
 		<div class="col-md-2 text-center">
 			<img class="text-center" src="img/fotoProduto.jpg" height="200" width="200">
 		</div>
-		<div class="col-md-5">
+		<div class="col-md-5 text-center-sm">
 			<h1>3 EM 1 FOSCO 18L BRANCO</h1>
 			<label>Embalagem:</label> <strong>01 UN</strong><br>
 			<label>Unidade:</label> <strong>LT</strong><br>
@@ -40,6 +40,19 @@
 					<div class="col-md-12 text-center">
 						<h2>Aproveite também</h2>
 					</div>
+					<div class="col-md-12">
+						<div id="divProdutoMini" >
+						<center>
+						<a href="#">
+						<img class="text-center" src="img/fotoProduto.jpg" height="100" width="100">
+						<h4>3 EM 1 FOSCO 18L BRANCO</h4></a>
+						<small>Qt. Disp: 9</small>
+						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoMini">
+						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
+						</center>
+						</div>
+					</div>
+					
 					<div class="col-md-12">
 						<div id="divProdutoMini" >
 						<center>

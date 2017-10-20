@@ -1,7 +1,7 @@
 <?php include 'headerLogado.php' ?>
 	<div id="divBreadcrumbs" class="row">
 		<div class="col-md-1"></div>
-		<div class="col-md-4"><a href="">Início</a> > <a href="">Pintura</a> > <a href="">Econômica</a> > <strong>3 EM 1 FOSCO 18L BRANCO</strong></div>
+		<div class="col-md-4 text-center-sm"><a href="">Início</a> > <a href="">Pintura</a> > <a href="">Econômica</a> > <strong>3 EM 1 FOSCO 18L BRANCO</strong></div>
 		<div class="col-md-4 text-center">
 				<div class="btn-group dropdown" role="group">
 					  <button class="btn btn-default dropdown-toggle btnFiltro" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
@@ -12,7 +12,8 @@
 						<li><a href="#">FILIAL 1 - <strong>DISTRIBUIDORA LOPES MT</strong></a></li>
 						<li><a href="#">FILIAL 2 - <strong>DISTRIBUIDORA LOPES MS</strong></a></li>
 					  </ul>
-					</div></div>
+					</div>
+		</div>
 		<div class="col-md-2"></div>
 		<div class="col-md-1"></div>
 	</div>
@@ -57,7 +58,7 @@
 	  <div class="modal-dialog" role="document">
 		<div class="modal-content">
 		  <div class="modal-header">
-			<h1 class="modal-title" id="myModalLabel">Variações de preço por plano de pagamento</h1>
+			<h1 class="modal-title text-center-sm" id="myModalLabel">Variações de preço por plano de pagamento</h1>
 		  </div>
 		  <div class="modal-body text-center">
 			À VISTA 5% - <strong>R$ 237,57</strong><br>
@@ -79,29 +80,29 @@
 			<img class="text-center" src="img/fotoProduto.jpg" height="200" width="200">
 		</div>
 		<div class="col-md-5">
-			<div class="row">
-				<div class="col-md-12">
-					<h1>3 EM 1 FOSCO 18L BRANCO</h1>
+			<div class="row text-center-sm">
+				<div class="col-md-12 ">
+					<h1 class="text-center-sm">3 EM 1 FOSCO 18L BRANCO</h1>
 					<label>Embalagem:</label> <strong>01 UN</strong><br>
 					<label>Unidade:</label> <strong>LT</strong><br>
 					<label>Código:</label> <strong>20830</strong><br>
 				</div>
 			</div>
-			<div class="row">
-				<div class="col-md-6">
+			<div class="row text-center-sm">
+				<div class="col-md-6 col-xs-12">
 					<label>Código de barras:</label> <strong>7891019100033</strong><br><br>
 				</div>
-				<div class="col-md-6 text-center">
+				<div class="col-md-6 col-xs-12 text-center">
 					<a data-toggle="modal" data-target="#modalPlanoDePagamento" class="aFormasPagamento"><img class="text-center" src="img/icon/formasPagamento.png" height="15" width="20">&nbsp;&nbsp;FORMAS DE PAGAMENTO</a><br><br>
 				</div>
 			</div>
 			
-			<div id="divPromocao" class="row">
+			<div id="divPromocao" class="row text-center-sm">
 				<div class="col-md-12">
 					<div class="panel panel-default">
 					  <div class="panel-body">
 						<div class="row">
-							<div class="col-md-2 text-center media-left media-middle">
+							<div class="col-md-2 text-center text-center-sm media-left media-middle">
 								<img src="img/icon/promocao.png" height="30" width="30">
 							</div>
 							<div class="col-md-8 text-center">
@@ -150,6 +151,29 @@
 					<div class="col-md-12 text-center">
 						<h2>Aproveite também</h2>
 					</div>
+					<div class="col-md-12">
+						<div id="divProdutoMini" >
+						<center>
+						<a href="#">
+						<img class="text-center" src="img/fotoProduto.jpg" height="100" width="100">
+						<h4>3 EM 1 FOSCO 18L BRANCO</h4></a>
+						<small><strong>EMB 04</strong></small><br>
+						<small>Qt. Disp: 9</small>
+						<h3><strong>R$ 2,84</strong></h3>
+						<div class="row">
+							<div class="col-md-6">
+								<button type="button" class="btn btn-primary btn-lg btn-block btnAdicionarALista btnSecundario">
+									<img class="text-center" src="img/icon/adicionarALista.png" height="20" width="20"></button>
+							</div>
+							<div class="col-md-6">
+								<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull">
+									<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20"></button>
+							</div>
+						</div>
+						</center>
+						</div>
+					</div>
+					
 					<div class="col-md-12">
 						<div id="divProdutoMini" >
 						<center>
