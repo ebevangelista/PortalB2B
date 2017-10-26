@@ -79,7 +79,7 @@
 										</div>
 									  </div>
 									  <div class="form-group">
-										<label for="inputEmail3" class="col-sm-4 control-label">Transportadora:</label>
+										<label for="inputEmail3" class="col-sm-4 control-label">Forma de entrega:</label>
 										<div class="col-sm-8">
 										  <select class="form-control">
 											  <option>Jadlog</option>
