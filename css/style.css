@@ -479,8 +479,9 @@ input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus
 	margin-bottom: 10px !important;
 }
 
-.inputGroupQuantidade{
-	width: 124px !important;
+.divGroupQuantidadeMini{
+	margin-top: 2px !important;
+	margin-bottom: 2px !important;
 }
 
 input.inputQuantidadeCompra{
@@ -497,6 +498,22 @@ input.inputQuantidadeCompra{
 	margin: 0px 4px 0px 4px !important;
 }
 
+input.inputQuantidadeCompraMini{
+	width: 30px !important;
+	height: 25px!important;
+	/*float: none !important;*/
+	background: #f4f4f4 !important;
+	background-color: #f4f4f4 !important;
+	border-radius: 3px !important;
+	border: none !important;
+	text-align: center !important;
+	font-family: 'Dosis Bold', sans-serif !important;
+	color: #3e3e3e !important;
+	margin: 0px 2px 0px 2px !important;
+	font-size: 14px !important;
+	padding: 2px 2px 2px 2px !important;
+}
+
 .btnMais, .btnMenos{
 	width: 40px !important;
 	height: 40px!important;
@@ -509,7 +526,19 @@ input.inputQuantidadeCompra{
 	color: #fff !important;
 }
 
-.btnMais:hover, #divProdutoGrid .btnMenos:hover{
+.btnMaisMini, .btnMenosMini{
+	width: 25px !important;
+	height: 25px!important;
+	float: left !important;
+	background-color: #034077 !important;
+	border-radius: 3px !important;
+	border: none !important;
+	text-align: center !important;
+	font-weight: 900 !important;
+	color: #fff !important;
+}
+
+.btnMais:hover, #divProdutoGrid .btnMenos:hover, .btnMaisMini:hover, .btnMenosMini:hover{
 	opacity: 0.8 !important;
 }
 

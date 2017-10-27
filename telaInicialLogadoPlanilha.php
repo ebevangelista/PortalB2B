@@ -63,6 +63,7 @@
 								<th class="text-center">Embalagem</th>
 								<th class="text-center">Qt. Disp.</th>
 								<th class="text-center">Preço</th>
+								<th class="text-center">Quantidade</th>
 								<th class="text-center">Ações</th>
 							</tr>
 						</thead>
@@ -73,6 +74,18 @@
 								<td class="text-center">EMB 04 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
 								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
@@ -94,6 +107,18 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
 											<img src="img/icon/adicionarALista.png" height="20" width="20">
@@ -113,6 +138,18 @@
 								<td class="text-center">EMB 04 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
 								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
@@ -134,6 +171,18 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
 											<img src="img/icon/adicionarALista.png" height="20" width="20">
@@ -154,25 +203,17 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
 								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
@@ -194,25 +235,17 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
 								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
@@ -234,25 +267,17 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
 								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
@@ -274,25 +299,17 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
 								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
@@ -314,25 +331,17 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
 								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
@@ -354,25 +363,17 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
 								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
@@ -394,25 +395,17 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
 								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
@@ -434,25 +427,17 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
 								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
@@ -474,25 +459,17 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
 								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
@@ -514,25 +491,17 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
 								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
@@ -554,25 +523,17 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
 								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
@@ -594,25 +555,17 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
 								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
@@ -634,25 +587,17 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
 								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
@@ -674,6 +619,18 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
 											<img src="img/icon/adicionarALista.png" height="20" width="20">
@@ -694,6 +651,18 @@
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
 									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
 										<center>
 											<img src="img/icon/adicionarALista.png" height="20" width="20">
@@ -706,6 +675,584 @@
 									</a>
 								</td>
 							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							<tr>
+								<th scope="row" class="text-center">324</th>
+								<td>3 EM 1 FOSCO 18L BRANCO</td>
+								<td class="text-center">EMB 04 UN</td>
+								<td class="text-center">09</td>
+								<td class="text-center">R$ 250,00</td>
+								<td class="text-center">
+									<div class="btn-group divGroupQuantidadeMini" role="group">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-minus"></span>
+										</button>
+										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										  
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+											<span class="glyphicon glyphicon-plus"></span>
+										</button>
+									</div>
+								</td>
+								<td class="text-center">
+									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/adicionarALista.png" height="20" width="20">
+										</center>
+									</a>
+									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
+										<center>
+											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
+										</center>
+									</a>
+								</td>
+							</tr>
+							
+							
 						</tbody>
 					</table>
 				</div>
