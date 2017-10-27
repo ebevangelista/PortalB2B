@@ -108,12 +108,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[2]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[2]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[2]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -140,12 +140,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[3]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[3]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[3]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -172,12 +172,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[4]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[4]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[4]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -204,12 +204,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[5]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[5]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[5]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -236,12 +236,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[6]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[6]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[6]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -268,12 +268,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[7]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[7]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[7]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -300,12 +300,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[8]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[8]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[8]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -332,12 +332,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[9]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[9]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[9]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -364,12 +364,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[10]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[10]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[10]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -396,12 +396,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[11]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[11]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[11]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -428,12 +428,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[12]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[12]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[12]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -460,12 +460,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[13]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[13]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[13]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -492,12 +492,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[14]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[14]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[14]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -524,12 +524,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[15]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[15]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[15]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -556,12 +556,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[16]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[16]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[16]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -588,12 +588,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[17]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[17]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[17]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -620,12 +620,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[18]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[18]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[18]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -652,12 +652,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[19]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[19]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[19]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -684,12 +684,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[20]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[20]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[20]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -716,12 +716,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[21]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[21]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[21]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -748,12 +748,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[22]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[22]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[22]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -780,12 +780,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[23]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[23]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[23]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -812,12 +812,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[24]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[24]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[24]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -844,12 +844,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[25]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[25]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[25]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -876,12 +876,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[26]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[26]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[26]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -908,12 +908,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[27]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[27]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[27]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -940,12 +940,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[28]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[28]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[28]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -972,12 +972,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[29]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[29]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[29]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
@@ -1004,236 +1004,12 @@
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
 									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[30]">
 											<span class="glyphicon glyphicon-minus"></span>
 										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
+										<input type="text" name="quant[30]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
 										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
-											<span class="glyphicon glyphicon-plus"></span>
-										</button>
-									</div>
-								</td>
-								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
-								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
-								<td class="text-center">
-									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
-											<span class="glyphicon glyphicon-minus"></span>
-										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
-										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
-											<span class="glyphicon glyphicon-plus"></span>
-										</button>
-									</div>
-								</td>
-								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
-								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
-								<td class="text-center">
-									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
-											<span class="glyphicon glyphicon-minus"></span>
-										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
-										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
-											<span class="glyphicon glyphicon-plus"></span>
-										</button>
-									</div>
-								</td>
-								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
-								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
-								<td class="text-center">
-									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
-											<span class="glyphicon glyphicon-minus"></span>
-										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
-										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
-											<span class="glyphicon glyphicon-plus"></span>
-										</button>
-									</div>
-								</td>
-								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
-								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
-								<td class="text-center">
-									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
-											<span class="glyphicon glyphicon-minus"></span>
-										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
-										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
-											<span class="glyphicon glyphicon-plus"></span>
-										</button>
-									</div>
-								</td>
-								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
-								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
-								<td class="text-center">
-									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
-											<span class="glyphicon glyphicon-minus"></span>
-										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
-										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
-											<span class="glyphicon glyphicon-plus"></span>
-										</button>
-									</div>
-								</td>
-								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
-								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
-								<td class="text-center">
-									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
-											<span class="glyphicon glyphicon-minus"></span>
-										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
-										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
-											<span class="glyphicon glyphicon-plus"></span>
-										</button>
-									</div>
-								</td>
-								<td class="text-center">
-									<a  type="button" class="btn  btn-default btn-xs " data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/adicionarALista.png" height="20" width="20">
-										</center>
-									</a>
-									<a  type="button" class="btn  btn-default btn-xs btn-primary btnProdutoFull" data-toggle="modal" data-target="#modalBoletoNaoAtualizado">
-										<center>
-											<img src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">
-										</center>
-									</a>
-								</td>
-							</tr>
-							
-							<tr>
-								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
-								<td class="text-center">09</td>
-								<td class="text-center">R$ 250,00</td>
-								<td class="text-center">
-									<div class="btn-group divGroupQuantidadeMini" role="group">
-										<button type="button" class="btn btn-default btn-number btn-xs btnMenosMini" data-type="minus" data-field="quant[1]">
-											<span class="glyphicon glyphicon-minus"></span>
-										</button>
-										<input type="text" name="quant[1]" class="btn btn-default inputQuantidadeCompraMini" value="1" min="1" max="10">
-										  
-										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[1]">
+										<button type="button" class="btn btn-default btn-number btn-xs btnMaisMini" data-type="plus" data-field="quant[30]">
 											<span class="glyphicon glyphicon-plus"></span>
 										</button>
 									</div>
