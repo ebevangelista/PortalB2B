@@ -1,3 +1,4 @@
+
 @font-face {
     font-family: "Dosis Bold";
     src:url("../fonts/Dosis-Bold.ttf");
@@ -64,6 +65,10 @@ a{
 	cursor: pointer !important;
 }
 
+#divLogin a{
+	text-decoration: underline;
+}
+
 textarea {
     resize: none !important;
 }
@@ -101,6 +106,11 @@ input[type=text]:focus, input[type=password]:focus, select:focus, textarea:focus
 	outline: none !important;
 	box-shadow: none !important;
 	opacity: 0.8 !important;
+}
+
+select{
+	text-align-last: center !important;
+	color: #3e3e3e !important;
 }
 
 .checkbox input[type=checkbox]{
@@ -676,6 +686,10 @@ input.inputQuantidadeCompraMini{
 
 	#divFooter span{
 		font-size: 1.2em !important;
+	}
+	
+	#divFooter a{
+		text-decoration: none !important;
 	}
 
 	#divSocket{

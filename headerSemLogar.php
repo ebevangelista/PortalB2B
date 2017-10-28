@@ -81,17 +81,14 @@
 		<div class="row">
 			<div class="col-md-2"></div>
 			<div class="col-md-8">
-				<div class="btn-group btn-group-justified" role="group" aria-label="...">
-				  <div class="btn-group" role="group">
-					<a href="telaInicialSemLogar.php" type="button" class="btn btn-default">INÍCIO</a>
-				  </div>
-				  <div class="btn-group" role="group">
-					<a type="button" class="btn btn-default current">PRODUTOS</a>
-				  </div>
-				  <div class="btn-group" role="group">
-					<a type="button" class="btn btn-default">MEUS PEDIDOS</a>
-				  </div>
-				</div>
+				<ul class="nav nav-pills nav-justified">
+					<li>
+						<a href="telaInicialSemLogar.php">INÍCIO</a>
+					</li>
+					<li>
+						<a href="telaInicialSemLogar.php" class="current">PRODUTOS</a>
+					</li>
+				</ul>				
 			</div>
 			<div class="col-md-2"></div>
 		</div>
