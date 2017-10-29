@@ -92,11 +92,11 @@
 	
 	<!--  Container principal  -->
 	<div class="row">
-			<div class="col-md-4">.</div>
+			<div class="col-md-4"></div>
 			<div class="col-md-4 text-center">
 				<div id="divLogin" class="wrapper">
 					<form class="form-signin">       
-					  <img src="img/logotipo.jpg" alt="" class="img-rounded" width="270" height="97">
+					  <img src="img/logotipo.jpg" alt="" class="img-rounded img-responsive" width="270" height="97">
 					  <br>
 					  <br>
 					  <br>

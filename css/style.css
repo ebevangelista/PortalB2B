@@ -342,14 +342,22 @@ select{
 #divSidebar h3{
 	font-family: 'Dosis Semi Bold', sans-serif !important;
 	color: #4a4a4a !important;
+	font-size: 1.3em !important;
 }
 
 #divSidebar a{
 	font-family: 'Dosis Semi Bold', sans-serif !important;
 	color: #4a4a4a !important;
 	font-size: .9em !important;
-	padding-left: 5px !important;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#divSidebar .subMenu a{
+	padding-left: 15px !important;
+	padding-top: 5px !important;
 	padding-right: 5px !important;
+	padding-bottom: 5px !important;
 }
 
 #divSidebar a:hover{
