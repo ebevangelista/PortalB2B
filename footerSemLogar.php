@@ -126,6 +126,7 @@ $(".input-number").keydown(function (e) {
             e.preventDefault();
         }
     });
+
 	</script>
   </body>
 </html>
