@@ -55,10 +55,10 @@
 				<div id="divProdutoLista" class="row">
 					<div >
 						<div class="col-md-4">
-							<a class="labelCaixa">
+							<p class="labelCaixa">
 								<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 								<span class="text">EMB<BR>04 UN</span>
-							</a>
+							</p>
 							<a href="produtoIndividualLogado.php">
 							<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
 						</div>
@@ -96,10 +96,10 @@
 				<div id="divProdutoLista" class="row">
 					<div >
 						<div class="col-md-4">
-							<a class="labelCaixa">
+							<p class="labelCaixa">
 								<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 								<span class="text">EMB<BR>04 UN</span>
-							</a>
+							</p>
 							<a href="produtoIndividualLogado.php">
 							<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
 						</div>
@@ -137,10 +137,10 @@
 				<div id="divProdutoLista" class="row">
 					<div >
 						<div class="col-md-4">
-							<a class="labelCaixa">
+							<p class="labelCaixa">
 								<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 								<span class="text">EMB<BR>04 UN</span>
-							</a>
+							</p>
 							<a href="produtoIndividualLogado.php">
 							<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
 						</div>
@@ -178,10 +178,10 @@
 				<div id="divProdutoLista" class="row">
 					<div >
 						<div class="col-md-4">
-							<a class="labelCaixa">
+							<p class="labelCaixa">
 								<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 								<span class="text">EMB<BR>04 UN</span>
-							</a>
+							</p>
 							<a href="produtoIndividualLogado.php">
 							<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
 						</div>
@@ -219,10 +219,10 @@
 				<div id="divProdutoLista" class="row">
 					<div >
 						<div class="col-md-4">
-							<a class="labelCaixa">
+							<p class="labelCaixa">
 								<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 								<span class="text">EMB<BR>04 UN</span>
-							</a>
+							</p>
 							<a href="produtoIndividualLogado.php">
 							<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
 						</div>
@@ -260,10 +260,10 @@
 				<div id="divProdutoLista" class="row">
 					<div >
 						<div class="col-md-4">
-							<a class="labelCaixa">
+							<p class="labelCaixa">
 								<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 								<span class="text">EMB<BR>04 UN</span>
-							</a>
+							</p>
 							<a href="produtoIndividualLogado.php">
 							<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
 						</div>
@@ -301,10 +301,10 @@
 				<div id="divProdutoLista" class="row">
 					<div >
 						<div class="col-md-4">
-							<a class="labelCaixa">
+							<p class="labelCaixa">
 								<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 								<span class="text">EMB<BR>04 UN</span>
-							</a>
+							</p>
 							<a href="produtoIndividualLogado.php">
 							<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
 						</div>
@@ -342,10 +342,10 @@
 				<div id="divProdutoLista" class="row">
 					<div >
 						<div class="col-md-4">
-							<a class="labelCaixa">
+							<p class="labelCaixa">
 								<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
 								<span class="text">EMB<BR>04 UN</span>
-							</a>
+							</p>
 							<a href="produtoIndividualLogado.php">
 							<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
 						</div>

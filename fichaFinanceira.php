@@ -3,21 +3,21 @@
 	<div id="divBreadcrumbs" class="row">
 		<div class="col-md-1"></div>
 		<div class="col-md-4"><a href="telaInicialLogado.php">Início</a> > <strong>Ficha financeira</strong></div>
-		<div class="col-md-7 text-center"></div>
+		<div class="col-md-7 text-center-sm"></div>
 	</div>
 	<div class="row">
 		<div class="col-md-1"></div>
-		<div class="col-md-4"><h1>Ficha financeira</h1></div>
-		<div class="col-md-7 text-center"></div>
+		<div class="col-md-4 text-center-sm"><h1>Ficha financeira</h1></div>
+		<div class="col-md-7 text-center-sm"></div>
 	</div>
 	
-	<div class="row">
+	<div class="row text-center-sm">
 		<div class="col-md-3"></div>
-		<div class="col-md-6 text-center">
+		<div class="col-md-6 text-center-sm">
 			<h3>Você está logado como <strong>Marcelo Mendes</strong></h3>
 			<p>Você fez 54 pedido(s) desde 19/07/2017.</p>
 			
-			<div class="row text-left">
+			<div class="row text-left text-center-sm">
 				<div class="col-md-6">
 					<h4><strong>Dados pessoais</strong></h4>
 					<p>CPF/CPNJ: <strong>009.408.451-30</strong></p>
