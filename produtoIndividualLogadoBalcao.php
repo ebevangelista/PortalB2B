@@ -17,6 +17,24 @@
 		<div class="col-md-2"></div>
 		<div class="col-md-1"></div>
 	</div>
+
+    <!-- Modal modalSucessoInsercaoLista -->
+    <div class="modal fade" id="modalSucessoInsercaoLista" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title" id="myModalLabel">Tudo certo!</h1>
+                </div>
+                <div class="modal-body">
+                    Produto inserido na lista </strong>PRODUTOS A COMPRAR</strong>.
+                </div>
+                <div class="modal-footer">
+                    <a href="" type="button" class="btn btn-default btnSecundario">IR PARA A LISTA</a>
+                    <button type="button" class="btn btn-primary btnProdutoFull" data-dismiss="modal">CONTINUAR COMPRANDO</button>
+                </div>
+            </div>
+        </div>
+    </div>
 	
 	<!-- Modal modalAtencaoMultiplo -->
 	<div class="modal fade" id="modalAtencaoMultiplo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -136,17 +154,20 @@
 			</div>
 			<br>
 			<div class="row">
-				<div class="col-md-4">
-					<button type="button" class="btn btn-primary btn-lg btn-block btnAdicionarALista btnSecundario" data-toggle="modal" data-target="#modalSucessoInsercaoCarrinho">
+				<div class="col-md-6">
+					<button type="button" class="btn btn-primary btn-lg btn-block btnAdicionarALista btnSecundario" data-toggle="modal" data-target="#modalSucessoInsercaoLista">
 						<img class="text-center" src="img/icon/adicionarALista.png" height="20" width="20">&nbsp;&nbsp;ADICIONAR À LISTA</button>
 				</div>
-				<div class="col-md-4">
+				<div class="col-md-6">
 					<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull" data-toggle="modal" data-target="#modalAtencaoMultiplo">
 						<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;COMPRAR</button>
 				</div>
-				<div class="col-md-4">
+            </div>
+            <br>
+            <div class="row">
+				<div class="col-md-12">
 					<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull" data-toggle="modal" data-target="#modalAtencaoMultiplo">
-						<img class="text-center" src="img/icon/carrinhoBotaoCompra.png" height="20" width="20">&nbsp;&nbsp;RETIRAR NA LOJA</button>
+						<img class="text-center" src="img/icon/caixa.png" height="20" width="20">&nbsp;&nbsp;RETIRAR NA LOJA</button>
 				</div>
 			</div>
 		</div>

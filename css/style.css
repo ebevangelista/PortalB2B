@@ -615,6 +615,9 @@ input.inputQuantidadeCompraMini{
 #divPromocao{
 	color: #034077 !important;
 }
+#divPromocao .media-body, #divPromocao .media-left, #divPromocao .media-right{
+	display: inline-block !important;
+}
 
 #divPromocao strong{
 	color: #4a4a4a !important;
