@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ed30a38-6c98-4e64-a917-4cb94e02810f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fichaFinanceira.php" afterPath="$PROJECT_DIR$/fichaFinanceira.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footerLogado.php" afterPath="$PROJECT_DIR$/footerLogado.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footerSemLogar.php" afterPath="$PROJECT_DIR$/footerSemLogar.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sidebar.php" afterPath="$PROJECT_DIR$/sidebar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/telaInicialLogadoGrid.php" afterPath="$PROJECT_DIR$/telaInicialLogadoGrid.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/telaInicialLogadoGridLateralEncolhida.php" afterPath="$PROJECT_DIR$/telaInicialLogadoGridLateralEncolhida.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/telaInicialLogadoLista.php" afterPath="$PROJECT_DIR$/telaInicialLogadoLista.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/telaInicialLogadoListaLateralEncolhida.php" afterPath="$PROJECT_DIR$/telaInicialLogadoListaLateralEncolhida.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,80 +16,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="telaInicialLogadoLista.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/telaInicialLogadoLista.php">
+      <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sidebar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5022">
-              <caret line="347" column="32" lean-forward="false" selection-start-line="347" selection-start-column="32" selection-end-line="347" selection-end-column="32" />
-              <folding>
-                <element signature="e#4325#4331#0#HTML" expanded="true" />
-                <element signature="e#4331#4337#0#HTML" expanded="true" />
-                <element signature="e#4556#4562#0#HTML" expanded="true" />
-                <element signature="e#4562#4568#0#HTML" expanded="true" />
-                <element signature="e#6107#6113#0#HTML" expanded="true" />
-                <element signature="e#6113#6119#0#HTML" expanded="true" />
-                <element signature="e#6338#6344#0#HTML" expanded="true" />
-                <element signature="e#6344#6350#0#HTML" expanded="true" />
-                <element signature="e#7889#7895#0#HTML" expanded="true" />
-                <element signature="e#7895#7901#0#HTML" expanded="true" />
-                <element signature="e#8120#8126#0#HTML" expanded="true" />
-                <element signature="e#8126#8132#0#HTML" expanded="true" />
-                <element signature="e#9671#9677#0#HTML" expanded="true" />
-                <element signature="e#9677#9683#0#HTML" expanded="true" />
-                <element signature="e#9902#9908#0#HTML" expanded="true" />
-                <element signature="e#9908#9914#0#HTML" expanded="true" />
-                <element signature="e#11453#11459#0#HTML" expanded="true" />
-                <element signature="e#11459#11465#0#HTML" expanded="true" />
-                <element signature="e#11684#11690#0#HTML" expanded="true" />
-                <element signature="e#11690#11696#0#HTML" expanded="true" />
-                <element signature="e#13235#13241#0#HTML" expanded="true" />
-                <element signature="e#13241#13247#0#HTML" expanded="true" />
-                <element signature="e#13466#13472#0#HTML" expanded="true" />
-                <element signature="e#13472#13478#0#HTML" expanded="true" />
-                <element signature="e#15017#15023#0#HTML" expanded="true" />
-                <element signature="e#15023#15029#0#HTML" expanded="true" />
-                <element signature="e#15248#15254#0#HTML" expanded="true" />
-                <element signature="e#15254#15260#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="telaInicialLogadoListaLateralEncolhida.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/telaInicialLogadoListaLateralEncolhida.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-              <folding>
-                <element signature="e#4331#4337#0#HTML" expanded="true" />
-                <element signature="e#4337#4343#0#HTML" expanded="true" />
-                <element signature="e#4562#4568#0#HTML" expanded="true" />
-                <element signature="e#4568#4574#0#HTML" expanded="true" />
-                <element signature="e#6113#6119#0#HTML" expanded="true" />
-                <element signature="e#6119#6125#0#HTML" expanded="true" />
-                <element signature="e#6344#6350#0#HTML" expanded="true" />
-                <element signature="e#6350#6356#0#HTML" expanded="true" />
-                <element signature="e#7895#7901#0#HTML" expanded="true" />
-                <element signature="e#7901#7907#0#HTML" expanded="true" />
-                <element signature="e#8126#8132#0#HTML" expanded="true" />
-                <element signature="e#8132#8138#0#HTML" expanded="true" />
-                <element signature="e#9677#9683#0#HTML" expanded="true" />
-                <element signature="e#9683#9689#0#HTML" expanded="true" />
-                <element signature="e#9908#9914#0#HTML" expanded="true" />
-                <element signature="e#9914#9920#0#HTML" expanded="true" />
-                <element signature="e#11459#11465#0#HTML" expanded="true" />
-                <element signature="e#11465#11471#0#HTML" expanded="true" />
-                <element signature="e#11690#11696#0#HTML" expanded="true" />
-                <element signature="e#11696#11702#0#HTML" expanded="true" />
-                <element signature="e#13241#13247#0#HTML" expanded="true" />
-                <element signature="e#13247#13253#0#HTML" expanded="true" />
-                <element signature="e#13472#13478#0#HTML" expanded="true" />
-                <element signature="e#13478#13484#0#HTML" expanded="true" />
-                <element signature="e#15023#15029#0#HTML" expanded="true" />
-                <element signature="e#15029#15035#0#HTML" expanded="true" />
-                <element signature="e#15254#15260#0#HTML" expanded="true" />
-                <element signature="e#15260#15266#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="549">
+              <caret line="35" column="25" lean-forward="false" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -127,17 +57,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/footerSemLogar.php" />
         <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/produtoIndividualLogado.php" />
         <option value="$PROJECT_DIR$/produtoIndividualLogadoBalcao.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/fichaFinanceira.php" />
-        <option value="$PROJECT_DIR$/sidebar.php" />
         <option value="$PROJECT_DIR$/telaInicialLogadoGrid.php" />
         <option value="$PROJECT_DIR$/telaInicialLogadoGridLateralEncolhida.php" />
         <option value="$PROJECT_DIR$/telaInicialLogadoLista.php" />
         <option value="$PROJECT_DIR$/telaInicialLogadoListaLateralEncolhida.php" />
+        <option value="$PROJECT_DIR$/footerLogado.php" />
+        <option value="$PROJECT_DIR$/footerSemLogar.php" />
+        <option value="$PROJECT_DIR$/sidebar.php" />
       </list>
     </option>
   </component>
@@ -173,8 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,6 +120,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,12 +154,13 @@
       <workItem from="1509200302056" duration="41000" />
       <workItem from="1509232585583" duration="704000" />
       <workItem from="1509266537038" duration="4457000" />
-      <workItem from="1510177887375" duration="3061000" />
+      <workItem from="1510177887375" duration="3505000" />
+      <workItem from="1510874625336" duration="1172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8263000" />
+    <option name="totallyTimeSpent" value="9879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -236,10 +168,8 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -248,9 +178,11 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -265,45 +197,53 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/login.php">
+    <entry file="file://$PROJECT_DIR$/telaInicialLogadoLista.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#16060#16066#0#HTML" expanded="true" />
-            <element signature="e#16066#16072#0#HTML" expanded="true" />
-            <element signature="e#19488#19494#0#HTML" expanded="true" />
-            <element signature="e#19494#19500#0#HTML" expanded="true" />
-            <element signature="e#20449#20455#0#HTML" expanded="true" />
-            <element signature="e#20455#20461#0#HTML" expanded="true" />
-            <element signature="e#21411#21417#0#HTML" expanded="true" />
-            <element signature="e#21417#21423#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#16060#16066#0#HTML" expanded="true" />
-            <element signature="e#16066#16072#0#HTML" expanded="true" />
-            <element signature="e#19488#19494#0#HTML" expanded="true" />
-            <element signature="e#19494#19500#0#HTML" expanded="true" />
-            <element signature="e#20449#20455#0#HTML" expanded="true" />
-            <element signature="e#20455#20461#0#HTML" expanded="true" />
-            <element signature="e#21411#21417#0#HTML" expanded="true" />
-            <element signature="e#21417#21423#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footerSemLogar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1334">
-          <caret line="127" column="5" lean-forward="true" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
+        <state relative-caret-position="5899">
+          <caret line="347" column="32" lean-forward="false" selection-start-line="347" selection-start-column="32" selection-end-line="347" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telaInicialLogadoListaLateralEncolhida.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#16060#16066#0#HTML" expanded="true" />
+            <element signature="e#16066#16072#0#HTML" expanded="true" />
+            <element signature="e#19488#19494#0#HTML" expanded="true" />
+            <element signature="e#19494#19500#0#HTML" expanded="true" />
+            <element signature="e#20449#20455#0#HTML" expanded="true" />
+            <element signature="e#20455#20461#0#HTML" expanded="true" />
+            <element signature="e#21411#21417#0#HTML" expanded="true" />
+            <element signature="e#21417#21423#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#16060#16066#0#HTML" expanded="true" />
+            <element signature="e#16066#16072#0#HTML" expanded="true" />
+            <element signature="e#19488#19494#0#HTML" expanded="true" />
+            <element signature="e#19494#19500#0#HTML" expanded="true" />
+            <element signature="e#20449#20455#0#HTML" expanded="true" />
+            <element signature="e#20455#20461#0#HTML" expanded="true" />
+            <element signature="e#21411#21417#0#HTML" expanded="true" />
+            <element signature="e#21417#21423#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -352,7 +292,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="76" column="7" lean-forward="false" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -486,14 +425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sidebar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="63" lean-forward="false" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fichaFinanceira.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -510,75 +441,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/telaInicialLogadoLista.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5022">
+        <state relative-caret-position="5899">
           <caret line="347" column="32" lean-forward="false" selection-start-line="347" selection-start-column="32" selection-end-line="347" selection-end-column="32" />
-          <folding>
-            <element signature="e#4325#4331#0#HTML" expanded="true" />
-            <element signature="e#4331#4337#0#HTML" expanded="true" />
-            <element signature="e#4556#4562#0#HTML" expanded="true" />
-            <element signature="e#4562#4568#0#HTML" expanded="true" />
-            <element signature="e#6107#6113#0#HTML" expanded="true" />
-            <element signature="e#6113#6119#0#HTML" expanded="true" />
-            <element signature="e#6338#6344#0#HTML" expanded="true" />
-            <element signature="e#6344#6350#0#HTML" expanded="true" />
-            <element signature="e#7889#7895#0#HTML" expanded="true" />
-            <element signature="e#7895#7901#0#HTML" expanded="true" />
-            <element signature="e#8120#8126#0#HTML" expanded="true" />
-            <element signature="e#8126#8132#0#HTML" expanded="true" />
-            <element signature="e#9671#9677#0#HTML" expanded="true" />
-            <element signature="e#9677#9683#0#HTML" expanded="true" />
-            <element signature="e#9902#9908#0#HTML" expanded="true" />
-            <element signature="e#9908#9914#0#HTML" expanded="true" />
-            <element signature="e#11453#11459#0#HTML" expanded="true" />
-            <element signature="e#11459#11465#0#HTML" expanded="true" />
-            <element signature="e#11684#11690#0#HTML" expanded="true" />
-            <element signature="e#11690#11696#0#HTML" expanded="true" />
-            <element signature="e#13235#13241#0#HTML" expanded="true" />
-            <element signature="e#13241#13247#0#HTML" expanded="true" />
-            <element signature="e#13466#13472#0#HTML" expanded="true" />
-            <element signature="e#13472#13478#0#HTML" expanded="true" />
-            <element signature="e#15017#15023#0#HTML" expanded="true" />
-            <element signature="e#15023#15029#0#HTML" expanded="true" />
-            <element signature="e#15248#15254#0#HTML" expanded="true" />
-            <element signature="e#15254#15260#0#HTML" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/telaInicialLogadoListaLateralEncolhida.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-          <folding>
-            <element signature="e#4331#4337#0#HTML" expanded="true" />
-            <element signature="e#4337#4343#0#HTML" expanded="true" />
-            <element signature="e#4562#4568#0#HTML" expanded="true" />
-            <element signature="e#4568#4574#0#HTML" expanded="true" />
-            <element signature="e#6113#6119#0#HTML" expanded="true" />
-            <element signature="e#6119#6125#0#HTML" expanded="true" />
-            <element signature="e#6344#6350#0#HTML" expanded="true" />
-            <element signature="e#6350#6356#0#HTML" expanded="true" />
-            <element signature="e#7895#7901#0#HTML" expanded="true" />
-            <element signature="e#7901#7907#0#HTML" expanded="true" />
-            <element signature="e#8126#8132#0#HTML" expanded="true" />
-            <element signature="e#8132#8138#0#HTML" expanded="true" />
-            <element signature="e#9677#9683#0#HTML" expanded="true" />
-            <element signature="e#9683#9689#0#HTML" expanded="true" />
-            <element signature="e#9908#9914#0#HTML" expanded="true" />
-            <element signature="e#9914#9920#0#HTML" expanded="true" />
-            <element signature="e#11459#11465#0#HTML" expanded="true" />
-            <element signature="e#11465#11471#0#HTML" expanded="true" />
-            <element signature="e#11690#11696#0#HTML" expanded="true" />
-            <element signature="e#11696#11702#0#HTML" expanded="true" />
-            <element signature="e#13241#13247#0#HTML" expanded="true" />
-            <element signature="e#13247#13253#0#HTML" expanded="true" />
-            <element signature="e#13472#13478#0#HTML" expanded="true" />
-            <element signature="e#13478#13484#0#HTML" expanded="true" />
-            <element signature="e#15023#15029#0#HTML" expanded="true" />
-            <element signature="e#15029#15035#0#HTML" expanded="true" />
-            <element signature="e#15254#15260#0#HTML" expanded="true" />
-            <element signature="e#15260#15266#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footerSemLogar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="130" column="63" lean-forward="false" selection-start-line="130" selection-start-column="63" selection-end-line="130" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footerLogado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="129" column="3" lean-forward="false" selection-start-line="129" selection-start-column="3" selection-end-line="133" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="35" column="25" lean-forward="false" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
