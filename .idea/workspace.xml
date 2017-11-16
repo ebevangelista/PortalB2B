@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5ed30a38-6c98-4e64-a917-4cb94e02810f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footerLogado.php" afterPath="$PROJECT_DIR$/footerLogado.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footerSemLogar.php" afterPath="$PROJECT_DIR$/footerSemLogar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meusPedidos.php" afterPath="$PROJECT_DIR$/meusPedidos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notasFiscais.php" afterPath="$PROJECT_DIR$/notasFiscais.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sidebar.php" afterPath="$PROJECT_DIR$/sidebar.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +16,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sidebar.php">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="57" lean-forward="false" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="meusPedidos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meusPedidos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="139" column="0" lean-forward="true" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notasFiscais.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/notasFiscais.php">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="549">
-              <caret line="35" column="25" lean-forward="false" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+              <caret line="208" column="0" lean-forward="true" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,6 +89,8 @@
         <option value="$PROJECT_DIR$/footerLogado.php" />
         <option value="$PROJECT_DIR$/footerSemLogar.php" />
         <option value="$PROJECT_DIR$/sidebar.php" />
+        <option value="$PROJECT_DIR$/meusPedidos.php" />
+        <option value="$PROJECT_DIR$/notasFiscais.php" />
       </list>
     </option>
   </component>
@@ -155,12 +177,12 @@
       <workItem from="1509232585583" duration="704000" />
       <workItem from="1509266537038" duration="4457000" />
       <workItem from="1510177887375" duration="3505000" />
-      <workItem from="1510874625336" duration="1172000" />
+      <workItem from="1510874625336" duration="1789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9879000" />
+    <option name="totallyTimeSpent" value="10496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -292,6 +314,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="76" column="7" lean-forward="false" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -473,8 +496,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sidebar.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="57" lean-forward="false" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meusPedidos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="139" column="0" lean-forward="true" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notasFiscais.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
-          <caret line="35" column="25" lean-forward="false" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <caret line="208" column="0" lean-forward="true" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
           <folding />
         </state>
       </provider>
