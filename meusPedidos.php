@@ -29,13 +29,13 @@
 						<div id="pedidoBreadcrumbs">
 							<ul class="list-inline text-center text-nowrap">
 							<li>
-									<img src="img/status1PedidoEnviadoAtivo.png" height="100" width="140">
+									<img clas="img-responsive" src="img/status1PedidoEnviadoAtivo.png" height="100" width="140">
 							</li>
 							<li>
-									<img src="img/status2PedidoConfirmado.png" height="100" width="140">
+									<img clas="img-responsive" src="img/status2PedidoConfirmado.png" height="100" width="140">
 							</li>
 							<li>
-									<img src="img/status3SaiuParaEntrega.png" height="100" width="69">
+									<img clas="img-responsive" src="img/status3SaiuParaEntrega.png" height="100" width="69">
 							</li>
 							</ul>
 						</div>
