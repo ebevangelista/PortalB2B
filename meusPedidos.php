@@ -21,8 +21,8 @@
 						<h4><strong>PEDIDO #900</strong></h4>
 						<label>24/08/2017</label><br>
 						<label>2 ITENS (R$ 31,01)</label><br>
-						<label>STATUS:</label> <strong>FINALIZADO</strong><br>
-						<label>POSIÇÃO:</label> <strong>BLOQUEADO</strong>
+						<label>STATUS:</label> <strong>ABERTO</strong><br>
+						<label>POSIÇÃO:</label> <strong>PENDENTE</strong>
 					</div>
 					<div class="col-md-6">
 						<br>
@@ -62,22 +62,19 @@
 						<label>24/08/2017</label><br>
 						<label>2 ITENS (R$ 31,01)</label><br>
 						<label>STATUS:</label> <strong>FINALIZADO</strong><br>
-						<label>POSIÇÃO:</label> <strong>BLOQUEADO</strong>
+						<label>POSIÇÃO:</label> <strong>CANCELADO</strong>
 					</div>
 					<div class="col-md-6">
 						<br>
 						<div id="pedidoBreadcrumbs">
-							<ul class="list-inline text-center text-nowrap">
-							<li>
-									<img src="img/status1PedidoEnviadoAtivo.png" height="100" width="140">
-							</li>
-							<li>
-									<img src="img/status2PedidoConfirmado.png" height="100" width="140">
-							</li>
-							<li>
-									<img src="img/status3SaiuParaEntrega.png" height="100" width="69">
-							</li>
-							</ul>
+                            <ul class="list-inline text-center text-nowrap">
+                                <li>
+                                    <img clas="img-responsive" src="img/status1PedidoEnviadoAtivo.png" height="100" width="140">
+                                </li>
+                                <li>
+                                    <img clas="img-responsive" src="img/status4Cancelado.png" height="100" width="69">
+                                </li>
+                            </ul>
 						</div>
 					</div>
 					<div class="col-md-3 text-center">
@@ -100,8 +97,8 @@
 						<h4><strong>PEDIDO #900</strong></h4>
 						<label>24/08/2017</label><br>
 						<label>2 ITENS (R$ 31,01)</label><br>
-						<label>STATUS:</label> <strong>FINALIZADO</strong><br>
-						<label>POSIÇÃO:</label> <strong>BLOQUEADO</strong>
+						<label>STATUS:</label> <strong>ABERTO</strong><br>
+						<label>POSIÇÃO:</label> <strong>MONTADO</strong>
 					</div>
 					<div class="col-md-6">
 						<br>
@@ -111,7 +108,7 @@
 									<img src="img/status1PedidoEnviadoAtivo.png" height="100" width="140">
 							</li>
 							<li>
-									<img src="img/status2PedidoConfirmado.png" height="100" width="140">
+									<img src="img/status2PedidoMontadoAtivo.png" height="100" width="140">
 							</li>
 							<li>
 									<img src="img/status3SaiuParaEntrega.png" height="100" width="69">
@@ -133,6 +130,46 @@
 					</div>
 				</div>
 			</div>
+
+            <div class="row divPedidoIndividual">
+                <div class="row text-center">
+                    <div class="col-md-3 text-center">
+                        <h4><strong>PEDIDO #900</strong></h4>
+                        <label>24/08/2017</label><br>
+                        <label>2 ITENS (R$ 31,01)</label><br>
+                        <label>STATUS:</label> <strong>FINALIZADO</strong><br>
+                        <label>POSIÇÃO:</label> <strong>ENTREGUE</strong>
+                    </div>
+                    <div class="col-md-6">
+                        <br>
+                        <div id="pedidoBreadcrumbs">
+                            <ul class="list-inline text-center text-nowrap">
+                                <li>
+                                    <img src="img/status1PedidoEnviadoAtivo.png" height="100" width="140">
+                                </li>
+                                <li>
+                                    <img src="img/status2PedidoMontadoAtivo.png" height="100" width="140">
+                                </li>
+                                <li>
+                                    <img src="img/status3EntregueAtivo.png" height="100" width="69">
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-3 text-center">
+                        <button type="button" class="btn btn-primary btn-sm btn-block btnComprar btnProdutoFull"><img class="text-center" src="img/icon/mais.png" height="20" width="20">&nbsp;&nbsp;MAIS INFORMAÇÕES</button><br>
+
+                        <button type="button" class="btn btn-primary btn-sm btn-block btnAdicionarALista btnSecundario">
+                            <img class="text-center" src="img/icon/editar.png" height="20" width="20">&nbsp;&nbsp;EDITAR</button><br>
+
+                        <button type="button" class="btn btn-primary btn-sm btn-block btnAdicionarALista btnSecundario">
+                            <img class="text-center" src="img/icon/duplicar.png" height="20" width="20">&nbsp;&nbsp;REPETIR</button><br>
+
+                        <button type="button" class="btn btn-primary btn-sm btn-block btnComprar btnExcluiFull" data-toggle="modal" data-target="#modalAtencaoMultiplo">
+                            <img class="text-center" src="img/icon/btnExcluiItem.png" height="20" width="20">&nbsp;&nbsp;EXCLUIR ITEM</button>
+                    </div>
+                </div>
+            </div>
 			
 		</div>	
 		<div class="col-md-2"></div>
