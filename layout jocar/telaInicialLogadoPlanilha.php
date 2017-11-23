@@ -70,8 +70,8 @@
 						<tbody>
 							<tr class="active">
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -102,8 +102,8 @@
 							
 							<tr class="success">
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -134,8 +134,8 @@
 							
 							<tr class="warning">
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -166,8 +166,8 @@
 							
 							<tr class="danger">
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -198,8 +198,8 @@
 							
 							<tr class="info">
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -230,8 +230,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -262,8 +262,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -294,8 +294,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -326,8 +326,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -358,8 +358,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -390,8 +390,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -422,8 +422,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -454,8 +454,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -486,8 +486,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -518,8 +518,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -550,8 +550,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -582,8 +582,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -614,8 +614,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -646,8 +646,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -678,8 +678,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -710,8 +710,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -742,8 +742,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -774,8 +774,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -806,8 +806,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -838,8 +838,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -870,8 +870,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -902,8 +902,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -934,8 +934,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -966,8 +966,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">
@@ -998,8 +998,8 @@
 							
 							<tr>
 								<th scope="row" class="text-center">324</th>
-								<td>3 EM 1 FOSCO 18L BRANCO</td>
-								<td class="text-center">EMB 04 UN</td>
+								<td>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</td>
+								<td class="text-center">EMB 02 UN</td>
 								<td class="text-center">09</td>
 								<td class="text-center">R$ 250,00</td>
 								<td class="text-center">

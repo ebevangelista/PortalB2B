@@ -50,7 +50,7 @@
 						<img class="text-center" src="img/icon/duplicar.png" height="20" width="20">&nbsp;&nbsp;REPETIR</button><br>
 						
 						<button type="button" class="btn btn-primary btn-sm btn-block btnComprar btnExcluiFull" data-toggle="modal" data-target="#modalAtencaoMultiplo">
-						<img class="text-center" src="img/icon/btnExcluiItem.png" height="20" width="20">&nbsp;&nbsp;EXCLUIR ITEM</button>
+						<img class="text-center" src="img/icon/btnExcluiItem.png" height="20" width="20">&nbsp;&nbsp;EXCLUIR PEDIDO</button>
 					</div>
 				</div>
 			</div>
@@ -62,7 +62,8 @@
 						<label>24/08/2017</label><br>
 						<label>2 ITENS (R$ 31,01)</label><br>
 						<label>STATUS:</label> <strong>FINALIZADO</strong><br>
-						<label>POSIÇÃO:</label> <strong>CANCELADO</strong>
+						<label>POSIÇÃO:</label> <strong>CANCELADO</strong><br>
+                        <label>MOTIVO:</label><br><strong>CLIENTE SEM CRÉDITO SUFICIENTE</strong>
 					</div>
 					<div class="col-md-6">
 						<br>
@@ -87,7 +88,7 @@
 						<img class="text-center" src="img/icon/duplicar.png" height="20" width="20">&nbsp;&nbsp;REPETIR</button><br>
 						
 						<button type="button" class="btn btn-primary btn-sm btn-block btnComprar btnExcluiFull" data-toggle="modal" data-target="#modalAtencaoMultiplo">
-						<img class="text-center" src="img/icon/btnExcluiItem.png" height="20" width="20">&nbsp;&nbsp;EXCLUIR ITEM</button>
+						<img class="text-center" src="img/icon/btnExcluiItem.png" height="20" width="20">&nbsp;&nbsp;EXCLUIR PEDIDO</button>
 					</div>
 				</div>
 			</div>
@@ -126,7 +127,7 @@
 						<img class="text-center" src="img/icon/duplicar.png" height="20" width="20">&nbsp;&nbsp;REPETIR</button><br>
 						
 						<button type="button" class="btn btn-primary btn-sm btn-block btnComprar btnExcluiFull" data-toggle="modal" data-target="#modalAtencaoMultiplo">
-						<img class="text-center" src="img/icon/btnExcluiItem.png" height="20" width="20">&nbsp;&nbsp;EXCLUIR ITEM</button>
+						<img class="text-center" src="img/icon/btnExcluiItem.png" height="20" width="20">&nbsp;&nbsp;EXCLUIR PEDIDO</button>
 					</div>
 				</div>
 			</div>
@@ -166,7 +167,7 @@
                             <img class="text-center" src="img/icon/duplicar.png" height="20" width="20">&nbsp;&nbsp;REPETIR</button><br>
 
                         <button type="button" class="btn btn-primary btn-sm btn-block btnComprar btnExcluiFull" data-toggle="modal" data-target="#modalAtencaoMultiplo">
-                            <img class="text-center" src="img/icon/btnExcluiItem.png" height="20" width="20">&nbsp;&nbsp;EXCLUIR ITEM</button>
+                            <img class="text-center" src="img/icon/btnExcluiItem.png" height="20" width="20">&nbsp;&nbsp;EXCLUIR PEDIDO</button>
                     </div>
                 </div>
             </div>

@@ -42,7 +42,7 @@ h1{
 
 h2{
 	font-family: 'Dosis Bold', sans-serif !important;
-	color: #034077;
+	color: #004D9C;
 	font-size: 1.3em !important;
 }
 
@@ -61,7 +61,7 @@ strong{
 }
 
 a{
-	color: #034077;
+	color: #004D9C;
 	cursor: pointer !important;
 }
 
@@ -86,8 +86,8 @@ textarea {
 
 ul.pagination li.active a {
 	color: #FFFFFF !important;
-	background-color: #034077;
-	border-color: #034077;
+	background-color: #004D9C;
+	border-color: #004D9C;
 }
 
 input[type=text], input[type=password],  input[type=email], input[type=tel], input[type=number], input[type=date], select, option, textarea {
@@ -123,7 +123,7 @@ select{
 }
 
 .btnProdutoFull, #btnCarregarMais, .btnProdutoMini{
-	background-color: #034077 !important;
+	background-color: #004D9C !important;
 	font-family: 'Dosis Bold', sans-serif !important;
 }
 
@@ -169,7 +169,7 @@ select{
 /*--------  INÍCIO CSS DO TOPO DA TELA  -----------*/
 	/* css do topo do site */
 	#divTopo{
-		background-color: #034077 !important;
+		background-color: #004D9C !important;
 		vertical-align: middle;
 		min-height: 50px;
 		line-height: 50px;
@@ -190,6 +190,11 @@ select{
 	}
 
 	/* css do menu do logotipo barra de pesquisa, carrinho e notificação*/
+
+	#formPesquisa{
+		font-size: 12px !important;
+	}
+
 	#divMenuLogotipo{
 		padding-top: 40px;
 		line-height: 50px;
@@ -204,7 +209,7 @@ select{
 		min-width: 100% !important;
 	}
 
-	#divMenuLogotipo #inputPesquisa{
+	#inputPesquisa{
 		background-color: #f4f4f4 !important;
 		border: 0px !important;
 		min-width: 100% !important;
@@ -212,10 +217,11 @@ select{
 		height: 40px;
 	}
 
-	#divMenuLogotipo #btnPesquisa{
+	#btnPesquisa{
 		background-color: #f4f4f4 !important;
 		border: 0px !important;
 		height: 40px;
+		margin-top: 5px !important;
 	}
 
 	#divMenuLogotipo #btnCarrinho, #divMenuLogotipo #btnNotificacoes{
@@ -244,12 +250,12 @@ select{
 	#divMenuPrincipal a:hover{
 		background: none !important;
 		background-color: none !important;
-		color: #034077 !important; 
+		color: #004D9C !important; 
 	}
 
 	#divMenuPrincipal a.current{
-		color: #034077 !important; 
-		border-bottom: solid 3px #034077 !important;
+		color: #004D9C !important; 
+		border-bottom: solid 3px #004D9C !important;
 	}
 /*--------  FIM CSS DO TOPO DA TELA  --------------*/
 /*-------------------------------------------------*/
@@ -288,7 +294,7 @@ select{
         text-align: center !important;
         line-height: 20px !important;
         font-size: 12px !important;
-        color:#003E79 !important;
+        color:#004D9C !important;
         opacity: 1 !important;
         background: #fff !important;
 		font-family: 'Dosis Bold', sans-serif !important;
@@ -300,7 +306,7 @@ select{
 	
 .swiper-pagination-bullet-active {
 	color:#fff !important;
-	background: #003E79 !important;
+	background: #004D9C !important;
 	font-family: 'Dosis Bold', sans-serif !important;
 }
 	
@@ -379,7 +385,7 @@ select{
 
 #divConteudo h2{
 	font-family: 'Dosis Bold', sans-serif !important;
-	color: #034077 !important;
+	color: #004D9C !important;
 }
 
 #divConteudo #btnEncolheLateral{
@@ -431,7 +437,7 @@ select{
     -moz-border-radius: 7px;
     -webkit-border-radius: 7px;
     border-radius: 7px;
-    border-top: 4px solid #034077;
+    border-top: 4px solid #004D9C;
     margin: 20px 7px 0px 0px !important;
 }
 
@@ -457,7 +463,7 @@ select{
     -moz-border-radius: 7px;
     -webkit-border-radius: 7px;
     border-radius: 7px;
-    border-left: 4px solid #034077;
+    border-left: 4px solid #004D9C;
     margin: 20px 7px 0px 0px !important;
 }
 
@@ -469,7 +475,7 @@ select{
     min-height: 75px;
     padding: 10px 8px;
     box-sizing: border-box;
-    background-color: #034077;
+    background-color: #004D9C;
     color: #fff !important;
     font-size: 13px;
     line-height: 15px;
@@ -542,7 +548,7 @@ input.inputQuantidadeCompraMini{
 	width: 40px !important;
 	height: 40px!important;
 	float: left !important;
-	background-color: #034077 !important;
+	background-color: #004D9C !important;
 	border-radius: 3px !important;
 	border: none !important;
 	text-align: center !important;
@@ -554,7 +560,7 @@ input.inputQuantidadeCompraMini{
 	width: 25px !important;
 	height: 25px!important;
 	float: left !important;
-	background-color: #034077 !important;
+	background-color: #004D9C !important;
 	border-radius: 3px !important;
 	border: none !important;
 	text-align: center !important;
@@ -587,7 +593,7 @@ input.inputQuantidadeCompraMini{
     -moz-border-radius: 7px;
     -webkit-border-radius: 7px;
     border-radius: 7px;
-    border-top: 4px solid #034077;
+    border-top: 4px solid #004D9C;
     margin: 10px 7px 10px 7px !important;
 }
 
@@ -619,7 +625,7 @@ input.inputQuantidadeCompraMini{
 }
 
 #divPromocao{
-	color: #034077 !important;
+	color: #004D9C !important;
 }
 #divPromocao .media-body, #divPromocao .media-left, #divPromocao .media-right{
 	display: inline-block !important;
@@ -675,7 +681,7 @@ input.inputQuantidadeCompraMini{
 	}
 
 	#divLogin button[type=submit]{
-		background-color: #034077 !important;
+		background-color: #004D9C !important;
 		font-weight: bold !important;
 	}
 
@@ -697,7 +703,7 @@ input.inputQuantidadeCompraMini{
 
 	#divFooter h3{
 		background-color: #f5f5f5 !important;
-		color: #034077 !important;
+		color: #004D9C !important;
 		font-family: 'Dosis Bold', sans-serif !important;
 	}
 

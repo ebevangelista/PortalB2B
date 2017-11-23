@@ -2,7 +2,7 @@
 			
 	<div id="divBreadcrumbs" class="row">
 		<div class="col-md-1"></div>
-		<div class="col-md-4 text-center-sm"><a href="">Início</a> > <a href="">Pintura</a> > <a href="">Econômica</a> > <strong>3 EM 1 FOSCO 18L BRANCO</strong></div>
+		<div class="col-md-4 text-center-sm"><a href="">Início</a> > <a href="">Pintura</a> > <a href="">Econômica</a> > <strong>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</strong></div>
 		<div class="col-md-4 text-center">
 				<div class="btn-group dropdown" role="group">
 					  <button class="btn btn-default dropdown-toggle btnFiltro" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
@@ -24,7 +24,7 @@
 			<img class="text-center" src="img/fotoProduto.jpg" height="200" width="200">
 		</div>
 		<div class="col-md-5 text-center-sm">
-			<h1>3 EM 1 FOSCO 18L BRANCO</h1>
+			<h1>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h1>
 			<label>Embalagem:</label> <strong>01 UN</strong><br>
 			<label>Unidade:</label> <strong>LT</strong><br>
 			<label>Código:</label> <strong>20830</strong><br>
@@ -45,7 +45,7 @@
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="100" width="100">
-						<h4>3 EM 1 FOSCO 18L BRANCO</h4></a>
+						<h4>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h4></a>
 						<small>Qt. Disp: 9</small>
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoMini">
 						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
@@ -58,7 +58,7 @@
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="100" width="100">
-						<h4>3 EM 1 FOSCO 18L BRANCO</h4></a>
+						<h4>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h4></a>
 						<small>Qt. Disp: 9</small>
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoMini">
 						<img class="text-center" src="img/icon/digital.png" height="20" width="20">&nbsp;<strong>REGISTRAR-SE</strong><BR>PARA COMPRAR</button>
@@ -78,12 +78,12 @@
 						<div id="divProdutoGrid" >
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
-							<span class="text">EMB<BR>04 UN</span>
+							<span class="text">EMB<BR>02 UN</span>
 						</a>
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
@@ -97,7 +97,7 @@
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
@@ -111,7 +111,7 @@
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
@@ -125,7 +125,7 @@
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">

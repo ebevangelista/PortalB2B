@@ -72,7 +72,7 @@
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
 					</div>
 					<div class="col-md-6">
-					<h3>3 EM 1 FOSCO 18L BRANCO</h3>
+					<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3>
 					<label>PREÇO:</label> <strong>R$ 250,08</strong><BR>
 					<label>QUANTIDADE:</label> <strong>3</strong><BR>
 					<label>FILIAL:</label> <strong>FILIAL 1 - DISTRIBUIDORA LOPES MT</strong><BR>
@@ -89,7 +89,7 @@
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
 					</div>
 					<div class="col-md-6">
-					<h3>3 EM 1 FOSCO 18L BRANCO</h3>
+					<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3>
 					<label>PREÇO:</label> <strong>R$ 250,08</strong><BR>
 					<label>QUANTIDADE:</label> <strong>3</strong><BR>
 					<label>FILIAL:</label> <strong>FILIAL 1 - DISTRIBUIDORA LOPES MT</strong><BR>

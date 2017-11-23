@@ -132,6 +132,52 @@ $(".input-number").keydown(function (e) {
     }, function() {
         $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(500);
     });
+
+$(document).ready(function () {
+        // Oculta os select options da pesquisa que não estiverem sendo utilizados
+        ocultaPesquisa2Veiculo();
+        ocultaPesquisa3Ano();
+        ocultaPesquisa4Modelo();
+
+        // Caso algum select seja preenchido, chama a função para exibir o próximo select option
+        $("#selectPesquisa1Marca").change(function () {
+            ocultaPesquisa2Veiculo();
+        });
+
+        $("#selectPesquisa2Veiculo").change(function () {
+            ocultaPesquisa3Ano();
+        });
+
+        $("#selectPesquisa3Ano").change(function () {
+            ocultaPesquisa4Modelo();
+        });
+
+    });
+
+    // Funções para exibir ou ocultar os select options
+    function ocultaPesquisa2Veiculo() {
+        if ($("#selectPesquisa1Marca").val() != "Selecione a montadora")
+            $("#selectPesquisa2Veiculo").show();
+
+        else
+            $("#selectPesquisa2Veiculo").hide();
+    }
+
+    function ocultaPesquisa3Ano() {
+        if ($("#selectPesquisa2Veiculo").val() != "Selecione o veículo")
+            $("#selectPesquisa3Ano").show();
+
+        else
+            $("#selectPesquisa3Ano").hide();
+    }
+
+    function ocultaPesquisa4Modelo() {
+        if ($("#selectPesquisa3Ano").val() != "Ano")
+            $("#selectPesquisa4Modelo").show();
+
+        else
+            $("#selectPesquisa4Modelo").hide();
+    }
 	</script>
   </body>
 </html>

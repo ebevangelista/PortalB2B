@@ -2,10 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ed30a38-6c98-4e64-a917-4cb94e02810f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/status1PedidoEnviadoAtivo.png" afterPath="$PROJECT_DIR$/img/status1PedidoEnviadoAtivo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/status2PedidoConfirmadoAtivo.png" afterPath="$PROJECT_DIR$/img/status2PedidoConfirmadoAtivo.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/layout jocar/img/banner.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/img/fotoProduto.jpg" afterPath="$PROJECT_DIR$/layout jocar/img/fotoProduto.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/img/logotipo.jpg" afterPath="$PROJECT_DIR$/layout jocar/img/logotipo.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meusPedidos.php" afterPath="$PROJECT_DIR$/meusPedidos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/carrinho1Itens.php" afterPath="$PROJECT_DIR$/layout jocar/carrinho1Itens.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/carrinho4Visualizar.php" afterPath="$PROJECT_DIR$/layout jocar/carrinho4Visualizar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/css/style.css" afterPath="$PROJECT_DIR$/layout jocar/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/footerLogado.php" afterPath="$PROJECT_DIR$/layout jocar/footerLogado.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/headerLogado.php" afterPath="$PROJECT_DIR$/layout jocar/headerLogado.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/meusPedidos.php" afterPath="$PROJECT_DIR$/layout jocar/meusPedidos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/produtoIndividualLogado.php" afterPath="$PROJECT_DIR$/layout jocar/produtoIndividualLogado.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/produtoIndividualLogadoBalcao.php" afterPath="$PROJECT_DIR$/layout jocar/produtoIndividualLogadoBalcao.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/produtoIndividualSemLogar.php" afterPath="$PROJECT_DIR$/layout jocar/produtoIndividualSemLogar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/slider.php" afterPath="$PROJECT_DIR$/layout jocar/slider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialLogadoGrid.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialLogadoGrid.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialLogadoGridLateralEncolhida.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialLogadoGridLateralEncolhida.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialLogadoLista.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialLogadoLista.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialLogadoListaLateralEncolhida.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialLogadoListaLateralEncolhida.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialLogadoPlanilha.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialLogadoPlanilha.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialLogadoPlanilhaLateralEncolhida.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialLogadoPlanilhaLateralEncolhida.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialSemLogar.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialSemLogar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialSemLogarLateralEncolhida.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialSemLogarLateralEncolhida.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout padrão/meusPedidos.php" afterPath="$PROJECT_DIR$/layout padrão/meusPedidos.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,18 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="meusPedidos.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/meusPedidos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="140" column="64" lean-forward="false" selection-start-line="140" selection-start-column="64" selection-end-line="140" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -42,14 +50,30 @@
       <find>center</find>
       <find>&lt;a class=&quot;labelCaixa&quot;&gt;</find>
       <find>pedidoBreadcrumbs</find>
+      <find>pesquisa</find>
+      <find>034077</find>
+      <find>btn</find>
+      <find>.btnComprar</find>
+      <find>04 UN</find>
+      <find>3 EM 1 FOSCO 18L BRANCO</find>
+      <find>Kit lâmpada do farol - Certa - H4 - 12V 60/55W</find>
+      <find>#003E79</find>
+      <find>EXCLUIR ITEM</find>
     </findStrings>
     <replaceStrings>
       <replace>!</replace>
       <replace>text-left text-center-sm</replace>
       <replace>&lt;p class=&quot;labelCaixa&quot;&gt;</replace>
+      <replace>004D9C</replace>
+      <replace>02 UN</replace>
+      <replace>Kit lâmpada do farol - Certa - H4 - 12V 60/55W</replace>
+      <replace>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</replace>
+      <replace>#004D9C</replace>
+      <replace>EXCLUIR PEDIDO</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\xampp\htdocs\portalb2b</dir>
+      <dir>C:\xampp\htdocs\portalb2b\layout jocar</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -72,6 +96,25 @@
         <option value="$PROJECT_DIR$/notasFiscais.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/meusPedidos.php" />
+        <option value="$PROJECT_DIR$/layout jocar/footerLogado.php" />
+        <option value="$PROJECT_DIR$/layout jocar/slider.php" />
+        <option value="$PROJECT_DIR$/layout jocar/carrinho4Visualizar.php" />
+        <option value="$PROJECT_DIR$/layout jocar/headerLogado.php" />
+        <option value="$PROJECT_DIR$/layout jocar/produtoIndividualLogado.php" />
+        <option value="$PROJECT_DIR$/layout jocar/produtoIndividualLogadoBalcao.php" />
+        <option value="$PROJECT_DIR$/layout jocar/produtoIndividualSemLogar.php" />
+        <option value="$PROJECT_DIR$/layout jocar/telaInicialLogadoGrid.php" />
+        <option value="$PROJECT_DIR$/layout jocar/telaInicialLogadoGridLateralEncolhida.php" />
+        <option value="$PROJECT_DIR$/layout jocar/telaInicialLogadoLista.php" />
+        <option value="$PROJECT_DIR$/layout jocar/telaInicialLogadoListaLateralEncolhida.php" />
+        <option value="$PROJECT_DIR$/layout jocar/telaInicialLogadoPlanilha.php" />
+        <option value="$PROJECT_DIR$/layout jocar/telaInicialLogadoPlanilhaLateralEncolhida.php" />
+        <option value="$PROJECT_DIR$/layout jocar/telaInicialSemLogar.php" />
+        <option value="$PROJECT_DIR$/layout jocar/telaInicialSemLogarLateralEncolhida.php" />
+        <option value="$PROJECT_DIR$/layout jocar/carrinho1Itens.php" />
+        <option value="$PROJECT_DIR$/layout padrão/meusPedidos.php" />
+        <option value="$PROJECT_DIR$/layout jocar/meusPedidos.php" />
+        <option value="$PROJECT_DIR$/layout jocar/css/style.css" />
       </list>
     </option>
   </component>
@@ -107,7 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,12 +160,19 @@
             <path>
               <item name="portalb2b" type="b2602c69:ProjectViewProjectNode" />
               <item name="portalb2b" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layout jocar" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="portalb2b" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portalb2b" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layout jocar" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -160,16 +209,18 @@
       <workItem from="1510177887375" duration="3505000" />
       <workItem from="1510874625336" duration="2781000" />
       <workItem from="1510958565351" duration="1305000" />
+      <workItem from="1511421878388" duration="4434000" />
+      <workItem from="1511426389827" duration="252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12793000" />
+    <option name="totallyTimeSpent" value="17479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -185,7 +236,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -200,301 +251,235 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/telaInicialLogadoLista.php">
+    <entry file="file://$PROJECT_DIR$/meusPedidos.php" />
+    <entry file="file://$PROJECT_DIR$/telaInicialLogadoLista.php" />
+    <entry file="file://$PROJECT_DIR$/telaInicialLogadoListaLateralEncolhida.php" />
+    <entry file="file://$PROJECT_DIR$/login.php" />
+    <entry file="file://$PROJECT_DIR$/login.php" />
+    <entry file="file://$PROJECT_DIR$/carrinho2Condicoes.php" />
+    <entry file="file://$PROJECT_DIR$/login.php" />
+    <entry file="file://$PROJECT_DIR$/produtoIndividualLogado.php" />
+    <entry file="file://$PROJECT_DIR$/produtoIndividualLogadoBalcao.php" />
+    <entry file="file://$PROJECT_DIR$/telaInicialLogadoGrid.php" />
+    <entry file="file://$PROJECT_DIR$/telaInicialLogadoGridLateralEncolhida.php" />
+    <entry file="file://$PROJECT_DIR$/telaInicialLogadoPlanilhaLateralEncolhida.php" />
+    <entry file="file://$PROJECT_DIR$/telaInicialLogadoPlanilha.php" />
+    <entry file="file://$PROJECT_DIR$/fichaFinanceira.php" />
+    <entry file="file://$PROJECT_DIR$/telaInicialLogadoLista.php" />
+    <entry file="file://$PROJECT_DIR$/telaInicialLogadoListaLateralEncolhida.php" />
+    <entry file="file://$PROJECT_DIR$/footerSemLogar.php" />
+    <entry file="file://$PROJECT_DIR$/footerLogado.php" />
+    <entry file="file://$PROJECT_DIR$/notasFiscais.php" />
+    <entry file="file://$PROJECT_DIR$/sidebar.php" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/meusPedidos.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms2.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5899">
-          <caret line="347" column="32" lean-forward="false" selection-start-line="347" selection-start-column="32" selection-end-line="347" selection-end-column="32" />
+        <state relative-caret-position="202">
+          <caret line="360" column="22" lean-forward="false" selection-start-line="360" selection-start-column="22" selection-end-line="360" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/telaInicialLogadoListaLateralEncolhida.php">
+    <entry file="file://$PROJECT_DIR$/layout jocar/footerLogado.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="532">
+          <caret line="150" column="30" lean-forward="false" selection-start-line="150" selection-start-column="30" selection-end-line="150" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
+    <entry file="file://$PROJECT_DIR$/layout jocar/slider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#16060#16066#0#HTML" expanded="true" />
-            <element signature="e#16066#16072#0#HTML" expanded="true" />
-            <element signature="e#19488#19494#0#HTML" expanded="true" />
-            <element signature="e#19494#19500#0#HTML" expanded="true" />
-            <element signature="e#20449#20455#0#HTML" expanded="true" />
-            <element signature="e#20455#20461#0#HTML" expanded="true" />
-            <element signature="e#21411#21417#0#HTML" expanded="true" />
-            <element signature="e#21417#21423#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#16060#16066#0#HTML" expanded="true" />
-            <element signature="e#16066#16072#0#HTML" expanded="true" />
-            <element signature="e#19488#19494#0#HTML" expanded="true" />
-            <element signature="e#19494#19500#0#HTML" expanded="true" />
-            <element signature="e#20449#20455#0#HTML" expanded="true" />
-            <element signature="e#20455#20461#0#HTML" expanded="true" />
-            <element signature="e#21411#21417#0#HTML" expanded="true" />
-            <element signature="e#21417#21423#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/carrinho2Condicoes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="101" column="44" lean-forward="true" selection-start-line="96" selection-start-column="38" selection-end-line="101" selection-end-column="44" />
+        <state relative-caret-position="170">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
+    <entry file="file://$PROJECT_DIR$/layout jocar/carrinho4Visualizar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="85" column="38" lean-forward="true" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
-          <folding>
-            <element signature="e#16060#16066#0#HTML" expanded="true" />
-            <element signature="e#16066#16072#0#HTML" expanded="true" />
-            <element signature="e#19488#19494#0#HTML" expanded="true" />
-            <element signature="e#19494#19500#0#HTML" expanded="true" />
-            <element signature="e#20449#20455#0#HTML" expanded="true" />
-            <element signature="e#20455#20461#0#HTML" expanded="true" />
-            <element signature="e#21411#21417#0#HTML" expanded="true" />
-            <element signature="e#21417#21423#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/produtoIndividualLogado.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="36" column="10" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="36" selection-end-column="10" />
+        <state relative-caret-position="132">
+          <caret line="74" column="24" lean-forward="false" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/produtoIndividualLogadoBalcao.php">
+    <entry file="file://$PROJECT_DIR$/layout jocar/headerLogado.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="125" column="48" lean-forward="false" selection-start-line="125" selection-start-column="48" selection-end-line="125" selection-end-column="48" />
+        <state relative-caret-position="136">
+          <caret line="74" column="36" lean-forward="false" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/telaInicialLogadoGrid.php">
+    <entry file="file://$PROJECT_DIR$/layout jocar/produtoIndividualLogado.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="130" column="71" lean-forward="false" selection-start-line="130" selection-start-column="71" selection-end-line="130" selection-end-column="71" />
-          <folding>
-            <element signature="e#7265#7271#0#HTML" expanded="true" />
-            <element signature="e#7271#7277#0#HTML" expanded="true" />
-            <element signature="e#7493#7499#0#HTML" expanded="true" />
-            <element signature="e#7499#7505#0#HTML" expanded="true" />
-            <element signature="e#8956#8962#0#HTML" expanded="true" />
-            <element signature="e#8962#8968#0#HTML" expanded="true" />
-            <element signature="e#9184#9190#0#HTML" expanded="true" />
-            <element signature="e#9190#9196#0#HTML" expanded="true" />
-            <element signature="e#10384#10390#0#HTML" expanded="true" />
-            <element signature="e#10390#10396#0#HTML" expanded="true" />
-            <element signature="e#10612#10618#0#HTML" expanded="true" />
-            <element signature="e#10618#10624#0#HTML" expanded="true" />
-            <element signature="e#11990#11996#0#HTML" expanded="true" />
-            <element signature="e#11996#12002#0#HTML" expanded="true" />
-            <element signature="e#12218#12224#0#HTML" expanded="true" />
-            <element signature="e#12224#12230#0#HTML" expanded="true" />
-            <element signature="e#13681#13687#0#HTML" expanded="true" />
-            <element signature="e#13687#13693#0#HTML" expanded="true" />
-            <element signature="e#13909#13915#0#HTML" expanded="true" />
-            <element signature="e#13915#13921#0#HTML" expanded="true" />
-            <element signature="e#15109#15115#0#HTML" expanded="true" />
-            <element signature="e#15115#15121#0#HTML" expanded="true" />
-            <element signature="e#15337#15343#0#HTML" expanded="true" />
-            <element signature="e#15343#15349#0#HTML" expanded="true" />
-            <element signature="e#16715#16721#0#HTML" expanded="true" />
-            <element signature="e#16721#16727#0#HTML" expanded="true" />
-            <element signature="e#16943#16949#0#HTML" expanded="true" />
-            <element signature="e#16949#16955#0#HTML" expanded="true" />
-            <element signature="e#18406#18412#0#HTML" expanded="true" />
-            <element signature="e#18412#18418#0#HTML" expanded="true" />
-            <element signature="e#18634#18640#0#HTML" expanded="true" />
-            <element signature="e#18640#18646#0#HTML" expanded="true" />
-            <element signature="e#19834#19840#0#HTML" expanded="true" />
-            <element signature="e#19840#19846#0#HTML" expanded="true" />
-            <element signature="e#20062#20068#0#HTML" expanded="true" />
-            <element signature="e#20068#20074#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/telaInicialLogadoGridLateralEncolhida.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9639">
-          <caret line="576" column="28" lean-forward="false" selection-start-line="576" selection-start-column="28" selection-end-line="576" selection-end-column="28" />
-          <folding>
-            <element signature="e#4234#4240#0#HTML" expanded="true" />
-            <element signature="e#4240#4246#0#HTML" expanded="true" />
-            <element signature="e#4462#4468#0#HTML" expanded="true" />
-            <element signature="e#4468#4474#0#HTML" expanded="true" />
-            <element signature="e#5662#5668#0#HTML" expanded="true" />
-            <element signature="e#5668#5674#0#HTML" expanded="true" />
-            <element signature="e#5890#5896#0#HTML" expanded="true" />
-            <element signature="e#5896#5902#0#HTML" expanded="true" />
-            <element signature="e#7268#7274#0#HTML" expanded="true" />
-            <element signature="e#7274#7280#0#HTML" expanded="true" />
-            <element signature="e#7496#7502#0#HTML" expanded="true" />
-            <element signature="e#7502#7508#0#HTML" expanded="true" />
-            <element signature="e#8874#8880#0#HTML" expanded="true" />
-            <element signature="e#8880#8886#0#HTML" expanded="true" />
-            <element signature="e#9102#9108#0#HTML" expanded="true" />
-            <element signature="e#9108#9114#0#HTML" expanded="true" />
-            <element signature="e#10560#10566#0#HTML" expanded="true" />
-            <element signature="e#10566#10572#0#HTML" expanded="true" />
-            <element signature="e#10788#10794#0#HTML" expanded="true" />
-            <element signature="e#10794#10800#0#HTML" expanded="true" />
-            <element signature="e#11988#11994#0#HTML" expanded="true" />
-            <element signature="e#11994#12000#0#HTML" expanded="true" />
-            <element signature="e#12216#12222#0#HTML" expanded="true" />
-            <element signature="e#12222#12228#0#HTML" expanded="true" />
-            <element signature="e#13594#13600#0#HTML" expanded="true" />
-            <element signature="e#13600#13606#0#HTML" expanded="true" />
-            <element signature="e#13822#13828#0#HTML" expanded="true" />
-            <element signature="e#13828#13834#0#HTML" expanded="true" />
-            <element signature="e#15200#15206#0#HTML" expanded="true" />
-            <element signature="e#15206#15212#0#HTML" expanded="true" />
-            <element signature="e#15428#15434#0#HTML" expanded="true" />
-            <element signature="e#15434#15440#0#HTML" expanded="true" />
-            <element signature="e#16878#16884#0#HTML" expanded="true" />
-            <element signature="e#16884#16890#0#HTML" expanded="true" />
-            <element signature="e#17106#17112#0#HTML" expanded="true" />
-            <element signature="e#17112#17118#0#HTML" expanded="true" />
-            <element signature="e#18306#18312#0#HTML" expanded="true" />
-            <element signature="e#18312#18318#0#HTML" expanded="true" />
-            <element signature="e#18534#18540#0#HTML" expanded="true" />
-            <element signature="e#18540#18546#0#HTML" expanded="true" />
-            <element signature="e#19912#19918#0#HTML" expanded="true" />
-            <element signature="e#19918#19924#0#HTML" expanded="true" />
-            <element signature="e#20140#20146#0#HTML" expanded="true" />
-            <element signature="e#20146#20152#0#HTML" expanded="true" />
-            <element signature="e#21518#21524#0#HTML" expanded="true" />
-            <element signature="e#21524#21530#0#HTML" expanded="true" />
-            <element signature="e#21746#21752#0#HTML" expanded="true" />
-            <element signature="e#21752#21758#0#HTML" expanded="true" />
-            <element signature="e#23196#23202#0#HTML" expanded="true" />
-            <element signature="e#23202#23208#0#HTML" expanded="true" />
-            <element signature="e#23424#23430#0#HTML" expanded="true" />
-            <element signature="e#23430#23436#0#HTML" expanded="true" />
-            <element signature="e#24624#24630#0#HTML" expanded="true" />
-            <element signature="e#24630#24636#0#HTML" expanded="true" />
-            <element signature="e#24852#24858#0#HTML" expanded="true" />
-            <element signature="e#24858#24864#0#HTML" expanded="true" />
-            <element signature="e#26230#26236#0#HTML" expanded="true" />
-            <element signature="e#26236#26242#0#HTML" expanded="true" />
-            <element signature="e#26458#26464#0#HTML" expanded="true" />
-            <element signature="e#26464#26470#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/telaInicialLogadoPlanilhaLateralEncolhida.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        <state relative-caret-position="51">
+          <caret line="3" column="129" lean-forward="false" selection-start-line="3" selection-start-column="129" selection-end-line="3" selection-end-column="129" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/telaInicialLogadoPlanilha.php">
+    <entry file="file://$PROJECT_DIR$/layout jocar/produtoIndividualLogadoBalcao.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        <state relative-caret-position="51">
+          <caret line="3" column="129" lean-forward="false" selection-start-line="3" selection-start-column="129" selection-end-line="3" selection-end-column="129" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fichaFinanceira.php">
+    <entry file="file://$PROJECT_DIR$/layout jocar/telaInicialLogadoGrid.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="43" />
-          <folding>
-            <marker date="1510180693046" expanded="false" signature="1445:1451" ph=" " />
-            <marker date="1510180693046" expanded="false" signature="1465:1471" ph=" " />
-            <marker date="1510180693046" expanded="false" signature="1621:1627" ph=" " />
-            <marker date="1510180693046" expanded="false" signature="1641:1647" ph=" " />
-            <marker date="1510180693046" expanded="false" signature="1781:1787" ph=" " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/telaInicialLogadoLista.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5899">
-          <caret line="347" column="32" lean-forward="false" selection-start-line="347" selection-start-column="32" selection-end-line="347" selection-end-column="32" />
+        <state relative-caret-position="132">
+          <caret line="65" column="28" lean-forward="false" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/telaInicialLogadoListaLateralEncolhida.php">
+    <entry file="file://$PROJECT_DIR$/layout jocar/telaInicialLogadoGridLateralEncolhida.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="132">
+          <caret line="65" column="28" lean-forward="false" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footerSemLogar.php">
+    <entry file="file://$PROJECT_DIR$/layout jocar/telaInicialLogadoLista.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="130" column="63" lean-forward="false" selection-start-line="130" selection-start-column="63" selection-end-line="130" selection-end-column="63" />
+        <state relative-caret-position="132">
+          <caret line="66" column="28" lean-forward="false" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footerLogado.php">
+    <entry file="file://$PROJECT_DIR$/layout jocar/telaInicialLogadoListaLateralEncolhida.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="129" column="3" lean-forward="false" selection-start-line="129" selection-start-column="3" selection-end-line="133" selection-end-column="7" />
+        <state relative-caret-position="132">
+          <caret line="67" column="28" lean-forward="false" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notasFiscais.php">
+    <entry file="file://$PROJECT_DIR$/layout jocar/telaInicialLogadoPlanilha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="72" column="36" lean-forward="false" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout jocar/telaInicialLogadoPlanilhaLateralEncolhida.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="73" column="36" lean-forward="false" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout jocar/telaInicialSemLogar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="64" column="28" lean-forward="false" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout jocar/telaInicialSemLogarLateralEncolhida.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="65" column="28" lean-forward="false" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout jocar/carrinho1Itens.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="47" column="24" lean-forward="false" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout jocar/produtoIndividualSemLogar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="129" lean-forward="false" selection-start-line="4" selection-start-column="129" selection-end-line="4" selection-end-column="129" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout jocar/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="308" column="23" lean-forward="false" selection-start-line="308" selection-start-column="23" selection-end-line="308" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout jocar/meusPedidos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
-          <caret line="208" column="0" lean-forward="true" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
-          <folding />
+          <caret line="201" column="34" lean-forward="false" selection-start-line="201" selection-start-column="34" selection-end-line="201" selection-end-column="34" />
+          <folding>
+            <element signature="e#4687#4693#0#HTML" expanded="true" />
+            <element signature="e#4693#4699#0#HTML" expanded="true" />
+            <element signature="e#4953#4959#0#HTML" expanded="true" />
+            <element signature="e#4959#4965#0#HTML" expanded="true" />
+            <element signature="e#5211#5217#0#HTML" expanded="true" />
+            <element signature="e#5217#5223#0#HTML" expanded="true" />
+            <element signature="e#5523#5529#0#HTML" expanded="true" />
+            <element signature="e#5529#5535#0#HTML" expanded="true" />
+            <element signature="e#7208#7214#0#HTML" expanded="true" />
+            <element signature="e#7214#7220#0#HTML" expanded="true" />
+            <element signature="e#7474#7480#0#HTML" expanded="true" />
+            <element signature="e#7480#7486#0#HTML" expanded="true" />
+            <element signature="e#7732#7738#0#HTML" expanded="true" />
+            <element signature="e#7738#7744#0#HTML" expanded="true" />
+            <element signature="e#8044#8050#0#HTML" expanded="true" />
+            <element signature="e#8050#8056#0#HTML" expanded="true" />
+            <element signature="e#9733#9739#0#HTML" expanded="true" />
+            <element signature="e#9739#9745#0#HTML" expanded="true" />
+            <element signature="e#9999#10005#0#HTML" expanded="true" />
+            <element signature="e#10005#10011#0#HTML" expanded="true" />
+            <element signature="e#10257#10263#0#HTML" expanded="true" />
+            <element signature="e#10263#10269#0#HTML" expanded="true" />
+            <element signature="e#10569#10575#0#HTML" expanded="true" />
+            <element signature="e#10575#10581#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sidebar.php">
+    <entry file="file://$PROJECT_DIR$/layout padrão/meusPedidos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="57" lean-forward="false" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="759" column="20" lean-forward="false" selection-start-line="759" selection-start-column="20" selection-end-line="759" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meusPedidos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="140" column="64" lean-forward="false" selection-start-line="140" selection-start-column="64" selection-end-line="140" selection-end-column="64" />
-          <folding />
+        <state relative-caret-position="328">
+          <caret line="44" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="201" selection-end-column="34" />
+          <folding>
+            <element signature="e#3707#3713#0#HTML" expanded="true" />
+            <element signature="e#3713#3719#0#HTML" expanded="true" />
+            <element signature="e#3939#3945#0#HTML" expanded="true" />
+            <element signature="e#3945#3951#0#HTML" expanded="true" />
+            <element signature="e#4163#4169#0#HTML" expanded="true" />
+            <element signature="e#4169#4175#0#HTML" expanded="true" />
+            <element signature="e#4441#4447#0#HTML" expanded="true" />
+            <element signature="e#4447#4453#0#HTML" expanded="true" />
+            <element signature="e#5559#5565#0#HTML" expanded="true" />
+            <element signature="e#5565#5571#0#HTML" expanded="true" />
+            <element signature="e#5791#5797#0#HTML" expanded="true" />
+            <element signature="e#5797#5803#0#HTML" expanded="true" />
+            <element signature="e#6015#6021#0#HTML" expanded="true" />
+            <element signature="e#6021#6027#0#HTML" expanded="true" />
+            <element signature="e#6293#6299#0#HTML" expanded="true" />
+            <element signature="e#6299#6305#0#HTML" expanded="true" />
+            <element signature="e#7946#7952#0#HTML" expanded="true" />
+            <element signature="e#7952#7958#0#HTML" expanded="true" />
+            <element signature="e#8212#8218#0#HTML" expanded="true" />
+            <element signature="e#8218#8224#0#HTML" expanded="true" />
+            <element signature="e#8470#8476#0#HTML" expanded="true" />
+            <element signature="e#8476#8482#0#HTML" expanded="true" />
+            <element signature="e#8782#8788#0#HTML" expanded="true" />
+            <element signature="e#8788#8794#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

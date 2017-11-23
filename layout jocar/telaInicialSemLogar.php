@@ -57,12 +57,12 @@
 						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
-							<span class="text">EMB<BR>04 UN</span>
+							<span class="text">EMB<BR>02 UN</span>
 						</a>
 						<center>
 						<a href="produtoIndividualSemLogar.php">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>						
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
@@ -76,7 +76,7 @@
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
@@ -89,12 +89,12 @@
 						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
-							<span class="text">EMB<BR>04 UN</span>
+							<span class="text">EMB<BR>02 UN</span>
 						</a>
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
@@ -109,12 +109,12 @@
 						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
-							<span class="text">EMB<BR>04 UN</span>
+							<span class="text">EMB<BR>02 UN</span>
 						</a>
 						<center>
 						<a href="produtoIndividualSemLogar.php">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>						
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
@@ -128,7 +128,7 @@
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
@@ -141,12 +141,12 @@
 						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
-							<span class="text">EMB<BR>04 UN</span>
+							<span class="text">EMB<BR>02 UN</span>
 						</a>
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
@@ -161,12 +161,12 @@
 						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
-							<span class="text">EMB<BR>04 UN</span>
+							<span class="text">EMB<BR>02 UN</span>
 						</a>
 						<center>
 						<a href="produtoIndividualSemLogar.php">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>						
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
@@ -180,7 +180,7 @@
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
@@ -193,12 +193,12 @@
 						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
-							<span class="text">EMB<BR>04 UN</span>
+							<span class="text">EMB<BR>02 UN</span>
 						</a>
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
@@ -213,12 +213,12 @@
 						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
-							<span class="text">EMB<BR>04 UN</span>
+							<span class="text">EMB<BR>02 UN</span>
 						</a>
 						<center>
 						<a href="produtoIndividualSemLogar.php">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>						
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
@@ -232,7 +232,7 @@
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
@@ -245,12 +245,12 @@
 						<div id="divProdutoGrid">
 						<a class="labelCaixa">
 							<img class="text-center iconeCaixa" src="img/icon/caixa.png" height="15" width="15">
-							<span class="text">EMB<BR>04 UN</span>
+							<span class="text">EMB<BR>02 UN</span>
 						</a>
 						<center>
 						<a href="#">
 						<img class="text-center" src="img/fotoProduto.jpg" height="150" width="150">
-						<h3>3 EM 1 FOSCO 18L BRANCO</h3></a>
+						<h3>KIT LÂMPADA DO FAROL - CERTA - H4 - 12V 60/55W</h3></a>
 						<small>Qt. Disp: 9</small>
 						<br>&nbsp;
 						<button type="button" class="btn btn-primary btn-lg btn-block btnProdutoFull">
