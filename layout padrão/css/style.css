@@ -77,6 +77,10 @@ textarea {
     .text-center-sm{
         text-align: center;
     }
+	
+	#divMenuLogotipo.affix #divImgLogotipo{
+		display: none !important;
+	}
 }
 
 .row {
