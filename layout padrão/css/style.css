@@ -191,9 +191,18 @@ select{
 
 	/* css do menu do logotipo barra de pesquisa, carrinho e notificação*/
 	#divMenuLogotipo{
-		padding-top: 40px;
+		padding-top: 20px;
 		line-height: 50px;
 		vertical-align: middle;
+		background: #fff;
+	}
+	
+	#divMenuLogotipo.affix{
+		position: fixed;
+		top: 0;
+		width: 100%;
+		z-index:10;
+		box-shadow: 0px 2px 1px #c5c5c5 !important;
 	}
 
 	#divMenuLogotipo #divImgLogotipo{
@@ -224,6 +233,10 @@ select{
 		height: 40px;
 		margin: 2px !important;
 		border-radius: 5px !important;
+	}
+	
+	#divPesquisa{
+		
 	}
 
 	/* Div do menu principal de tela inicial, meus pedidos, etc */

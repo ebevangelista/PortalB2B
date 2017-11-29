@@ -133,6 +133,15 @@ $(".input-number").keydown(function (e) {
         $(this).find('.dropdown-menu').stop(true, true).delay(1).fadeOut(1);
     });
 
+	$(document).ready(function() {
+    $('#divMenuLogotipo').affix({
+			offset: {
+				top: $('header').height()
+			}
+		});	
+	$('#divMenuLogotipo').affix('checkPosition')
+	});
+	
 	</script>
   </body>
 </html>
