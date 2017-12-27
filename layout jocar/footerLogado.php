@@ -170,14 +170,6 @@ $(document).ready(function () {
         else
             $("#selectPesquisa3Ano").hide();
     }
-
-    function ocultaPesquisa4Modelo() {
-        if ($("#selectPesquisa3Ano").val() != "Ano")
-            $("#selectPesquisa4Modelo").show();
-
-        else
-            $("#selectPesquisa4Modelo").hide();
-    }
 	</script>
   </body>
 </html>

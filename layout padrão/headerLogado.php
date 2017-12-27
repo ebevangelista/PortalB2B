@@ -24,7 +24,7 @@
   </head>
   <body>
 	<!--  Div de topo  -->
-	<div id="divTopo" class="container-fluid">
+	<header id="divTopo" class="container-fluid">
 		<div class="row">
 			<div class="col-md-1"></div>
 			<div class="col-md-3 text-center">LIMITE DE CRÉDITO: <strong>R$ 3.000,00</strong></div>
@@ -49,10 +49,10 @@
 			</div>
 			<div class="col-md-1"></div>
 		</div>
-	</div>
+	</header>
 	
 	<!--  MENU COM LOGOTIPO, PESQUISA, ÍCONES DE CARRINHO E NOTIFICAÇÃO  -->
-	<div id="divMenuLogotipo" class="container-fluid">
+	<div id="divMenuLogotipo" class="container-fluid navbar-static-top">
 		<div class="row">
 			<div class="col-md-1"></div>
 			<div class="col-md-2 text-center">
@@ -68,7 +68,6 @@
 			</div>
 
 			<div class="col-md-2 text-center form-inline">
-				
 				<div class="btn-group" role="group">
 					<div id="dropdownCarrinho" class="btn-group dropdown" role="group">
 					  <button id="btnCarrinho" class="btn btn-default dropdown-toggle" type="button" id="dropdownCarrinho" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
