@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ed30a38-6c98-4e64-a917-4cb94e02810f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layout jocar/img/banner.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/img/fotoProduto.jpg" afterPath="$PROJECT_DIR$/layout jocar/img/fotoProduto.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/img/logotipo.jpg" afterPath="$PROJECT_DIR$/layout jocar/img/logotipo.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/carrinho1Itens.php" afterPath="$PROJECT_DIR$/layout jocar/carrinho1Itens.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/carrinho4Visualizar.php" afterPath="$PROJECT_DIR$/layout jocar/carrinho4Visualizar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/css/style.css" afterPath="$PROJECT_DIR$/layout jocar/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/footerLogado.php" afterPath="$PROJECT_DIR$/layout jocar/footerLogado.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/headerLogado.php" afterPath="$PROJECT_DIR$/layout jocar/headerLogado.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/meusPedidos.php" afterPath="$PROJECT_DIR$/layout jocar/meusPedidos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/produtoIndividualLogado.php" afterPath="$PROJECT_DIR$/layout jocar/produtoIndividualLogado.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/produtoIndividualLogadoBalcao.php" afterPath="$PROJECT_DIR$/layout jocar/produtoIndividualLogadoBalcao.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/produtoIndividualSemLogar.php" afterPath="$PROJECT_DIR$/layout jocar/produtoIndividualSemLogar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/slider.php" afterPath="$PROJECT_DIR$/layout jocar/slider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialLogadoGrid.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialLogadoGrid.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialLogadoGridLateralEncolhida.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialLogadoGridLateralEncolhida.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialLogadoLista.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialLogadoLista.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialLogadoListaLateralEncolhida.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialLogadoListaLateralEncolhida.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialLogadoPlanilha.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialLogadoPlanilha.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialLogadoPlanilhaLateralEncolhida.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialLogadoPlanilhaLateralEncolhida.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialSemLogar.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialSemLogar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout jocar/telaInicialSemLogarLateralEncolhida.php" afterPath="$PROJECT_DIR$/layout jocar/telaInicialSemLogarLateralEncolhida.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout padrão/meusPedidos.php" afterPath="$PROJECT_DIR$/layout padrão/meusPedidos.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +12,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="carrinho1Itens.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/layout padrão/carrinho1Itens.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -150,6 +139,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,19 +150,12 @@
             <path>
               <item name="portalb2b" type="b2602c69:ProjectViewProjectNode" />
               <item name="portalb2b" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="layout jocar" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="portalb2b" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portalb2b" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="layout jocar" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layout padrão" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -211,18 +194,21 @@
       <workItem from="1510958565351" duration="1305000" />
       <workItem from="1511421878388" duration="4434000" />
       <workItem from="1511426389827" duration="252000" />
+      <workItem from="1513002587118" duration="203000" />
+      <workItem from="1513452643880" duration="15000" />
+      <workItem from="1514418540525" duration="1000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17479000" />
+    <option name="totallyTimeSpent" value="17698000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -233,6 +219,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -251,6 +238,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/layout padrão/carrinho1Itens.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/meusPedidos.php" />
     <entry file="file://$PROJECT_DIR$/telaInicialLogadoLista.php" />
     <entry file="file://$PROJECT_DIR$/telaInicialLogadoListaLateralEncolhida.php" />
@@ -277,7 +272,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="360" column="22" lean-forward="false" selection-start-line="360" selection-start-column="22" selection-end-line="360" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -285,7 +279,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="150" column="30" lean-forward="false" selection-start-line="150" selection-start-column="30" selection-end-line="150" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -293,7 +286,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -301,7 +293,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="74" column="24" lean-forward="false" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -309,7 +300,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="74" column="36" lean-forward="false" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -317,7 +307,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="129" lean-forward="false" selection-start-line="3" selection-start-column="129" selection-end-line="3" selection-end-column="129" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -325,7 +314,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="129" lean-forward="false" selection-start-line="3" selection-start-column="129" selection-end-line="3" selection-end-column="129" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -333,7 +321,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="65" column="28" lean-forward="false" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -341,7 +328,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="65" column="28" lean-forward="false" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -349,7 +335,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="66" column="28" lean-forward="false" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -357,7 +342,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="67" column="28" lean-forward="false" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -365,7 +349,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="72" column="36" lean-forward="false" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -373,7 +356,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="73" column="36" lean-forward="false" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -381,7 +363,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="64" column="28" lean-forward="false" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -389,15 +370,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="65" column="28" lean-forward="false" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layout jocar/carrinho1Itens.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="47" column="24" lean-forward="false" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -405,7 +377,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="129" lean-forward="false" selection-start-line="4" selection-start-column="129" selection-end-line="4" selection-end-column="129" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -413,7 +384,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
           <caret line="308" column="23" lean-forward="false" selection-start-line="308" selection-start-column="23" selection-end-line="308" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -421,32 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
           <caret line="201" column="34" lean-forward="false" selection-start-line="201" selection-start-column="34" selection-end-line="201" selection-end-column="34" />
-          <folding>
-            <element signature="e#4687#4693#0#HTML" expanded="true" />
-            <element signature="e#4693#4699#0#HTML" expanded="true" />
-            <element signature="e#4953#4959#0#HTML" expanded="true" />
-            <element signature="e#4959#4965#0#HTML" expanded="true" />
-            <element signature="e#5211#5217#0#HTML" expanded="true" />
-            <element signature="e#5217#5223#0#HTML" expanded="true" />
-            <element signature="e#5523#5529#0#HTML" expanded="true" />
-            <element signature="e#5529#5535#0#HTML" expanded="true" />
-            <element signature="e#7208#7214#0#HTML" expanded="true" />
-            <element signature="e#7214#7220#0#HTML" expanded="true" />
-            <element signature="e#7474#7480#0#HTML" expanded="true" />
-            <element signature="e#7480#7486#0#HTML" expanded="true" />
-            <element signature="e#7732#7738#0#HTML" expanded="true" />
-            <element signature="e#7738#7744#0#HTML" expanded="true" />
-            <element signature="e#8044#8050#0#HTML" expanded="true" />
-            <element signature="e#8050#8056#0#HTML" expanded="true" />
-            <element signature="e#9733#9739#0#HTML" expanded="true" />
-            <element signature="e#9739#9745#0#HTML" expanded="true" />
-            <element signature="e#9999#10005#0#HTML" expanded="true" />
-            <element signature="e#10005#10011#0#HTML" expanded="true" />
-            <element signature="e#10257#10263#0#HTML" expanded="true" />
-            <element signature="e#10263#10269#0#HTML" expanded="true" />
-            <element signature="e#10569#10575#0#HTML" expanded="true" />
-            <element signature="e#10575#10581#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -480,6 +424,21 @@
             <element signature="e#8782#8788#0#HTML" expanded="true" />
             <element signature="e#8788#8794#0#HTML" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout jocar/carrinho1Itens.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout padrão/carrinho1Itens.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
