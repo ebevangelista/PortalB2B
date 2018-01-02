@@ -109,6 +109,8 @@
 
                     </div>
 
+                    <!-- LAYOUT CARTÃO DE CRÉDITO -->
+
                     <div class="col-md-6">
                         <div class="row text-center">
                             <div class="col-md-2"></div>
@@ -117,6 +119,7 @@
                                     <center>
                                         <img width="50" height="50" src="img/icon/credit-card-alone.png"><br>
                                         <p><strong>Cartão de crédito</strong></p>
+                                        <!-- Quando cartão de crédito ou boleto estiver selecionado, acrescente um disabled="disabled" ao botão e um <strong> ao texto do nome -->
                                         <button type="button" class="btn btn-primary btn-sm btn-block btnProdutoMini" disabled="disabled"><strong>SELECIONAR</strong></button>
                                     </center>
                                 </div>
@@ -132,21 +135,155 @@
                             </div>
                             <div class="col-md-2"></div>
                         </div>
+                        <!-- Formulário do cartão de crédito -->
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label for="inputNumeroDoCartao" class="col-sm-4 control-label">Número do cartão:</label>
+                                    <div class="col-sm-8">
+                                        <input type="number" class="form-control" id="inputNumeroDoCartao" placeholder="" maxlength="16" max="16" aria-describedby="helpBlock">
+                                        <span id="helpBlock" class="help-block"><center><img src="img/bandeirasDeCartoes.png" width="200px" class="img-responsive img-rounded"></center></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label for="inputNomeNoCartao" class="col-sm-4 control-label">Nome no cartão:</label>
+                                    <div class="col-sm-8">
+                                        <input type="text" class="form-control" id="inputNomeNoCartao" placeholder="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <br>
+                                    <label for="inputMesValidade" class="col-sm-4 control-label">Validade:</label>
+                                    <div class="col-sm-4">
+                                        <select class="form-control">
+                                            <option>Janeiro</option>
+                                            <option>Fevereiro</option>
+                                            <option>Março</option>
+                                            <option>Abril</option>
+                                            <option>Maio</option>
+                                            <option>Junho</option>
+                                            <option>Julho</option>
+                                            <option>Agosto</option>
+                                            <option>Setembro</option>
+                                            <option>Outubro</option>
+                                            <option>Novembro</option>
+                                            <option>Dezembro</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <select class="form-control">
+                                            <option>2018</option>
+                                            <option>2019</option>
+                                            <option>2020</option>
+                                            <option>2021</option>
+                                            <option>2022</option>
+                                            <option>2023</option>
+                                            <option>2024</option>
+                                            <option>2025</option>
+                                            <option>2026</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <br>
+                                    <label for="inputCodigoDeSeguranca" class="col-sm-4 control-label">Código de Segurança:</label>
+                                    <div class="col-sm-8">
+                                        <input type="number" class="form-control" id="inputCodigoDeSeguranca" placeholder="" maxlength="3" max="3">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <br>
+                                    <label for="inputQuantidadeDeParcelas" class="col-sm-4 control-label">Parcelar em:</label>
+                                    <div class="col-sm-4">
+                                        <input type="number" class="form-control" id="inputQuantidadeDeParcelas" placeholder="" maxlength="2" max="2">
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <span id="helpBlock" class="help-block">Informe a quantidade de parcelas</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12 text-center">
+                                    <br>
+                                    <input type="checkbox" value="remember-me" id="rememberMe" name="rememberMe">&nbsp;&nbsp; Lembrar em compras futuras
+                            </div>
+                        </div>
+                        <div class="row text-right">
+                            <div class="col-md-4"></div>
+                            <div class="col-md-8">
+                                <br>
+                                <button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull"><strong>PAGAR COM CARTAO DE CRÉDITO</strong></button>
+                            </div>
+                        </div>
+
+                        <br><br><br>
+                        <!-- LAYOUT BOLETO -->
+
+                        <div class="row text-center">
+                            <div class="col-md-2"></div>
+                            <div class="col-md-4">
+                                <div class="well well-sm">
+                                    <center>
+                                        <img width="50" height="50" src="img/icon/credit-card-alone.png"><br>
+                                        <p>Cartão de crédito</p>
+                                        <!-- Quando cartão de crédito ou boleto estiver selecionado, acrescente um disabled="disabled" ao botão e um <strong> ao texto do nome -->
+                                        <button type="button" class="btn btn-primary btn-sm btn-block btnProdutoMini"><strong>SELECIONAR</strong></button>
+                                    </center>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="well well-sm">
+                                    <center>
+                                        <img width="50" height="50" src="img/icon/barcode.png"><br>
+                                        <p><Strong>Boleto bancário</Strong></p>
+                                        <button type="button" class="btn btn-primary btn-sm btn-block btnProdutoMini" disabled="disabled"> <strong>SELECIONAR</strong></button>
+                                    </center>
+                                </div>
+                            </div>
+                            <div class="col-md-2"></div>
+                        </div>
+                        <!-- Formulário do cartão de crédito -->
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="alert alert-warning" role="alert">
+                                    <strong><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>&nbsp;&nbsp;ATENÇÃO!</strong><br>
+                                    Só emitimos boletos do Banco do Brasil.<br>
+                                    Por favor, confira os dados antes de pagá-lo.
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="alert alert-info" role="alert">
+                                    <span class="glyphicon glyphicon-print" aria-hidden="true"></span> &nbsp; Imprima o boleto e <strong>pague no banco</strong>.
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="alert alert-info" role="alert">
+                                    <span class="glyphicon glyphicon-barcode" aria-hidden="true"></span> &nbsp; Você também pode pagar pela internet <strong> utilizando o código de barras</strong>.
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="alert alert-info" role="alert">
+                                    <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> &nbsp; O prazo de validade é de até <strong>1 dia útil</strong>.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row text-right">
+                            <div class="col-md-4"></div>
+                            <div class="col-md-8">
+                                <br>
+                                <button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull"><strong>PAGAR COM BOLETO</strong></button>
+                            </div>
+                        </div>
                     </div>
 				</div>
 				<br>
-				<div class="row text-right">
-					<div class="col-md-8"></div>
-					<div class="col-md-4">
-						<div class="row text-center">
-							<div class="col-md-12">
-								<h4><label>Qt. Itens:</label> <strong>2</strong></h4>
-								<h4><label>Valor total:</label> <strong>1.500,48</strong></h4>
-							</div>
-						</div>
-						<button type="button" class="btn btn-primary btn-lg btn-block btnComprar btnProdutoFull"><strong>FINALIZAR</strong></button>
-					</div>
-				</div>
 			</div>
         </div>
 		<div class="col-md-2"></div>

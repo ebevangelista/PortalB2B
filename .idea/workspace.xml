@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ed30a38-6c98-4e64-a917-4cb94e02810f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout padrão/carrinho2CondicoesComCartaoDeCredito.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout padrão/carrinho2CondicoesComCartaoDeCredito.php" afterPath="$PROJECT_DIR$/layout padrão/carrinho2CondicoesComCartaoDeCredito.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout padrão/css/style.css" afterPath="$PROJECT_DIR$/layout padrão/css/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,18 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="carrinho2CondicoesComCartaoDeCredito.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/layout padrão/carrinho2CondicoesComCartaoDeCredito.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="119" column="137" lean-forward="false" selection-start-line="119" selection-start-column="137" selection-end-line="119" selection-end-column="137" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -62,8 +51,8 @@
       <replace>EXCLUIR PEDIDO</replace>
     </replaceStrings>
     <dirStrings>
-      <dir>C:\xampp\htdocs\portalb2b</dir>
       <dir>C:\xampp\htdocs\portalb2b\layout jocar</dir>
+      <dir>C:\xampp\htdocs\portalb2b</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -105,6 +94,7 @@
         <option value="$PROJECT_DIR$/layout padrão/meusPedidos.php" />
         <option value="$PROJECT_DIR$/layout jocar/meusPedidos.php" />
         <option value="$PROJECT_DIR$/layout jocar/css/style.css" />
+        <option value="$PROJECT_DIR$/layout padrão/css/style.css" />
         <option value="$PROJECT_DIR$/layout padrão/carrinho2CondicoesComCartaoDeCredito.php" />
       </list>
     </option>
@@ -141,7 +131,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,6 +147,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -204,20 +194,22 @@
       <workItem from="1513002587118" duration="203000" />
       <workItem from="1513452643880" duration="15000" />
       <workItem from="1514418540525" duration="4268000" />
+      <workItem from="1514855228619" duration="4052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21965000" />
+    <option name="totallyTimeSpent" value="26017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -229,7 +221,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -244,6 +235,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/layout padrão/carrinho2CondicoesComCartaoDeCredito.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#11130#11136#0#HTML" expanded="true" />
+            <element signature="e#11136#11142#0#HTML" expanded="true" />
+            <element signature="e#13734#13740#0#HTML" expanded="true" />
+            <element signature="e#13740#13746#0#HTML" expanded="true" />
+            <element signature="e#14235#14241#0#HTML" expanded="true" />
+            <element signature="e#14601#14607#0#HTML" expanded="true" />
+            <element signature="e#15002#15008#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/layout padrão/carrinho1Itens.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -405,30 +412,30 @@
         <state relative-caret-position="328">
           <caret line="44" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="201" selection-end-column="34" />
           <folding>
-            <element signature="e#3707#3713#0#HTML" expanded="true" />
-            <element signature="e#3713#3719#0#HTML" expanded="true" />
-            <element signature="e#3939#3945#0#HTML" expanded="true" />
-            <element signature="e#3945#3951#0#HTML" expanded="true" />
-            <element signature="e#4163#4169#0#HTML" expanded="true" />
-            <element signature="e#4169#4175#0#HTML" expanded="true" />
-            <element signature="e#4441#4447#0#HTML" expanded="true" />
-            <element signature="e#4447#4453#0#HTML" expanded="true" />
-            <element signature="e#5559#5565#0#HTML" expanded="true" />
-            <element signature="e#5565#5571#0#HTML" expanded="true" />
-            <element signature="e#5791#5797#0#HTML" expanded="true" />
-            <element signature="e#5797#5803#0#HTML" expanded="true" />
-            <element signature="e#6015#6021#0#HTML" expanded="true" />
-            <element signature="e#6021#6027#0#HTML" expanded="true" />
-            <element signature="e#6293#6299#0#HTML" expanded="true" />
-            <element signature="e#6299#6305#0#HTML" expanded="true" />
-            <element signature="e#7946#7952#0#HTML" expanded="true" />
-            <element signature="e#7952#7958#0#HTML" expanded="true" />
-            <element signature="e#8212#8218#0#HTML" expanded="true" />
-            <element signature="e#8218#8224#0#HTML" expanded="true" />
-            <element signature="e#8470#8476#0#HTML" expanded="true" />
-            <element signature="e#8476#8482#0#HTML" expanded="true" />
-            <element signature="e#8782#8788#0#HTML" expanded="true" />
-            <element signature="e#8788#8794#0#HTML" expanded="true" />
+            <element signature="e#3707#3713#0#HTML" expanded="false" />
+            <element signature="e#3713#3719#0#HTML" expanded="false" />
+            <element signature="e#3939#3945#0#HTML" expanded="false" />
+            <element signature="e#3945#3951#0#HTML" expanded="false" />
+            <element signature="e#4163#4169#0#HTML" expanded="false" />
+            <element signature="e#4169#4175#0#HTML" expanded="false" />
+            <element signature="e#4441#4447#0#HTML" expanded="false" />
+            <element signature="e#4447#4453#0#HTML" expanded="false" />
+            <element signature="e#5559#5565#0#HTML" expanded="false" />
+            <element signature="e#5565#5571#0#HTML" expanded="false" />
+            <element signature="e#5791#5797#0#HTML" expanded="false" />
+            <element signature="e#5797#5803#0#HTML" expanded="false" />
+            <element signature="e#6015#6021#0#HTML" expanded="false" />
+            <element signature="e#6021#6027#0#HTML" expanded="false" />
+            <element signature="e#6293#6299#0#HTML" expanded="false" />
+            <element signature="e#6299#6305#0#HTML" expanded="false" />
+            <element signature="e#7946#7952#0#HTML" expanded="false" />
+            <element signature="e#7952#7958#0#HTML" expanded="false" />
+            <element signature="e#8212#8218#0#HTML" expanded="false" />
+            <element signature="e#8218#8224#0#HTML" expanded="false" />
+            <element signature="e#8470#8476#0#HTML" expanded="false" />
+            <element signature="e#8476#8482#0#HTML" expanded="false" />
+            <element signature="e#8782#8788#0#HTML" expanded="false" />
+            <element signature="e#8788#8794#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -448,11 +455,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/layout padrão/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="420" column="48" lean-forward="false" selection-start-line="420" selection-start-column="48" selection-end-line="420" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout padrão/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="810" column="30" lean-forward="false" selection-start-line="810" selection-start-column="30" selection-end-line="810" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/layout padrão/carrinho2CondicoesComCartaoDeCredito.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="119" column="137" lean-forward="false" selection-start-line="119" selection-start-column="137" selection-end-line="119" selection-end-column="137" />
-          <folding />
+        <state relative-caret-position="239">
+          <caret line="277" column="56" lean-forward="true" selection-start-line="277" selection-start-column="56" selection-end-line="277" selection-end-column="56" />
+          <folding>
+            <element signature="e#11130#11136#0#HTML" expanded="true" />
+            <element signature="e#11136#11142#0#HTML" expanded="true" />
+            <element signature="e#13734#13740#0#HTML" expanded="true" />
+            <element signature="e#13740#13746#0#HTML" expanded="true" />
+            <element signature="e#14235#14241#0#HTML" expanded="true" />
+            <element signature="e#14601#14607#0#HTML" expanded="true" />
+            <element signature="e#15002#15008#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -783,3 +783,30 @@ input.inputQuantidadeCompraMini{
 	padding: 5px 10px 5px 10px !important;
 	border-bottom: solid 1px #efefef !important;
 }
+
+/* Remove as setas do input tipo number*/
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	margin: 0;
+}
+
+/* Alinha texto dos inputs à esquerda */
+input[type=text], input[type=password], input[type=email], input[type=tel], input[type=number], input[type=date], select, option, textarea{
+	text-align: left !important;
+}
+
+/* Classe de divs com fundo colorido para ícones */
+.divIcone{
+	width: 30px !important;
+	height: 30px !important;
+	background: #034077 !important;
+	color: #fff !important;
+	line-height: 30px !important;
+	-webkit-border-radius: 30px !important;
+	-moz-border-radius: 30px !important;
+	border-radius: 30px !important;
+	display: inline !important;
+}
