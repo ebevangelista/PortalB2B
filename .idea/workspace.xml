@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ed30a38-6c98-4e64-a917-4cb94e02810f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout padrão/img/bandeirasDeCartoes.png" afterPath="$PROJECT_DIR$/layout padrão/img/bandeirasDeCartoes.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout padrão/carrinho2CondicoesComCartaoDeCredito.php" afterPath="$PROJECT_DIR$/layout padrão/carrinho2CondicoesComCartaoDeCredito.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout padrão/css/style.css" afterPath="$PROJECT_DIR$/layout padrão/css/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +13,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="carrinho2CondicoesComCartaoDeCredito.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/layout padrão/carrinho2CondicoesComCartaoDeCredito.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="224" column="56" lean-forward="false" selection-start-line="224" selection-start-column="56" selection-end-line="224" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -38,6 +49,7 @@
       <find>Kit lâmpada do farol - Certa - H4 - 12V 60/55W</find>
       <find>#003E79</find>
       <find>EXCLUIR ITEM</find>
+      <find>parcelas</find>
     </findStrings>
     <replaceStrings>
       <replace>!</replace>
@@ -131,6 +143,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,7 +160,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -195,21 +207,22 @@
       <workItem from="1513452643880" duration="15000" />
       <workItem from="1514418540525" duration="4268000" />
       <workItem from="1514855228619" duration="4052000" />
+      <workItem from="1515623084298" duration="1354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26017000" />
+    <option name="totallyTimeSpent" value="27371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -221,6 +234,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -239,15 +253,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#11130#11136#0#HTML" expanded="true" />
-            <element signature="e#11136#11142#0#HTML" expanded="true" />
-            <element signature="e#13734#13740#0#HTML" expanded="true" />
-            <element signature="e#13740#13746#0#HTML" expanded="true" />
-            <element signature="e#14235#14241#0#HTML" expanded="true" />
-            <element signature="e#14601#14607#0#HTML" expanded="true" />
-            <element signature="e#15002#15008#0#HTML" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -473,17 +479,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/layout padrão/carrinho2CondicoesComCartaoDeCredito.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="277" column="56" lean-forward="true" selection-start-line="277" selection-start-column="56" selection-end-line="277" selection-end-column="56" />
-          <folding>
-            <element signature="e#11130#11136#0#HTML" expanded="true" />
-            <element signature="e#11136#11142#0#HTML" expanded="true" />
-            <element signature="e#13734#13740#0#HTML" expanded="true" />
-            <element signature="e#13740#13746#0#HTML" expanded="true" />
-            <element signature="e#14235#14241#0#HTML" expanded="true" />
-            <element signature="e#14601#14607#0#HTML" expanded="true" />
-            <element signature="e#15002#15008#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="472">
+          <caret line="224" column="56" lean-forward="false" selection-start-line="224" selection-start-column="56" selection-end-line="224" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>

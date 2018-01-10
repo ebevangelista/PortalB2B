@@ -142,7 +142,13 @@
                                     <label for="inputNumeroDoCartao" class="col-sm-4 control-label">Número do cartão:</label>
                                     <div class="col-sm-8">
                                         <input type="number" class="form-control" id="inputNumeroDoCartao" placeholder="" maxlength="16" max="16" aria-describedby="helpBlock">
-                                        <span id="helpBlock" class="help-block"><center><img src="img/bandeirasDeCartoes.png" width="200px" class="img-responsive img-rounded"></center></span>
+                                        <span id="helpBlock" class="help-block"><center><img src="img/bandeirasDeCartoes.png" width="250px" class="img-responsive img-rounded"></center></span>
+                                        <span id="helpBlock" class="help-block"><center><img src="img/bandeirasDeCartoesMaster.png" width="250px" class="img-responsive img-rounded"></center></span>
+                                        <span id="helpBlock" class="help-block"><center><img src="img/bandeirasDeCartoesVisa.png" width="250px" class="img-responsive img-rounded"></center></span>
+                                        <span id="helpBlock" class="help-block"><center><img src="img/bandeirasDeCartoesAmerican.png" width="250px" class="img-responsive img-rounded"></center></span>
+                                        <span id="helpBlock" class="help-block"><center><img src="img/bandeirasDeCartoesDinners.png" width="250px" class="img-responsive img-rounded"></center></span>
+                                        <span id="helpBlock" class="help-block"><center><img src="img/bandeirasDeCartoesHipercard.png" width="250px" class="img-responsive img-rounded"></center></span>
+                                        <span id="helpBlock" class="help-block"><center><img src="img/bandeirasDeCartoesElo.png" width="250px" class="img-responsive img-rounded"></center></span>
                                     </div>
                                 </div>
                             </div>
@@ -202,10 +208,21 @@
                                 <div class="form-group">
                                     <br>
                                     <label for="inputQuantidadeDeParcelas" class="col-sm-4 control-label">Parcelar em:</label>
-                                    <div class="col-sm-4">
-                                        <input type="number" class="form-control" id="inputQuantidadeDeParcelas" placeholder="" maxlength="2" max="2">
+                                    <div class="col-sm-5">
+                                        <select class="form-control">
+                                            <option>1 x R$ 1.280,00</option>
+                                            <option>2 x R$ 640,00</option>
+                                            <option>3 x R$ 426,67</option>
+                                            <option>4 x R$ 320,00</option>
+                                            <option>5 x R$ 256,00</option>
+                                            <option>6 x R$ 213,33</option>
+                                            <option>7 x R$ 182,85</option>
+                                            <option>8 x R$ 160,00</option>
+                                            <option>9 x R$ 142,22</option>
+                                            <option>10 x R$ 128,00</option>
+                                        </select>
                                     </div>
-                                    <div class="col-sm-4">
+                                    <div class="col-sm-3">
                                         <span id="helpBlock" class="help-block">Informe a quantidade de parcelas</span>
                                     </div>
                                 </div>
